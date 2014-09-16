@@ -46,6 +46,7 @@ DATM		      :Atlanta DATM:199.998:00:-:ZTL:DATM:ZTL:DATM
 ;Operations Desk
 ZTL TMU:Atlanta TMU:199.998:00:C:ZTL:TMU:ZTL:TMU
 ZTL Flight Data:Atlanta Flight Watch:135.470:WX:C:ATL:CTR:ATL:CTR
+ZTL Clearance Delivery:Atlanta Center:124.250:CD:C:ATL:CTR:ATL:CTR
 
 ;Area 1
 ZTL Salem 42 High:Atlanta Center:120.720:42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
