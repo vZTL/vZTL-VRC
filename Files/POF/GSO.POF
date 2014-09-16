@@ -49,62 +49,62 @@ ZTL Flight Data:Atlanta Flight Watch:135.470:WX:C:ATL:CTR:ATL:CTR
 ZTL Clearance Delivery:Atlanta Center:124.250:CD:C:ATL:CTR:ATL:CTR
 
 ;Area 1
-ZTL Salem 42 High:Atlanta Center:120.720:42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
-ZTL Pulaski 43 High:Atlanta Center:132.970:43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
-ZTL Shine 44 Low:Atlanta Center:132.620:44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
-ZTL Bristol 45 Low:Atlanta Center:127.850:45:C:ATL:CTR:Bristol Low:ZTL 45:2001:2077
-ZTL Moped 47 Low:Atlanta Center:134.550:47:C:ATL:CTR:Moped Low:ZTL 47:2001:2077
-ZTL Wilkes 48 Ultra Low:Atlanta Center:125.150:48:C:ATL:CTR:Wilkes Ultra Low:ZTL 48:2001:2077
+ZTL Salem 42 High:Atlanta Center:120.720:C42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
+ZTL Pulaski 43 High:Atlanta Center:132.970:C43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
+ZTL Shine 44 Low:Atlanta Center:132.620:C44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
+ZTL Bristol 45 Low:Atlanta Center:127.850:C45:C:ATL:CTR:Bristol Low:ZTL 45:2001:2077
+ZTL Moped 47 Low:Atlanta Center:134.550:C47:C:ATL:CTR:Moped Low:ZTL 47:2001:2077
+ZTL Wilkes 48 Ultra Low:Atlanta Center:125.150:C48:C:ATL:CTR:Wilkes Ultra Low:ZTL 48:2001:2077
 
 ;Area 2
-ZTL Leeon 29 Low:Atlanta Center:128.800:29:C:ATL:CTR:Leeon Low:ZTL 29:2001:2077
-ZTL Locas 30 Low:Atlanta Center:133.150:30:C:ATL:CTR:Locas Low:ZTL 30:2001:2077
-ZTL Unarm 31 Low:Atlanta Center:135.350:31:C:ATL:CTR:Unarm Low:ZTL 31:2001:2077
-ZTL Spartanburg 32 High:Atlanta Center:125.620:32:C:ATL:CTR:Spartanburg High:ZTL 32:2001:2077
-ZTL Charlotte 33 Hi:Atlanta Center:124.420:33:C:ATL:CTR:Charlotte High:ZTL 33:2001:2077
-ZTL Georgia 34 High:Atlanta Center:120.420:34:C:ATL:CTR:Georgia High:ZTL 34:2001:2077
-ZTL High Rock 28 Ultra High:Atlanta Center:125.020:28:C:ATL:CTR:High Rock Ultra High:ZTL 28:2001:2077
+ZTL Leeon 29 Low:Atlanta Center:128.800:C29:C:ATL:CTR:Leeon Low:ZTL 29:2001:2077
+ZTL Locas 30 Low:Atlanta Center:133.150:C30:C:ATL:CTR:Locas Low:ZTL 30:2001:2077
+ZTL Unarm 31 Low:Atlanta Center:135.350:C31:C:ATL:CTR:Unarm Low:ZTL 31:2001:2077
+ZTL Spartanburg 32 High:Atlanta Center:125.620:C32:C:ATL:CTR:Spartanburg High:ZTL 32:2001:2077
+ZTL Charlotte 33 Hi:Atlanta Center:124.420:C33:C:ATL:CTR:Charlotte High:ZTL 33:2001:2077
+ZTL Georgia 34 High:Atlanta Center:120.420:C34:C:ATL:CTR:Georgia High:ZTL 34:2001:2077
+ZTL High Rock 28 Ultra High:Atlanta Center:125.020:C28:C:ATL:CTR:High Rock Ultra High:ZTL 28:2001:2077
 
 ;Area 3
-ZTL East Departure 16 Low:Atlanta Center:124.450:16:C:ATL:CTR:East Departure Low:ZTL 16:2001:2077
-ZTL Logen 49 Low:Atlanta Center:121.350:49:C:ATL:CTR:Logen Low:ZTL 49:2001:2077
-ZTL Commerce 18 Ultra Low:Atlanta Center:134.800:18:C:ATL:CTR:Commerce Ultra Low:ZTL 18:2001:2077
-ZTL Lanier 50 High:Atlanta Center:124.370:50:C:ATL:CTR:Lanier High:ZTL 50:2001:2077
-ZTL Baden 15 Ultra High:Atlanta Center:126.770:15:C:ATL:CTR:Baden Ultra High:ZTL 15:2001:2077
+ZTL East Departure 16 Low:Atlanta Center:124.450:C16:C:ATL:CTR:East Departure Low:ZTL 16:2001:2077
+ZTL Logen 49 Low:Atlanta Center:121.350:C49:C:ATL:CTR:Logen Low:ZTL 49:2001:2077
+ZTL Commerce 18 Ultra Low:Atlanta Center:134.800:C18:C:ATL:CTR:Commerce Ultra Low:ZTL 18:2001:2077
+ZTL Lanier 50 High:Atlanta Center:124.370:C50:C:ATL:CTR:Lanier High:ZTL 50:2001:2077
+ZTL Baden 15 Ultra High:Atlanta Center:126.770:C15:C:ATL:CTR:Baden Ultra High:ZTL 15:2001:2077
 
 ;Area 4
-ZTL Sinca 19 Low:Atlanta Center:123.950:42:C:ATL:CTR:Sinca Low:ZTL 19:2001:2077
-ZTL South Departure 21 Low:Atlanta Center:134.500:21:C:ATL:CTR:South Departure Low:ZTL 21:2001:2077
-ZTL Augusta 24 Low:Atlanta Center:135.550:24:C:ATL:CTR:Augusta Low:ZTL 24:2001:2077
-ZTL Dublin 20 High:Atlanta Center:126.420:20:C:ATL:CTR:Dublin High:ZTL 20:2001:2077
-ZTL Macon 22 High:Atlanta Center:119.370:22:C:ATL:CTR:Macon High:ZTL 22:2001:2077
-ZTL Clark Hill 23 Ultra High:Atlanta Center:124.320:23:C:ATL:CTR:Clark Hill Ultra High:ZTL 23:2001:2077
-ZTL Hampton 27 Ultra High:Atlanta Center:125.820:27:C:ATL:CTR:Hampton 27 Ultra High:ZTL 27:2001:2077
+ZTL Sinca 19 Low:Atlanta Center:123.950:C42:C:ATL:CTR:Sinca Low:ZTL 19:2001:2077
+ZTL South Departure 21 Low:Atlanta Center:134.500:C21:C:ATL:CTR:South Departure Low:ZTL 21:2001:2077
+ZTL Augusta 24 Low:Atlanta Center:135.550:C24:C:ATL:CTR:Augusta Low:ZTL 24:2001:2077
+ZTL Dublin 20 High:Atlanta Center:126.420:C20:C:ATL:CTR:Dublin High:ZTL 20:2001:2077
+ZTL Macon 22 High:Atlanta Center:119.370:C22:C:ATL:CTR:Macon High:ZTL 22:2001:2077
+ZTL Clark Hill 23 Ultra High:Atlanta Center:124.320:C23:C:ATL:CTR:Clark Hill Ultra High:ZTL 23:2001:2077
+ZTL Hampton 27 Ultra High:Atlanta Center:125.820:C27:C:ATL:CTR:Hampton 27 Ultra High:ZTL 27:2001:2077
 
 ;Area 5
-ZTL Tiroe 09 Low:Atlanta Center:120.450:09:C:ATL:CTR:Tiroe 09 Low:ZTL 09:2001:2077
-ZTL Birmingham 12 Low:Atlanta Center:127.300:12:C:ATL:CTR:Birmingham Low:ZTL 12:2001:2077
-ZTL Montgomery 13 Low:Atlanta Center:120.550:13:C:ATL:CTR:Montgomery Low:ZTL 13:2001:2077
-ZTL Maxwell 14 Low:Atlanta Center:132.250:14:C:ATL:CTR:Maxwell Low:ZTL 14:2001:2077
-ZTL LaGrange 10 High:Atlanta Center:125.570:10:C:ATL:CTR:LaGrange High:ZTL 10:2001:2077
-ZTL Monroeville 11 High:Atlanta Center:128.020:11:C:ATL:CTR:Monroeville High:ZTL 11:2001:2077
-ZTL Martin Lake 08 Ultra High:Atlanta Center:125.870:08:C:ATL:CTR:Martin Lake Ultra High:ZTL 08:2001:2077
+ZTL Tiroe 09 Low:Atlanta Center:120.450:C09:C:ATL:CTR:Tiroe 09 Low:ZTL 09:2001:2077
+ZTL Birmingham 12 Low:Atlanta Center:127.300:C12:C:ATL:CTR:Birmingham Low:ZTL 12:2001:2077
+ZTL Montgomery 13 Low:Atlanta Center:120.550:C13:C:ATL:CTR:Montgomery Low:ZTL 13:2001:2077
+ZTL Maxwell 14 Low:Atlanta Center:132.250:C14:C:ATL:CTR:Maxwell Low:ZTL 14:2001:2077
+ZTL LaGrange 10 High:Atlanta Center:125.570:C10:C:ATL:CTR:LaGrange High:ZTL 10:2001:2077
+ZTL Monroeville 11 High:Atlanta Center:128.020:C11:C:ATL:CTR:Monroeville High:ZTL 11:2001:2077
+ZTL Martin Lake 08 Ultra High:Atlanta Center:125.870:C08:C:ATL:CTR:Martin Lake Ultra High:ZTL 08:2001:2077
 
 ;Area 6
-ZTL West Departure 04 Low:Atlanta Center:134.950:04:C:ATL:CTR:West Departure Low:ZTL 04:2001:2077
-ZTL Dalas 05 Low:Atlanta Center:121.320:05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
-ZTL Rome 01 Ultra Low:Atlanta Center:135.170:01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
-ZTL Gadsden 03 High:Atlanta Center:128.720:03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
-ZTL Rocket 06 Ultra High:Atlanta Center:133.170:06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
-ZTL Gunter 02 Ultra High:Atlanta Center:126.82:02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
+ZTL West Departure 04 Low:Atlanta Center:134.950:C04:C:ATL:CTR:West Departure Low:ZTL 04:2001:2077
+ZTL Dalas 05 Low:Atlanta Center:121.320:C05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
+ZTL Rome 01 Ultra Low:Atlanta Center:135.170:C01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
+ZTL Gadsden 03 High:Atlanta Center:128.720:C03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
+ZTL Rocket 06 Ultra High:Atlanta Center:133.170:C06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
+ZTL Gunter 02 Ultra High:Atlanta Center:126.82:C02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
 
 ;Area 7
-ZTL North Departure 38 Low:Atlanta Center:133.100:38:C:ATL:CTR:North Departure Low:ZTL 38:2001:2077
-ZTL Hinch Mountain 41 Low:Atlanta Center:133.600:41:C:ATL:CTR:Hinch Mountain Low:ZTL 41:2001:2077
-ZTL Crossville 37 High:Atlanta Center:126.670:37:C:ATL:CTR:Crossville High:ZTL 37:2001:2077
-ZTL Burne 39 High:Atlanta Center:125.920:39:C:ATL:CTR:Burne High:ZTL 39:2001:2077
-ZTL Allatoona 36 Ultra High:Atlanta Center:124.870:36:C:ATL:CTR:Allatoona Ultra High:ZTL 36:2001:2077
-ZTL Blue Ridge 40 Ultra High:Atlanta Center:134.070:40:C:ATL:CTR:Blue Ridge Ultra High:ZTL 40:2001:2077
+ZTL North Departure 38 Low:Atlanta Center:133.100:C38:C:ATL:CTR:North Departure Low:ZTL 38:2001:2077
+ZTL Hinch Mountain 41 Low:Atlanta Center:133.600:C41:C:ATL:CTR:Hinch Mountain Low:ZTL 41:2001:2077
+ZTL Crossville 37 High:Atlanta Center:126.670:C37:C:ATL:CTR:Crossville High:ZTL 37:2001:2077
+ZTL Burne 39 High:Atlanta Center:125.920:C39:C:ATL:CTR:Burne High:ZTL 39:2001:2077
+ZTL Allatoona 36 Ultra High:Atlanta Center:124.870:C36:C:ATL:CTR:Allatoona Ultra High:ZTL 36:2001:2077
+ZTL Blue Ridge 40 Ultra High:Atlanta Center:134.070:C40:C:ATL:CTR:Blue Ridge Ultra High:ZTL 40:2001:2077
 
 ; ZDC - Washington Center Area A
 ; ******************************

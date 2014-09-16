@@ -50,12 +50,12 @@ ZTL Clearance Delivery:Atlanta Center:124.250:CD:C:ATL:CTR:ATL:CTR
 
 
 ;Area 1
+ZTL Salem 42 High:Atlanta Center:120.720:C42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
+ZTL Pulaski 43 High:Atlanta Center:132.970:C43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
 ZTL Shine 44 Low:Atlanta Center:132.620:C44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
 ZTL Bristol 45 Low:Atlanta Center:127.850:C45:C:ATL:CTR:Bristol Low:ZTL 45:2001:2077
 ZTL Moped 47 Low:Atlanta Center:134.550:C47:C:ATL:CTR:Moped Low:ZTL 47:2001:2077
 ZTL Wilkes 48 Ultra Low:Atlanta Center:125.150:C48:C:ATL:CTR:Wilkes Ultra Low:ZTL 48:2001:2077
-ZTL Salem 42 High:Atlanta Center:120.720:C42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
-ZTL Pulaski 43 High:Atlanta Center:132.970:C43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
 
 ;Area 2
 ZTL Leeon 29 Low:Atlanta Center:128.800:C29:C:ATL:CTR:Leeon Low:ZTL 29:2001:2077
@@ -93,11 +93,11 @@ ZTL Martin Lake 08 Ultra High:Atlanta Center:125.870:C08:C:ATL:CTR:Martin Lake U
 
 ;Area 6
 ZTL West Departure 04 Low:Atlanta Center:134.950:C04:C:ATL:CTR:West Departure Low:ZTL 04:2001:2077
-ZTL Dalas 05 Low:Atlanta Center:132.050:C05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
+ZTL Dalas 05 Low:Atlanta Center:121.320:C05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
 ZTL Rome 01 Ultra Low:Atlanta Center:135.170:C01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
 ZTL Gadsden 03 High:Atlanta Center:128.720:C03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
 ZTL Rocket 06 Ultra High:Atlanta Center:133.170:C06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
-ZTL Gunter 02 Ultra High:Atlanta Center:126.820:C02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
+ZTL Gunter 02 Ultra High:Atlanta Center:126.82:C02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
 
 ;Area 7
 ZTL North Departure 38 Low:Atlanta Center:133.100:C38:C:ATL:CTR:North Departure Low:ZTL 38:2001:2077
