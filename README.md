@@ -1,7 +1,10 @@
 vZTL-VRC
 ========
 
-Version 1.1 Announcement 
+vZTL VRC is a co-release of both Virtual Radar Client (VRC) and vZTL add-on files. 
+
+
+<b>Version 1.1 Announcement</b> 
 
 http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/71-vztl-vrc-v1-1
 
