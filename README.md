@@ -4,28 +4,28 @@ vZTL-VRC
 vZTL VRC is a co-release of both Virtual Radar Client (VRC) and vZTL add-on files. 
 
 
-<b>Version 1.1 Announcement</b> 
+<h2>Version 1.1 Announcement<h2> 
 
 http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/71-vztl-vrc-v1-1
 
-[u]Attention vZTL Controllers,[/b][/u]
+<u>Attention vZTL Controllers,</b></u>
 
 vZTL VRC Version 1.1 has been released. 
 A full publishing of the release notes are available in the Facility Documentation and Software forum.
 
-[b][u]Updates:[/b][/u]
+<b><u>Updates:</b></u>
 ATL Class Bravo Airspace
 AIRAC from 1113 to 1303
 POF
 Notice of closing towers on 4/7/2013
-[i]MCN ATCT, AHN ATCT, TCL ATCT, GHY ATCT, HKY ATCT, INT ATCT, JQF ATCT, LZU ATCT, RYY ATCT[/i]
+<i>MCN ATCT, AHN ATCT, TCL ATCT, GHY ATCT, HKY ATCT, INT ATCT, JQF ATCT, LZU ATCT, RYY ATCT</i>
 Fixed Visibility Centers for all towers.
 
-Please download and install the new version of vZTL VRC by [url="https://dl.dropbox.com/u/19546261/vZTL%20VRC.exe"]Clicking Here[/url]. 
+Please download and install the new version of vZTL VRC by <url="https://dl.dropbox.com/u/19546261/vZTL%20VRC.exe">Clicking Here</url>. 
 
-For Questions or Support please utilize the Facility Documentation and Software Forum - [url="http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software"]Click Here[/url]
+For Questions or Support please utilize the Facility Documentation and Software Forum - <url="http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software">Click Here</url>
 
-Or submit a support ticket [url="http://www.vztlartcc.net/index.php/contactus/support-ticket"]Here[/url]
+Or submit a support ticket <url="http://www.vztlartcc.net/index.php/contactus/support-ticket">Here</url>
 
 1.1 Update Explanations:
 ATL Class Bravo Airspace:
@@ -52,23 +52,23 @@ Version 1.2 Announcement
 
 http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/106-vztl-vrc-v1-2
 
-[b][u]Attention vZTL Controllers,[/b][/u]
+<b><u>Attention vZTL Controllers,</b></u>
 
 vZTL VRC Version 1.2 has been released. 
 A full publishing of the release notes are available in the Facility Documentation and Software forum.
 
-[b][u]Updates:[/b][/u]
-[b]v1.2[/b]
+<b><u>Updates:</b></u>
+<b>v1.2</b>
 AIRAC 1303 to 1305
 NEW ATL ARRIVALs
 Removed closing tower notices
 Added ATL and CLT Class B maps to Enroute Sector File
 
-Please download and install the new version of vZTL VRC by [url="https://dl.dropbox.com/u/19546261/vZTL%20VRC.exe"]Clicking Here[/url]. 
+Please download and install the new version of vZTL VRC by <url="https://dl.dropbox.com/u/19546261/vZTL%20VRC.exe">Clicking Here</url>. 
 
-For Questions or Support please utilize the Facility Documentation and Software Forum - [url="http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/106-vztl-vrc-v1-2"]Click Here[/url]
+For Questions or Support please utilize the Facility Documentation and Software Forum - <url="http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/106-vztl-vrc-v1-2">Click Here</url>
 
-Or submit a support ticket [url="http://www.vztlartcc.net/index.php/contactus/support-ticket"]Here[/url]
+Or submit a support ticket <url="http://www.vztlartcc.net/index.php/contactus/support-ticket">Here</url>
 
 1.1 Update Explanations:
 
@@ -103,11 +103,11 @@ Bug fix of POF file for ZTL DALAS sector
 Added Multiple ZME/ZDC/ZJX Approch Areas to ZTL Map
 
 
-Please download and install the new version of vZTL VRC by [url=https://dl.dropboxusercontent.com/u/19546261/vZTL%20VRC.exe]Clicking Here[/url]. 
+Please download and install the new version of vZTL VRC by <url=https://dl.dropboxusercontent.com/u/19546261/vZTL%20VRC.exe>Clicking Here</url>. 
 
-For Questions or Support please utilize the Facility Documentation and Software Forum - [url=http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/]Click Here[/url]
+For Questions or Support please utilize the Facility Documentation and Software Forum - <url=http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/>Click Here</url>
 
-[url=http://www.vztlartcc.net/index.php/contactus/support]Or submit a support ticket Here[/url]
+<url=http://www.vztlartcc.net/index.php/contactus/support>Or submit a support ticket Here</url>
 
 
 
