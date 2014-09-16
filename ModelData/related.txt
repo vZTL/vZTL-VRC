@@ -1,0 +1,242 @@
+; This file specifies aircraft equipment types that are very similar to one another
+;
+;
+; Semicolons for comments
+; Whitespace ignored
+; Each line contains a group of whitespace delimited equipment codes that are visually similar.
+; No equipment code can occur in the file more than once.
+
+; Jet 4 engine
+;
+; Airbus A340 series
+;
+A342 A343 A345 A346
+
+; Avro / BAe 146 series 4 engine "Jumbolino" jet
+;
+B461 B462 B463 RJ1H RJ70 RJ85
+
+; Boeing 707 series
+;
+B701 B703 B720 K35A K35E K35R E3CF E3TF C135
+
+; Boeing 747 series
+;
+B741 B742 B743 B744 B74D B74R B74S BSCA
+
+; Convair Jetliners
+;
+_CV8 CV99
+
+; DC-8 series
+;
+DC85 DC86 DC87
+
+; Ilyushin
+;
+IL86 IL96
+
+; Supersonic aircraft
+;
+CONC T144 B1
+
+; Tailmounted engines
+; Currently no model available
+;
+VC10 IL62
+
+
+; Classic 4-mot propliners
+; Currently no model available
+;
+DC4 DC6 DC7 P3
+
+
+; Jet 3 engine
+;
+; Boeing 727 series & Tupolev
+;
+B721 B722 T154 R722 TRID YK42
+
+; DC-10 / MD-11 Series
+;
+DC10 MD11
+
+
+; Jet 2 engine
+;
+; Airbus A300 series
+;
+A306 A30B
+
+; Airbus A320 series
+;
+A318 A319 A320 A321 E170 E190
+
+; Airbus A330 series
+;
+A332 A333
+
+; Boeing 737 series
+;
+B731 B732 B733 B734 B735 B736 B737 B738 B739 E737 
+
+; Boeing 757 series
+;
+B752 B753 T204
+
+; Boeing 767 series
+;
+B762 B763 B764 E767
+
+; Boeing 777 series
+;
+B772 B773
+
+; DC-9 series
+;
+DC91 DC92 DC93 DC94 DC95 T134 S210
+
+; MD-80/MD-90 series
+;
+MD81 MD82 MD83 MD87 MD88 MD90 B712
+
+
+; Regional Jets
+;
+; Canadair & Embraer
+;
+CRJ1 CRJ2 CRJ7 CRJ9 CL60 E135 E145 E45X
+
+; Fokker, BAC, Gulfstream
+;
+F28 F70 F100 BA11 GL5T GLEX ASTR
+
+
+; Business Jets
+;
+; Learjet, Gulfstream, Citation
+;
+BE40 C25A C25B C500 C501 C525 C526 C550 C551 C560 C56X C650 C680 C750 CL30 G150 GALX GLF2 GLF3 GLF4 GLF5 LJ45 LJ24 LJ31 LJ35 LJ40 LJ55 LJ60 EA50 PRM1 F900 F2TH FA10 FA20 FA50 FA7X H25B YK40
+
+
+; Commuters
+;
+; ATR props
+;
+AT43 AT44 AT45 AT72 D328 AN24 AN26 F27 F50 F60
+
+; Shoulder wing 2-mot prop
+;
+AC50 AC56 AC68 AC6L AC72 AC80 AC90 L410 L610 SH36
+
+; BAe Jetstream Series
+;
+JS31 JS32 JS41 ATP
+
+; Embraer, Gulf, Saab, Mitsubishi Turboprops
+;
+E110 E120 G159 SB20 SF34 YS11 A748 IL14 SW4 ATLA L188
+
+; Fokker Props
+; Due to popular demand matched on ATR aircraft until model becomes available 
+;
+; F27 F50 F60
+
+
+; Amphibians
+; Currently no model available
+;
+CAT G21 G44 G73 G73T U16
+
+; Beavers and Otters
+;
+DH2T DH3T DHC2 DHC3 DHC6 D228
+
+
+; Biplane
+; Currently no model available
+;
+BIPL CAML G164 G64T PTMS PTS1 PTS2 PTSS AN2 ST75
+
+
+; Motorized Sailplanes / Gliders
+;
+; Diamond Aircraft and gliders
+; currently no model available
+;
+DA40 DA42 DIMO DV20 DG40 DG50 DG60 DG80 DISC JANU NIMB VENT LS9 GLID HU1 HU2 PA38 SF24 SF25 G115
+
+; GA 1-mot tail dragger
+;
+BL8 BL17 B14A BE33 BE35 BE36 B36T J2 J3 J4 J5 PA11 PA12 PA14 PA15 PA16 PA17 PA18 PA20 PA22 SF23
+
+; 1-mot prop trainers
+; Currently no model available
+;
+DHC1 E300 E314 F260 HURI SPIT SPT1 P51 PC7 PC9 T34P T6 TEX2 TUCA
+
+; Cessna 1-mot
+;
+C120 C140 C150 C152 C170 C172 C175 C177 C180 C182 C185 C188 C190 C195 C205 C206 C207 C208 C210 C72R C82R C77R CMAS ULAC P210
+
+; Maule
+; Currently no model available
+;
+M4 M5 M6 M7 M7T M8 PC6P PC6T
+
+; Mooney 1-mot
+;
+M20T M20P AC11 SR20 SR22 LEG2
+
+; Piper 1-mot
+;
+P28A P28B P28R P28T P32R P32T P46T PA24 PA25 PA32 PA36 PA46 PILL S108 DR40 TBM7 TOBA Z42
+
+
+; TwinProps
+;
+; Beech King Air Twins
+;
+B18T B190 B350 BE10 BE18 BE20 BE30 BE50 BE55 BE56 BE58 BE60 BE65 BE70 BE76 BE80 BE88 BE95 BE99 BE9L BE9T
+
+; Cessna Twins
+;
+C02T C04T C14T C21T C303 C310 C320 C340 C402 C404 C411 C414 C421 C425 C441 F406 GA7 T50
+
+; Cessna Push / Pull
+; Currently no model available
+;
+C335 C336 C337 P337
+
+; Piper Twins
+;
+AEST PA23 PA27 PA30 PA31 PA34 PA44 PAT4 PAY1 PAY2 PAY3 PAY4
+
+
+; Helicopters
+;
+A109 A119 A129 ALH ALO2 ALO3 ANST AS32 AS50 AS55 AS65 B06 B06T B105 B209 B212 B214 B222 B230 B305 B407 B412 B427 B430 B47G B47J B47T BABY BK17 BRB2 BSTP CH7 COMU DJIN DRAG EC20 EC25 EC30 EC35 EC45 EC55 EH10 ELTO EN28 EN48 EXEC EXPL FH11 FREL GAZL GYRO H12T H2 H21 H269 H43A H43B H46 H47 H500 H53 H53S H60 H64 H66 HUCO IS2 JAG2 K126 K226 KA25 KA27 KA50 KA52 KA62 KH4 KMAX LAMA LR2T LYNX M34V M74 MD52 MD60 MH20 MI10 MI14 MI2 MI24 MI26 MI28 MI34 MI38 MI4 MI6 MI8 NA40 NH90 OH1 PHIL PSW4 PUMA R22 R4 R44 RMOU RP1 RVAL S330 S360 S51 S52 S55 S55P S55T S58 S58P S58T S61 S61R S62 S64 S65 S65C S76 S92 SCOR SCOU SH4 SUCO SYCA TIGR UH1 UH12 ULTS V500 W3 WASP WESX WG30
+
+
+; Military jets
+; All matched on F15
+;
+A6 A10 AJET CL41 ETAR EUFI F4 F5 F14 F15 F16 F18 F22 F35 F104 F111 JPRO HAWK HAR MG29 MG31 MIRA MIR2 MIR4 MRF1 S3 T38 TOR
+
+
+; Heavylift aircraft
+; Currently no model available
+;
+A124 A225 B52 C5 C17 C141 IL76
+
+; Military Prop Transporters
+; Currently no model available
+;
+C130 C160
+
+
+; 2-mot bombers WW2
+; Currently no model available
+;
+B25 L37

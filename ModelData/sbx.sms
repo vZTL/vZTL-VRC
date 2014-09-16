@@ -1,0 +1,26 @@
+SBX
+SquawkBox 3 Default Models
+Copyright 2004-2005 Joel M. DeYoung
+http://squawkbox.ca
+
+; Standard FS aircraft (namely ones not in VIP3 set)
+;
+SBX_BE58  BE58
+SBX_BE20  BE20
+SBX_C172  C172
+SBX_LJ45  LJ45
+SBX_M20T  M20T
+SBX_J3    J3
+SBX_B06   B06
+
+; Other aircraft
+;
+SBX_B722  B722
+SBX_P28A  P28A
+SBX_PA34  PA34
+SBX_C402  C402
+SBX_PC12  PC12
+SBX_AC50  AC50
+
+
+

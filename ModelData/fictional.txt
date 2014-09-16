@@ -1,0 +1,70 @@
+; Defunct real-world airlines (that no longer have a valid ICAO code)
+;
+_2T Canada 3000
+_AN Ansett Australia Airlines
+_AR Armenian Airlines
+_BB Balair
+_BN Braniff
+_BX Pacific Southwest Airlines
+_CA Canadian Airlines
+_CP Canadian Pacific
+_EA Eastern Airlines
+_EV Evergreen International Airlines
+_FT Flying Tigers
+_FU Air Littoral
+_IK Tradewinds
+_IW AOM French Airlines
+_NC North Central Airlines
+_RP Republic Airlines
+_SL Southeast Airlines
+_SO Sobelair
+_SP Spantax
+_TW TWA
+
+; Fictonal airlines
+;
+_AD Air Canadian
+_AF American Flight Airways
+_AP Air Puertorico
+_AS Atlantic Sun Airways
+_AT AeroTexas Aviation International
+_AV Altair Virtual
+_AZ Aztec Airways
+_CC Canada Charters and Cargo
+_CD Cascade Virtual Airlines
+_CY Cyber Air
+_DL Dolphin Air
+_EM Emerald Airlines
+_ES Eurostar Virtual Airlines
+_FF Tower Air
+_GE German Air Express
+_IF IFC Virtual Airlines
+_JB JBH Airlines
+_KA Kad-Air Virtual
+_KS Kszersz Air
+_KV Korean Virtual Airways
+_LW Livewire Airlines
+_LZ Leipzig Airlines
+_MA America Airways
+_NB Noble Airlines
+_OA Olympic Airways Virtual
+_OV Ozark Virtual
+_PA Pacific Airways
+_PC Poland Cargo
+_PD Pacific Direct Airlines
+_PS Pacific Southwest Airlines
+_PW Pacific West Airways
+_PX Phoenix Virtual Flight Services
+_SA Scot Air
+_SG Aegean Seagull
+_SK Southern Sky Aviation
+_SN Skyline
+_SY SkyEast Airlines
+_UC Virtual US Coast Guard
+_UD UK Direct
+_WA Westair Airlines
+_WK Weekend Air
+_WT World Travel Airline
+_WW Westwind Airlines
+_YM Compass Airlines
+

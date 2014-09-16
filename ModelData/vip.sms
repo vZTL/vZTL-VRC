@@ -1,0 +1,2274 @@
+VIP
+VIP3 Model Set
+Copyright 2003-2005 Jun Takahashi
+http://juntakahashi.nttverio.jp/vip3web/
+VIP_B733AAA B733 _AN  ; Boeing 737-300, visible as B733
+VIP_B734AAA B734 _AN  ; Boeing 737-400, visible as B733
+VIP_A320AAA A320 _AN  ; Airbus Industrie A320, visible as A320
+VIP_B762AAA B762 _AN  ; Boeing 767-200, visible as B762
+VIP_B763AAA B763 _AN  ; Boeing 767-300, visible as B763
+VIP_B743AAA B743 _AN  ; Boeing 747-300, visible as B743
+VIP_B744AAA B744 _AN  ; Boeing 747-400, visible as B744
+VIP_B462AAA B462 _AN  ; BAe146-200, visible as BA462
+VIP_A321AAF A321 AAF  ; Airbus Industrie A321-100/200, visible as A321                                                      
+VIP_B733AAF B733 AAF  ; Boeing 737-300, visible as B733
+VIP_B734AAF B734 AAF  ; Boeing 737-400, visible as B733
+VIP_B735AAF B735 AAF  ; Boeing 737-500, visible as B733
+VIP_B736AAF B736 AAF  ; Boeing 737-600, visible as B733
+VIP_B737AAF B737 AAF  ; Boeing 737-700, visible as B733
+VIP_AT45AAG AT45 AAG  ; ATR.42-300, visible as ATR45
+VIP_B732AAH B732 AAH  ; Boeing 737-200, visible as B732
+VIP_B733AAH B733 AAH  ; Boeing 737-300, visible as B733
+VIP_B734AAH B734 AAH  ; Boeing 737-400, visible as B733
+VIP_B735AAH B735 AAH  ; Boeing 737-500, visible as B733
+VIP_B736AAH B736 AAH  ; Boeing 737-600, visible as B733
+VIP_B737AAH B737 AAH  ; Boeing 737-700, visible as B733
+VIP_B738AAH B738 AAH  ; Boeing 737-800, visible as B738
+VIP_A30BAAL A30B AAL  ; Airbus Industrie A300-600, visible as A30B
+VIP_B733AAL B733 AAL  ; Boeing 737-300, visible as B733
+VIP_B734AAL B734 AAL  ; Boeing 737-400, visible as B733
+VIP_B735AAL B735 AAL  ; Boeing 737-500, visible as B733
+VIP_B736AAL B736 AAL  ; Boeing 737-600, visible as B733
+VIP_B737AAL B737 AAL  ; Boeing 737-700, visible as B733
+VIP_B738AAL B738 AAL  ; Boeing 737-800, visible as B738                                         
+VIP_B752AAL B752 AAL  ; Boeing 757-200, visible as B752
+VIP_B753AAL B753 AAL  ; Boeing 757-300, visible as B753
+VIP_B762AAL B762 AAL  ; Boeing 767-200, visible as B762
+VIP_B763AAL B763 AAL  ; Boeing 767-300, visible as B763
+VIP_B772AAL B772 AAL  ; Boeing 777-200ER, visible as B772ER 
+VIP_DC91AAL DC91 AAL  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC92AAL DC92 AAL  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93AAL DC93 AAL  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC94AAL DC94 AAL  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC95AAL DC95 AAL  ; McDonnell Douglas DC-9, visible as MD81                                  
+VIP_DC10AAL DC10 AAL  ; McDonnell Douglas DC-10, visible as DC10
+VIP_F100AAL F100 AAL  ; Fokker 100, visible as F100
+VIP_MD11AAL MD11 AAL  ; McDonnell Douglas MD11, visible as MD11
+VIP_A320AAR A320 AAR  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321AAR A321 AAR  ; Airbus Industrie A321-100/200, visible as A321 
+VIP_A332AAR A332 AAR  ; Airbus Industrie A330-200, visible as A332
+VIP_A333AAR A333 AAR  ; Airbus Industrie A330-300, visible as A333
+VIP_B734AAR B734 AAR  ; Boeing 737-400, visible as B733 
+VIP_B735AAR B735 AAR  ; Boeing 737-500, visible as B733 
+VIP_B744AAR B744 AAR  ; Boeing 747-400, visible as B744                                         
+VIP_B763AAR B763 AAR  ; Boeing 767-300, visible as B763 
+VIP_B772AAR B772 AAR  ; Boeing 777-200ER, visible as B772ER 
+VIP_B773AAR B773 AAR  ; Boeing 777-300ER, visible as B773ER
+VIP_DC91AAY DC91 AAY  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DC92AAY DC92 AAY  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DC93AAY DC93 AAY  ; McDonnell Douglas DC-9, visible as MD87
+VIP_MD82AAY MD82 AAY  ; McDonnell Douglas MD82, visible as MD87
+VIP_MD83AAY MD83 AAY  ; McDonnell Douglas MD83, visible as MD87
+VIP_MD87AAY MD87 AAY  ; McDonnell Douglas MD87, visible as MD87
+VIP_B742ABC B742 ABC  ; Boeing 747-200, visible as B742
+VIP_B741ABD B741 ABD  ; Boeing 747-100, visible as B741
+VIP_B742ABD B742 ABD  ; Boeing 747-200, visible as B742
+VIP_B743ABD B743 ABD  ; Boeing 747-300, visible as B743
+VIP_B744ABD B744 ABD  ; Boeing 747-400, visible as B744                                         
+VIP_B752ABD B752 ABD  ; Boeing 757-200, visible as B752
+VIP_B762ABD B762 ABD  ; Boeing 767-200, visible as B762
+VIP_B763ABD B763 ABD  ; Boeing 767-300, visible as B763
+VIP_B736ABH B736 ABH  ; Boeing 737-600, visible as B733
+VIP_A30BABR A30B ABR  ; Airbus Industrie A300-600, visible as A30B
+VIP_AT45ABR AT45 ABR  ; ATR.42-300, visible as ATR45
+VIP_AT72ABR AT72 ABR  ; ATR.72-200, visible as ATR72
+VIP_B762ABX B762 ABX  ; Boeing 767-200F, visible as B762
+VIP_B763ABX B763 ABX  ; Boeing 767-300F, visible as B763
+VIP_DC86ABX DC86 ABX  ; McDonnell Douglas DC-8F, visible as B703
+VIP_DC91ABX DC91 ABX  ; McDonnell Douglas DC-9, visible as MD81                               
+VIP_DC93ABX DC93 ABX  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC94ABX DC94 ABX  ; McDonnell Douglas DC-9, visible as MD81
+VIP_A319ACA A319 ACA  ; Airbus Industrie A319, visible as A319 
+VIP_A320ACA A320 ACA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321ACA A321 ACA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A333ACA A333 ACA  ; Airbus Industrie A330-300, visible as A333
+VIP_A343ACA A343 ACA  ; Airbus Industrie A340-300, visible as A343
+VIP_A345ACA A345 ACA  ; Airbus Industrie A340-500, visible as A345
+VIP_A346ACA A346 ACA  ; Airbus Industrie A340-600, visible as A346
+VIP_B732ACA B732 ACA  ; Boeing 737-200, visible as B732                                   
+VIP_B733ACA B733 ACA  ; Boeing 737-300, visible as B733
+VIP_B734ACA B734 ACA  ; Boeing 737-400, visible as B733
+VIP_B738ACA B738 ACA  ; Boeing 737-800, visible as B738
+VIP_B742ACA B742 ACA  ; Boeing 747-200, visible as B742
+VIP_B744ACA B744 ACA  ; Boeing 747-400, visible as B744
+VIP_B762ACA B762 ACA  ; Boeing 767-200, visible as B762
+VIP_B763ACA B763 ACA  ; Boeing 767-300, visible as B763
+VIP_DC93ACA DC93 ACA  ; McDonnell Douglas DC-9, visible as MD87
+VIP_CRJ1ACA CRJ1 ACA  ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2ACA CRJ2 ACA  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_B733ACI B733 ACI  ; Boeing 737-300, visible as B733
+VIP_A332ACI A332 ACI  ; Airbus Industrie A330-200, visible as A332
+VIP_A320ACI A320 ACI  ; Airbus Industrie A320, visible as A320                        
+VIP_B732ADH B732 ADH  ; Boeing 737-200, visible as B732
+VIP_B733ADH B733 ADH  ; Boeing 737-300, visible as B733
+VIP_B734ADH B734 ADH  ; Boeing 737-400, visible as B733
+VIP_B735ADH B735 ADH  ; Boeing 737-500, visible as B733
+VIP_B736ADH B736 ADH  ; Boeing 737-600, visible as B733
+VIP_B737ADH B737 ADH  ; Boeing 737-700, visible as B733
+VIP_B738ADH B738 ADH  ; Boeing 737-800, visible as B738
+VIP_B762ADO B762 ADO  ; Boeing 767-200, visible as B762 
+VIP_B763ADO B763 ADO  ; Boeing 767-300, visible as B763
+VIP_A320ADR A320 ADR  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_CRJ1ADR CRJ1 ADR  ; Canadair Regional Jet CRJ100, visible as CRJ2                         
+VIP_CRJ2ADR CRJ2 ADR  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_A332AEA A332 AEA  ; Airbus Industrie A330-200, visible as A332
+VIP_A333AEA A333 AEA  ; Airbus Industrie A330-300, visible as A333
+VIP_A342AEA A342 AEA  ; Airbus Industrie A340-200, visible as A342
+VIP_A343AEA A343 AEA  ; Airbus Industrie A340-300, visible as A343
+VIP_B733AEA B733 AEA  ; Boeing 737-300, visible as B733 
+VIP_B734AEA B734 AEA  ; Boeing 737-400, visible as B733
+VIP_B735AEA B735 AEA  ; Boeing 737-500, visible as B733
+VIP_B736AEA B736 AEA  ; Boeing 737-600, visible as B733
+VIP_B737AEA B737 AEA  ; Boeing 737-700, visible as B733 
+VIP_B738AEA B738 AEA  ; Boeing 737-800, visible as B738 
+VIP_B762AEA B762 AEA  ; Boeing 767-200, visible as B762
+VIP_B763AEA B763 AEA  ; Boeing 767-300, visible as B763
+VIP_B733AEE B733 AEE  ; Boeing 737-300, visible as B733
+VIP_B734AEE B734 AEE  ; Boeing 737-400, visible as B733
+VIP_B461AEE B461 AEE  ; BAe146 RJ100, visible as BA462
+VIP_AT72AEE AT72 AEE  ; ATR.72-200, visible as ATR72                                        
+VIP_A320AEF A320 AEF  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321AEF A321 AEF  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B733AEU B733 AEU  ; Boeing 737-300, visible as B733
+VIP_B734AEU B734 AEU  ; Boeing 737-400, visible as B733
+VIP_B735AEU B735 AEU  ; Boeing 737-500, visible as B733
+VIP_B736AEU B736 AEU  ; Boeing 737-600, visible as B733
+VIP_B737AEU B737 AEU  ; Boeing 737-700, visible as B733
+VIP_B752AEU B752 AEU  ; Boeing 757-200, visible as B752
+VIP_A320AFA A320 _AF  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B190AFA B190 _AF  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B734AFA B734 _AF  ; Boeing 737-400, visible as B733
+VIP_B738AFA B738 _AF  ; Boeing 737-800, visible as B738 
+VIP_B744AFA B744 _AF  ; Boeing 747-400, visible as B744                                   
+VIP_B752AFA B752 _AF  ; Boeing 757-200, visible as B752 
+VIP_B763AFA B763 _AF  ; Boeing 767-300, visible as B763
+VIP_A310AFL A310 AFL  ; Airbus Industrie A310-300, visible as A30B
+VIP_A319AFL A319 AFL  ; Airbus Industrie A319, visible as A319
+VIP_A320AFL A320 AFL  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321AFL A321 AFL  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B734AFL B734 AFL  ; Boeing 737-400, visible as B733
+VIP_B763AFL B763 AFL  ; Boeing 767-300, visible as B763
+VIP_B772AFL B772 AFL  ; Boeing 777-200ER, visible as B772ER
+VIP_DC10AFL DC10 AFL  ; McDonnell Douglas DC-10F, visible as DC10                           
+VIP_IL76AFL IL76 AFL  ; llyushin 76TD, visible as IL76
+VIP_IL86AFL IL86 AFL  ; llyushin 86, visible as IL96
+VIP_IL96AFL IL96 AFL  ; llyushin 96, visible as IL96
+VIP_MD11AFL MD11 AFL  ; McDonnell Douglas MD11F, visible as MD11
+VIP_A318AFR A318 AFR  ; Airbus Industrie A318, visible as A318 
+VIP_A319AFR A319 AFR  ; Airbus Industrie A319, visible as A319
+VIP_A320AFR A320 AFR  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321AFR A321 AFR  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332AFR A332 AFR  ; Airbus Industrie A330-200, visible as A332
+VIP_A333AFR A333 AFR  ; Airbus Industrie A330-300, visible as A333                          
+VIP_A343AFR A343 AFR  ; Airbus Industrie A340-300, visible as A343
+VIP_A345AFR A345 AFR  ; Airbus Industrie A340-500, visible as A345
+VIP_A388AFR A388 AFR  ; Airbus Industrie A380, visible as A380
+VIP_B733AFR B733 AFR  ; Boeing 737-300, visible as B733
+VIP_B734AFR B734 AFR  ; Boeing 737-400, visible as B733
+VIP_B735AFR B735 AFR  ; Boeing 737-500, visible as B733
+VIP_B736AFR B736 AFR  ; Boeing 737-600, visible as B733
+VIP_B737AFR B737 AFR  ; Boeing 737-700, visible as B733
+VIP_B738AFR B738 AFR  ; Boeing 737-800, visible as B738
+VIP_B741AFR B741 AFR  ; Boeing 747-100, visible as B741
+VIP_B742AFR B742 AFR  ; Boeing 747-200F, visible as B742
+VIP_B743AFR B743 AFR  ; Boeing 747-300, visible as B743
+VIP_B744AFR B744 AFR  ; Boeing 747-400, visible as B744
+VIP_B763AFR B763 AFR  ; Boeing 767-300, visible as B763                                   
+VIP_B772AFR B772 AFR  ; Boeing 777-200ER, visible as B772ER 
+VIP_B773AFR B773 AFR  ; Boeing 777-300ER, visible as B773ER
+VIP_CONCAFRC CONC AFR ; Concorde, visible as Concorde
+VIP_B742AGL B742 _AV  AGLCL ; Boeing 747-200F, visible as B742
+VIP_B744AGL B744 _AV  AGLCL ; Boeing 747-400F, visible as B744F
+VIP_B763AGL B763 _AV  AGLCL ; Boeing 767-300F, visible as B763
+VIP_DC10AGL DC10 _AV  AGLCL ; McDonnell Douglas DC-10, visible as DC10
+VIP_B703AGL B703 _AV  AGLCL ; Boeing 707-300, visible as B703
+VIP_DHC7AGL DHC7 _AV AGLCL  ; De Havilland Canada DHC-7, visible as DHC7
+VIP_A388AIB A388 AIB  ; Airbus Industrie A380, visible as A380
+VIP_AT72AIZ AT72 AIZ  ; ATR.72-200, visible as ATR72
+VIP_B752AIZ B752 AIZ  ; Boeing 757-200, visible as B752
+VIP_B753AIZ B753 AIZ  ; Boeing 757-300, visible as B753 
+VIP_DHC7AIZ DHC7 AIZ  ; De Havilland Canada DHC-7, visible as DHC7
+VIP_A310AJM A310 AJM  ; Airbus Industrie A310-300, visible as A30B
+VIP_A320AJM A320 AJM  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321AJM A321 AJM  ; Airbus Industrie A321-200, visible as A321                        
+VIP_A343AJM A343 AJM  ; Airbus Industrie A340-300, visible as A343
+VIP_A332ALK A332 ALK  ; Airbus Industrie A330-200, visible as A332
+VIP_A343ALK A343 ALK  ; Airbus Industrie A340-300, visible as A343
+VIP_MD81ALV MD81 ALV  ; McDonnell Douglas MD80, visible as MD81
+VIP_DC92ALV DC92 ALV  ; McDonnell Douglas DC9, visible as MD81
+VIP_DC93ALV DC93 ALV  ; McDonnell Douglas DC9, visible as MD81
+VIP_DC95ALV DC95 ALV  ; McDonnell Douglas DC9, visible as MD81
+VIP_B733AMA B733 _MA  ; Boeing 737-300, visible as B733
+VIP_A319AMC A319 AMC  ; Airbus Industrie A319, visible as A319 
+VIP_A320AMC A320 AMC  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321AMC A321 AMC  ; Airbus Industrie A321-200, visible as A321 
+VIP_B732AMC B732 AMC  ; Boeing 737-200, visible as B732
+VIP_B733AMC B733 AMC  ; Boeing 737-300, visible as B733
+VIP_B734AMC B734 AMC  ; Boeing 737-400, visible as B733
+VIP_B738AMT B738 AMT  ; Boeing 737-800, visible as B738
+VIP_B752AMT B752 AMT  ; Boeing 757-200, visible as B752 
+VIP_B753AMT B753 AMT  ; Boeing 757-300, visible as B753                                    
+VIP_L101AMT L101 AMT  ; Lockheed 1011 Tristar 500
+VIP_B737AMX B737 AMX  ; Boeing 737-700, visible as B733
+VIP_B752AMX B752 AMX  ; Boeing 757-200, visible as B752
+VIP_B762AMX B762 AMX  ; Boeing 767-200, visible as B762
+VIP_B763AMX B763 AMX  ; Boeing 767-300, visible as B763
+VIP_B772AMX B772 AMX  ; Boeing 777-200ER, visible as B772ER
+VIP_DC92AMX DC92 AMX  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93AMX DC93 AMX  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC94AMX DC94 AMX  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC95AMX DC95 AMX  ; McDonnell Douglas DC-9, visible as MD81                          
+VIP_MD88AMX MD88 AMX  ; McDonnell Douglas MD88, visible as MD81 
+VIP_DH8AAMX DH8A AMX  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A 
+VIP_A320ANA A320 ANA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321ANA A321 ANA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B738ANA B738 ANA  ; Boeing 737-800, visible as B738
+VIP_B744ANA B744 ANA  ; Boeing 747-400, visible as B744
+VIP_B762ANA B762 ANA  ; Boeing 767-200, visible as B762
+VIP_B763ANA B763 ANA  ; Boeing 767-300, visible as B763
+VIP_B764ANA B764 ANA  ; Boeing 767-400, visible as B764
+VIP_B772ANA B772 ANA  ; Boeing 777-200, visible as B772                                    
+VIP_B773ANA B773 ANA  ; Boeing 777-300ER, visible as B773ER 
+VIP_B763ANG B763 ANG  ; Boeing 767-300, visible as B763
+VIP_A310ANG A310 ANG  ; Airbus Industrie A310, visible as A30B
+VIP_F100ANG F100 ANG  ; Fokker F100, visible as F100
+VIP_AT72ANS AT72 ANS  ; ATR.72-200, visible as ATR72
+VIP_CRJ2ANS CRJ2 ANS  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_DH8CANS DH8C ANS  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_F100ANS F100 ANS  ; Fokker 100, visible as F100
+VIP_A320ANZ A320 ANZ  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321ANZ A321 ANZ  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A345ANZ A345 ANZ  ; Airbus Industrie A340-500, visible as A345
+VIP_AT72ANZ AT72 ANZ  ; ATR.72-200, visible as ATR72
+VIP_B190ANZ B190 ANZ  ; Beechcraft 1900/1900C/1900D, visible as B190                    
+VIP_B733ANZ B733 ANZ  ; Boeing 737-300, visible as B733
+VIP_B734ANZ B734 ANZ  ; Boeing 737-400, visible as B733
+VIP_B744ANZ B744 ANZ  ; Boeing 747-400, visible as B744
+VIP_B762ANZ B762 ANZ  ; Boeing 767-200, visible as B762
+VIP_B763ANZ B763 ANZ  ; Boeing 767-300, visible as B763
+VIP_B772ANZ B772 ANZ  ; Boeing 777-200ER, visible as B772ER
+VIP_SF34ANZ SF34 ANZ  ; SAAB Saab SF340A/B, visible as SF34
+VIP_DC10APW DC10 APW  ; McDonnell Douglas DC-10, visible as DC10
+VIP_B733APS B733 APS  ; Boeing 737-300, visible as B733
+VIP_B734APS B734 APS  ; Boeing 737-400, visible as B733
+VIP_B735APS B735 APS  ; Boeing 737-500, visible as B733                                  
+VIP_B736APS B736 APS  ; Boeing 737-600, visible as B733
+VIP_A320ARF A320 ARF  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321ARF A321 ARF  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A310ARG A310 ARG  ; Airbus Industrie A310-300, visible as A30B
+VIP_A342ARG A342 ARG  ; Airbus Industrie A340-200, visible as A342
+VIP_A343ARG A343 ARG  ; Airbus Industrie A340-300, visible as A343
+VIP_B732ARG B732 ARG  ; Boeing 737-200, visible as B732
+VIP_B734ARG B734 ARG  ; Boeing 737-400, visible as B733
+VIP_B735ARG B735 ARG  ; Boeing 737-500, visible as B733
+VIP_B742ARG B742 ARG  ; Boeing 747-200, visible as B742
+VIP_B744ARG B744 ARG  ; Boeing 747-400, visible as B744
+VIP_DC91ARG DC91 ARG  ; McDonnell Douglas DC-9, visible as MD81                         
+VIP_MD81ARG MD81 ARG  ; McDonnell Douglas MD81, visible as MD81 
+VIP_MD83ARG MD83 ARG  ; McDonnell Douglas MD83, visible as MD81
+VIP_MD88ARG MD88 ARG  ; McDonnell Douglas MD88, visible as MD81
+VIP_B737ASY B737 ASY  ; Boeing 737-700, visible as B733
+VIP_B703ASY B703 ASY  ; Boeing 707-300, visible as B703
+VIP_E135ASV E135 _AS  ; Embraer RJ135  Amazon, visible as CRJ2 
+VIP_CRJ2ASV CRJ2 _AS  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_AT72ASV AT72 _AS  ; ATR.72-200, visible as ATR72
+VIP_B461ASV B461 _AS  ; BAe146 RJ100, visible as BA462
+VIP_A319ASV A319 _AS  ; Airbus Industrie A319, visible as A319
+VIP_B712ASV B712 _AS  ; Boeing 717-200, visible as MD81
+VIP_MD83ASV MD83 _AS  ; McDonnell Douglas MD88, visible as MD81
+VIP_B738ASV B738 _AS  ; Boeing 737-800, visible as B738
+VIP_B752ASV B752 _AS  ; Boeing 757-200, visible as B752
+VIP_A333ASV A333 _AS  ; Airbus Industrie A330-300, visible as A333
+VIP_A343ASV A343 _AS  ; Airbus Industrie A340-300, visible as A343
+VIP_B773ASV B773 _AS  ; Boeing 777-300, visible as B773
+VIP_B744ASV B744 _AS  ; Boeing 747-400, visible as B744
+VIP_B743ASV B743 _AS  ; Boeing 747-300, visible as B743
+VIP_B742ASV B742 _AS  ; Boeing 747-200, visible as B742
+VIP_B741ASV B741 _AS  ; Boeing 747-100, visible as B741
+VIP_MD11ASV MD11 _AS  ; McDonnell Douglas MD11, visible as MD11
+VIP_DC10ASV DC10 _AS  ; McDonnell Douglas DC-10, visible as DC10
+VIP_B732ASA B732 ASA  ; Boeing 737-200, visible as B732
+VIP_B733ASA B733 ASA  ; Boeing 737-300, visible as B733
+VIP_B734ASA B734 ASA  ; Boeing 737-400, visible as B733
+VIP_B735ASA B735 ASA  ; Boeing 737-500, visible as B733
+VIP_B736ASA B736 ASA  ; Boeing 737-600, visible as B733
+VIP_B737ASA B737 ASA  ; Boeing 737-700, visible as B733
+VIP_B738ASA B738 ASA  ; Boeing 737-800, visible as B738
+VIP_B739ASA B739 ASA  ; Boeing 737-900, visible as B739
+VIP_DC91ASA DC91 ASA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93ASA DC93 ASA  ; McDonnell Douglas DC-9, visible as MD81                         
+VIP_MD81ASA MD81 ASA  ; McDonnell Douglas MD81, visible as MD81
+VIP_MD82ASA MD82 ASA  ; McDonnell Douglas MD88, visible as MD81
+VIP_MD83ASA MD83 ASA  ; McDonnell Douglas MD88, visible as MD81
+VIP_AT42ASE AT45 _SG  ; ATR.42-200, visible as ATR45
+VIP_B737ASE B737 _SG  ; Boeing 737-700, visible as B733
+VIP_A319AVA A319 _AV  AVAAL  ; Airbus Industrie A319, visible as A319
+VIP_A320AVA A320 _AV  AVAAL  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321AVA A321 _AV  AVAAL  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A333AVA A333 _AV  AVAAL  ; Airbus Industrie A330-300, visible as A333
+VIP_A343AVA A343 _AV  AVAAL  ; Airbus Industrie A340-300, visible as A343
+VIP_B734AVA B734 _AV  AVAAL  ; Boeing 737-400, visible as B733
+VIP_B737AVA B737 _AV  AVAAL  ; Boeing 737-700, visible as B733
+VIP_B738AVA B738 _AV  AVAAL  ; Boeing 737-800, visible as B738
+VIP_B744AVA B744 _AV  AVAAL  ; Boeing 747-400, visible as B744
+VIP_B752AVA B752 _AV  AVAAL  ; Boeing 757-200, visible as B752
+VIP_B763AVA B763 _AV  AVAAL  ; Boeing 767-300, visible as B763
+VIP_B772AVA B772 _AV  AVAAL  ; Boeing 777-200ER, visible as B772ER
+VIP_AT72AVE AT72 _AV  AVEEX  ; ATR.72-200, visible as ATR72
+VIP_B190AVE B190 _AV  AVEEX  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_CRJ2AVE CRJ2 _AV  AVEEX  ; Bombardier Canadair CRJ-200, visible as CRJ2
+VIP_DHC6AVE DHC6 _AV  AVEEX  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_F70AVE  F70  _AV  AVEEX  ; Fokker 70, visible as F100
+VIP_F100AVE F100 _AV  AVEEX  ; Fokker 100, visible as F100
+VIP_AT45AXL AT45 AXL  ; ATR.42-200, visible as ATR45
+VIP_BN2PAZT BN2P _AZ  ; Pilatus Britten-Norman BN-2A/B Islander, visible as CE441
+VIP_DHC6AZT DHC6 _AZ  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_AT72AZT AT72 _AZ  ; ATR.72-200, visible as ATR72
+VIP_E145AZT E145 _AZ  ; Embraer RJ145  Amazon, visible as CRJ2
+VIP_A320AZT A320 _AZ  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B735AZT B735 _AZ  ; Boeing 737-500, visible as B733
+VIP_B738AZT B738 _AZ  ; Boeing 737-800, visible as B738
+VIP_B744AZT B744 _AZ  ; Boeing 747-400, visible as B744
+VIP_B763AZT B763 _AZ  ; Boeing 767-300, visible as B763
+VIP_DC10AZT DC10 _AZ  ; McDonnell Douglas DC-10, visible as DC10
+VIP_DH8CEWA DH8B EWA  ; De Havilland Canada DHC-8, visible as DH8C
+VIP_CRJ2EWA CRJ2 EWA  ; Bombardier Canadair CRJ-200, visible as CRJ2
+VIP_B712EWA B712 EWA  ; Boeing 717-200, visible as B712
+VIP_B733EWA B733 EWA  ; Boeing 737-300, visible as B733
+VIP_B738EWA B738 EWA  ; Boeing 737-800, visible as B738
+VIP_B763EWA B763 EWA  ; Boeing 767-300, visible as B763
+VIP_A332EWA A332 EWA  ; Airbus Industrie A330-200, visible as A332
+VIP_A333EWA A333 EWA  ; Airbus Industrie A330-300, visible as A333
+VIP_B744EWA B744 EWA  ; Boeing 747-400, visible as B744
+VIP_B744FEWA B744 EWA EWACG ; Boeing 747-400F, visible as B74F
+VIP_B462EWA B462 EWA  ; British Aerospace 146-200, visible as B462
+VIP_B703AVA B703 AVA  ; Boeing 707-300, visible as B703
+VIP_B743AVA B743 AVA  ; Boeing 747-300, visible as B743
+VIP_B752AVA B752 AVA  ; Boeing 757-200, visible as B752
+VIP_B762AVA B762 AVA  ; Boeing 767-200, visible as B762
+VIP_DC93AVA DC93 AVA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_MD81AVA MD81 AVA  ; McDonnell Douglas MD81, visible as MD81
+VIP_B733AVN B733 AVN  ; Boeing 737-300, visible as B733
+VIP_A310AUA A310 AUA  ; Airbus Industrie A310-300, visible as A30B                       
+VIP_A320AUA A320 AUA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321AUA A321 AUA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332AUA A332 AUA  ; Airbus Industrie A330-200, visible as A332
+VIP_A342AUA A342 AUA  ; Airbus Industrie A340-200, visible as A342
+VIP_A343AUA A343 AUA  ; Airbus Industrie A340-300, visible as A343
+VIP_B733AUA B733 AUA  ; Boeing 737-300, visible as B733
+VIP_B734AUA B734 AUA  ; Boeing 737-400, visible as B733
+VIP_B735AUA B735 AUA  ; Boeing 737-500, visible as B733
+VIP_B736AUA B736 AUA  ; Boeing 737-600, visible as B733
+VIP_B737AUA B737 AUA  ; Boeing 737-700, visible as B733
+VIP_B738AUA B738 AUA  ; Boeing 737-800, visible as B738                                     
+VIP_B739AUA B739 AUA  ; Boeing 737-900, visible as B739
+VIP_B772AUA B772 AUA  ; Boeing 777-200ER, visible as B772ER
+VIP_CRJ1AUA CRJ1 AUA  ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2AUA CRJ2 AUA  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_DH8AAUA DH8A AUA  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_DH8CAUA DH8C AUA  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_DH8DAUA DH8D AUA  ; De Havilland Canada DHC-8 Dash 8-400, visible as DH8D
+VIP_DC91AUA DC91 AUA  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DC93AUA DC93 AUA  ; McDonnell Douglas DC-9, visible as MD87
+VIP_B732AUT B732 AUT  ; Boeing 737-200, visible as B732                                    
+VIP_DC91AUT DC91 AUT  ; McDonnell Douglas DC-9,  visible as MD81
+VIP_B763AUZ B763 AUZ  ; Boeing 767-300, visible as B763
+VIP_B733AWC B733 AWC  ; Boeing 737-300, visible as B733
+VIP_B752AWC B752 AWC  ; Boeing 757-200, visible as B752
+VIP_B462AWC B462 AWC  ; BAe146-200, visible as BA462
+VIP_B733AWCBL B733 AWC AWCBL ; Boeing 737-300, visible as B733
+VIP_B733AWCRM B733 AWC AWCRM ; Boeing 737-300, visible as B733
+VIP_B462AWCCT B462 AWC AWCCT ; BAe146-200, visible as BA462
+VIP_A318AWE A318 AWE  ; Airbus Industrie A318, visible as A318
+VIP_A319AWE A319 AWE  ; Airbus Industrie A319, visible as A319
+VIP_A320AWE A320 AWE  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B732AWE B732 AWE  ; Boeing 737-200, visible as B732
+VIP_B733AWE B733 AWE  ; Boeing 737-300, visible as B733
+VIP_B752AWE B752 AWE  ; Boeing 757-200, visible as B752
+VIP_CRJ2AWI CRJ2 AWI  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_AT45AWW AT45 AWW  ; ATR.42-300, visible as ATR45
+VIP_B733AXY B733 AXY  ; Boeing 737-300, visible as B733
+VIP_B734AXY B734 AXY  ; Boeing 737-400, visible as B733
+VIP_B752BHP B752 BHP  ; Boeing 757-200, visible as B752
+VIP_B763BHP B763 BHP  ; Boeing 767-300, visible as B763
+VIP_A319AZA A319 AZA  ; Airbus Industrie A319, visible as A319
+VIP_A320AZA A320 AZA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321AZA A321 AZA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B763AZA B763 AZA  ; Boeing 767-300, visible as B763
+VIP_B772AZA B772 AZA  ; Boeing 777-200ER, visible as B772ER
+VIP_DC92AZA DC92 AZA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_MD11AZA MD11 AZA  ; McDonnell Douglas MD11, visible as MD11
+VIP_B733BAG B733 BAG  ; Boeing 737-300, visible as B733
+VIP_B734BAG B734 BAG  ; Boeing 737-400, visible as B733
+VIP_B735BAG B735 BAG  ; Boeing 737-500, visible as B733
+VIP_B736BAG B736 BAG  ; Boeing 737-600, visible as B733
+VIP_B737BAG B737 BAG  ; Boeing 737-700, visible as B733
+VIP_F100BAG F100 BAG  ; Fokker F100, visible as F100
+VIP_B734BAL B734 BAL  ; Boeing 737-400, visible as B733
+VIP_B735BAL B735 BAL  ; Boeing 737-500, visible as B733
+VIP_B736BAL B736 BAL  ; Boeing 737-600, visible as B733
+VIP_B737BAL B737 BAL  ; Boeing 737-700, visible as B733
+VIP_B738BAL B738 BAL  ; Boeing 737-800, visible as B738
+VIP_B752BAL B752 BAL  ; Boeing 757-200, visible as B752
+VIP_B753BAL B753 BAL  ; Boeing 757-300, visible as B753
+VIP_B762BAL B762 BAL  ; Boeing 767-200, visible as B762
+VIP_B763BAL B763 BAL  ; Boeing 767-300, visible as B763
+VIP_A319BAW A319 BAW  ; Airbus Industrie A319, visible as A319 
+VIP_A320BAW A320 BAW  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321BAW A321 BAW  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A388BAW A388 BAW  ; Airbus Industrie A380, visible as A380
+VIP_AT72BAW AT72 BAW  ; ATR.72-200, visible as ATR72
+VIP_B732BAW B732 BAW  ; Boeing 737-200, visible as B732
+VIP_B733BAW B733 BAW  ; Boeing 737-300, visible as B733 
+VIP_B734BAW B734 BAW  ; Boeing 737-400, visible as B733
+VIP_B735BAW B735 BAW  ; Boeing 737-500, visible as B733
+VIP_B736BAW B736 BAW  ; Boeing 737-600, visible as B733
+VIP_B737BAW B737 BAW  ; Boeing 737-700, visible as B733 
+VIP_B744BAW B744 BAW  ; Boeing 747-400, visible as B744
+VIP_B752BAW B752 BAW  ; Boeing 757-200, visible as B752
+VIP_B763BAW B763 BAW  ; Boeing 767-300, visible as B763
+VIP_B772BAW B772 BAW  ; Boeing 777-200ER, visible as B772ER
+VIP_B461BAW B461 BAW  ; BAe146 RJ100, visible as BA462
+VIP_B462BAW B462 BAW  ; BAe146-200, visible as BA462
+VIP_B463BAW B463 BAW  ; BAe146-300, visible as BA462
+VIP_CONCBAWC CONC BAW ; Concorde, visible as Concorde
+VIP_CRJ2BAW CRJ2 BAW  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7BAW CRJ7 BAW  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_DH8CBAW DH8C BAW  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C  
+VIP_DHC6BAW DHC6 BAW  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6 
+VIP_JS41BAW JS41 BAW  ; British Aerospace Jetstream 41, visible as JS41
+VIP_SF34BAW SF34 BAW  ; SAAB Saab SF340A/B, visible as SF34
+VIP_B733BBD B733 BBD  ; Boeing 737-300, visible as B733
+VIP_B461BEE B461 BEE  ; BAe146-100, visible as BA462
+VIP_B462BEE B462 BEE  ; BAe146-200, visible as BA462
+VIP_B463BEE B463 BEE  ; BAe146-300, visible as BA462
+VIP_DH8CBEE DH8C BEE  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8D 
+VIP_DH8DBEE DH8D BEE  ; De Havilland Canada DHC-8 Dash 8Q-400,visible as DH8D
+VIP_A319BER A319 BER  ; Airbus Industrie A319, visible as A319
+VIP_A320BER A320 BER  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_B738BER B738 BER  ; Boeing 737-800, visible as B738
+VIP_A319BLC A319 BLC  ; Airbus Industrie A319, visible as A319
+VIP_A320BLC A320 BLC  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A332BLC A332 BLC  ; Airbus Industrie A330-200, visible as A332
+VIP_F100BLC F100 BLC  ; Fokker 100, visible as F100
+VIP_B738BLX B738 BLX  ; Boeing 737-800, visible as B738
+VIP_B763BLX B763 BLX  ; Boeing 767-300, visible as B763
+VIP_A319BMA A319 BMA  ; Airbus Industrie A319, visible as A319
+VIP_A320BMA A320 BMA  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321BMA A321 BMA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332BMA A332 BMA  ; Airbus Industrie A330-200, visible as A332
+VIP_A343BMA A343 BMA  ; Airbus Industrie A340-300, visible as A343
+VIP_F100BMA F100 BMA  ; Fokker 100, visible as F100
+VIP_B733BMA B733 BMA  ; Boeing 737-300, visible as B733
+VIP_B734BMA B734 BMA  ; Boeing 737-400, visible as B733
+VIP_B735BMA B735 BMA  ; Boeing 737-500, visible as B733
+VIP_B736BMA B736 BMA  ; Boeing 737-600, visible as B733
+VIP_B737BMA B737 BMA  ; Boeing 737-700, visible as B733
+VIP_B733BMI B733 BMI  ; Boeing 737-300, visible as B733
+VIP_B734BMI B734 BMI  ; Boeing 737-400, visible as B733
+VIP_B735BMI B735 BMI  ; Boeing 737-500, visible as B733
+VIP_B736BMI B736 BMI  ; Boeing 737-600, visible as B733
+VIP_B737BMI B737 BMI  ; Boeing 737-700, visible as B733
+VIP_B734BRA B734 BRA  ; Boeing 737-400, visible as B733
+VIP_B735BRA B735 BRA  ; Boeing 737-500, visible as B733
+VIP_B737BRA B737 BRA  ; Boeing 737-700, visible as B733
+VIP_B462BTI B462 BTI  ; BAe146-200, visible as BA462
+VIP_B735BTI B735 BTI  ; Boeing 737-500, visible as B733
+VIP_A343BWA A343 BWA  ; Airbus Industrie A340-300, visible as A343
+VIP_B738BWA B738 BWA  ; Boeing 737-800, visible as B738
+VIP_DH8DBWA DH8D BWA  ; De Havilland Canada DHC-8 Dash 8Q-400, visible as DH8D
+VIP_AT45BZH AT45 BZH  ; ATR.42-300, visible as ATR45
+VIP_AT72BZH AT72 BZH  ; ATR.72-200, visible as ATR72
+VIP_CRJ1BZH CRJ1 BZH  ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2BZH CRJ2 BZH  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7BZH CRJ7 BZH  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_F100BZH F100 BZH  ; Fokker 100, visible as F100
+VIP_AT72CAA AT72 CAA  ; ATR.72-200, visible as ATR72
+VIP_B190CAA B190 CAA  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_CRJ2CAA CRJ2 CAA  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7CAA CRJ7 CAA  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_A30BCAL A30B CAL  ; Airbus Industrie A300-600, visible as A30B
+VIP_A333CAL A333 CAL  ; Airbus Industrie A330-300, visible as A333
+VIP_A343CAL A343 CAL  ; Airbus Industrie A340-300, visible as A343
+VIP_B738CAL B738 CAL  ; Boeing 737-800, visible as B738
+VIP_B744CAL B744 CAL  ; Boeing 747-400, visible as B744
+VIP_B772CAL B772 CAL  ; Boeing 777-200ER, visible as B772ER
+VIP_MD11CAL MD11 CAL  ; McDonnell Douglas MD11, visible as MD11
+VIP_A319CCA A319 CCA  ; Airbus Industrie A319, visible as A319
+VIP_A343CCA A343 CCA  ; Airbus Industrie A340-300, visible as A343
+VIP_B733CCA B733 CCA  ; Boeing 737-300, visible as B733
+VIP_B736CCA B736 CCA  ; Boeing 737-600, visible as B733
+VIP_B737CCA B737 CCA  ; Boeing 737-700, visible as B733
+VIP_B738CCA B738 CCA  ; Boeing 737-800, visible as B738
+VIP_B742CCA B742 CCA  ; Boeing 747-200, visible as B742
+VIP_B744CCA B744 CCA  ; Boeing 747-400, visible as B744
+VIP_B752CCA B752 CCA  ; Boeing 757-200, visible as B752
+VIP_B762CCA B762 CCA  ; Boeing 767-200, visible as B762
+VIP_B763CCA B763 CCA  ; Boeing 767-300, visible as B763
+VIP_B772CCA B772 CCA  ; Boeing 777-200ER, visible as B772ER
+VIP_A30BCES A30B CES  ; Airbus Industrie A300-600, visible as A30B
+VIP_A310CES A310 CES  ; Airbus Industrie A310-300, visible as A30B
+VIP_A319CES A319 CES  ; Airbus Industrie A319, visible as A319
+VIP_A320CES A320 CES  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321CES A321 CES  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A333CES A333 CES  ; Airbus Industrie A330-300, visible as A333
+VIP_A343CES A343 CES  ; Airbus Industrie A340-300, visible as A343
+VIP_A346CES A346 CES  ; Airbus Industrie A340-600, visible as A346
+VIP_B733CES B733 CES  ; Boeing 737-300, visible as B733
+VIP_B737CES B737 CES  ; Boeing 737-700, visible as B733
+VIP_B738CES B738 CES  ; Boeing 737-800, visible as B738
+VIP_B763CES B763 CES  ; Boeing 767-300, visible as B763
+VIP_DC92CES DC92 CES  ; McDonnell Douglas DC-9,  visible as MD81
+VIP_MD90CES MD90 CES  ; McDonnell Douglas MD90, visible as MD81
+VIP_MD11CES MD11 CES  ; McDonnell Douglas MD11, visible as MD11
+VIP_A320CFG A320 CFG  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B752CFG B752 CFG  ; Boeing 757-200, visible as B752
+VIP_B753CFG B753 CFG  ; Boeing 757-300, visible as B753
+VIP_B763CFG B763 CFG  ; Boeing 767-300, visible as B763
+VIP_AT42CIM AT43 CIM  ; ATR.42-200, visible as ATR45
+VIP_AT43CIM AT43 CIM  ; ATR.42-300, visible as ATR45
+VIP_AT45CIM AT45 CIM  ; ATR.42-500, visible as ATR45
+VIP_AT72CIM AT72 CIM  ; ATR.72-200, visible as ATR72
+VIP_C72RCIM C72R CIM  ; Cessna.172, visible as CE172
+VIP_CRJ2CIM CRJ2 CIM  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_B741CKS B741 CKS  ; Boeing 747-100, visible as B741
+VIP_B742CKS B742 CKS  ; Boeing 747-200F, visible as B742
+VIP_B744CKS B744 CKS  ; Boeing 747-400F, visible as B744F
+VIP_B462CLH B462 CLH  ; BAe146-200, visible as BA462
+VIP_CRJ1CLH CRJ1 CLH  ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2CLH CRJ2 CLH  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7CLH CRJ7 CLH  ; Canadair Regional Jet CRJ700, visible as CRJ7 
+VIP_B734CLW B734 CLW  ; Boeing 737-400, visible as B733
+VIP_B742CLX B742 CLX  ; Boeing 747-200F, visible as B742
+VIP_B744CLX B744 CLX  ; Boeing 747-400F, visible as B744F
+VIP_B732CMP B732 CMP  ; Boeing 737-200, visible as B732
+VIP_B737CMP B737 CMP  ; Boeing 737-700, visible as B733
+VIP_B738CMP B738 CMP  ; Boeing 737-800, visible as B738
+VIP_B733COA B733 COA  ; Boeing 737-300, visible as B733
+VIP_B734COA B734 COA  ; Boeing 737-400, visible as B733
+VIP_B735COA B735 COA  ; Boeing 737-500, visible as B733
+VIP_B736COA B736 COA  ; Boeing 737-600, visible as B733
+VIP_B737COA B737 COA  ; Boeing 737-700, visible as B733
+VIP_B738COA B738 COA  ; Boeing 737-800, visible as B738
+VIP_B739COA B739 COA  ; Boeing 737-900, visible as B739
+VIP_B752COA B752 COA  ; Boeing 757-200, visible as B752
+VIP_B753COA B753 COA  ; Boeing 757-300, visible as B753
+VIP_B762COA B762 COA  ; Boeing 767-200, visible as B762
+VIP_B763COA B763 COA  ; Boeing 767-300, visible as B763
+VIP_B764COA B764 COA  ; Boeing 767-400, visible as B764
+VIP_B772COA B772 COA  ; Boeing 777-200ER, visible as B772ER
+VIP_DC91COA DC91 COA  ; McDonnell Douglas DC-9,  visible as MD81
+VIP_DC92COA DC92 COA  ; McDonnell Douglas DC-9,  visible as MD81
+VIP_DC93COA DC93 COA  ; McDonnell Douglas DC-9,  visible as MD81
+VIP_CRJ1COM CRJ1 COM  ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2COM CRJ2 COM  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7COM CRJ7 COM  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_E120COM E120 COM  ; EMB.120RT Brasilia, visible as B190
+VIP_A333CPA A333 CPA  ; Airbus Industrie A330-300, visible as A333
+VIP_A343CPA A343 CPA  ; Airbus Industrie A340-300, visible as A343
+VIP_A346CPA A346 CPA  ; Airbus Industrie A340-600, visible as A346
+VIP_B742CPA B742 CPA  ; Boeing 747-200, visible as B742
+VIP_B744CPA B744 CPA  ; Boeing 747-400, visible as B744
+VIP_B772CPA B772 CPA  ; Boeing 777-200, visible as B772
+VIP_B773CPA B773 CPA  ; Boeing 777-300, visible as B773
+VIP_A310CRL A310 CRL  ; Airbus Industrie A310-300, visible as A30B
+VIP_A332CRL A332 CRL  ; Airbus Industrie A330-200, visible as A332
+VIP_B734CRL B734 CRL  ; Boeing 737-400, visible as B733
+VIP_B743CRL B743 CRL  ; Boeing 747-300, visible as B743
+VIP_B744CRL B744 CRL  ; Boeing 747-400, visible as B744
+VIP_B74SCRL B74S CRL  ; Boeing 747SP-44, visible as B74S
+VIP_AT72CRN AT72 CRN  ; ATR.72-200, visible as ATR72
+VIP_A310CSA A310 CSA  ; Airbus Industrie A310-300, visible as A30B
+VIP_AT45CSA AT45 CSA  ; ATR.42-300, visible as ATR45
+VIP_AT72CSA AT72 CSA  ; ATR.72-200, visible as ATR72
+VIP_A320CSA A320 CSA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321CSA A321 CSA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B734CSA B734 CSA  ; Boeing 737-400, visible as B733
+VIP_B735CSA B735 CSA  ; Boeing 737-500, visible as B733
+VIP_B737CSA B737 CSA  ; Boeing 737-700, visible as B733
+VIP_A306CSN A30B CSN  ; Airbus Industrie A300-600, visible as A30B
+VIP_A319CSN A319 CSN  ; Airbus Industrie A319, visible as A319
+VIP_A320CSN A320 CSN  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332CSN A332 CSN  ; Airbus Industrie A330-200, visible as A332
+VIP_B733CSN B733 CSN  ; Boeing 737-300, visible as B733
+VIP_B735CSN B735 CSN  ; Boeing 737-500, visible as B733
+VIP_B737CSN B737 CSN  ; Boeing 737-700, visible as B733
+VIP_B738CSN B738 CSN  ; Boeing 737-800, visible as B738
+VIP_B752CSN B752 CSN  ; Boeing 757-200, visible as B752
+VIP_B744CSN B744 CSN  ; Boeing 747-400, visible as B744
+VIP_B772CSN B772 CSN  ; Boeing 777-200ER, visible as B772ER
+VIP_MD82CSN MD82 CSN  ; McDonnell Douglas MD82, visible as MD87
+VIP_DC92CSN DC92 CSN  ; McDonnell Douglas DC-9, visible as MD87
+VIP_A319CTN A319 CTN  ; Airbus Industrie A319, visible as A319
+VIP_A320CTN A320 CTN  ; Airbus Industrie A320-100/200, visible as A320
+VIP_AT45CTN AT45 CTN  ; ATR.42-300, visible as ATR45
+VIP_B462CTN B462 CTN  ; BAe146-200, visible as BA462
+VIP_B462CTY B462 CTY  ; BAe146-200, visible as BA462
+VIP_B463CTY B463 CTY  ; BAe146-300, visible as BA462
+VIP_IL76CUB IL76 CUB  ; llyushin 76TD, visible as IL76
+VIP_DC10CUB DC10 CUB  ; McDonnell Douglas DC-10, visible as DC10
+VIP_A320CUB A320 CUB  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332CUB A332 CUB  ; Airbus Industrie A330-200, visible as A332
+VIP_B737CUB B737 CUB  ; Boeing 737-700, visible as B733
+VIP_A319CVA A319 _CA  ; Airbus Industrie A319, visible as A319
+VIP_A320CVA A320 _CA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321CVA A321 _CA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332CVA A332 _CA  ; Airbus Industrie A330-200, visible as A332
+VIP_A333CVA A333 _CA  ; Airbus Industrie A330-300, visible as A333
+VIP_A342CVA A342 _CA  ; Airbus Industrie A340-200, visible as A342
+VIP_A343CVA A343 _CA  ; Airbus Industrie A340-300, visible as A343
+VIP_A345CVA A345 _CA  ; Airbus Industrie A340-500, visible as A345
+VIP_A346CVA A346 _CA  ; Airbus Industrie A340-600, visible as A346
+VIP_B734CVA B734 _CA  ; Boeing 737-400, visible as B733
+VIP_B737CVA B737 _CA  ; Boeing 737-700, visible as B733
+VIP_B738CVA B738 _CA  ; Boeing 737-800, visible as B738
+VIP_B742CVA B742 _CA  ; Boeing 747-200, visible as B742
+VIP_B744CVA B744 _CA  ; Boeing 747-400, visible as B744
+VIP_B752CVA B752 _CA  ; Boeing 757-200, visible as B752
+VIP_B762CVA B762 _CA  ; Boeing 767-200, visible as B762
+VIP_B763CVA B763 _CA  ; Boeing 767-300, visible as B763
+VIP_B772CVA B772 _CA  ; Boeing 777-200ER, visible as B772ER
+VIP_B773CVA B773 _CA  ; Boeing 777-300ER, visible as B773ER
+VIP_MD11CVA MD11 _CA  ; McDonnell Douglas MD11, visible as MD11
+VIP_B190CVA B190 _CA  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_CRJ2CVA CRJ2 _CA  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7CVA CRJ7 _CA  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_DHC6CVA DHC6 _CA  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_DH8DCVA DH8D _CA  ; De Havilland Canada DHC-8 Dash 8Q-400, visible as DH8D
+VIP_SF34CVA SF34 _CA  ; SAAB Saab SF340A/B, visible as SF34
+VIP_DH8BCWP DH8B CWP  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_A310CYP A310 CYP  ; Airbus Industrie A310-200, visible as A30B
+VIP_A319CYP A319 CYP  ; Airbus Industrie A319, visible as A319
+VIP_A320CYP A320 CYP  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332CYP A332 CYP  ; Airbus Industrie A330-200, visible as A332
+VIP_B732DAL B732 DAL  ; Boeing 737-200, visible as B732
+VIP_B733DAL B733 DAL  ; Boeing 737-300, visible as B733
+VIP_B734DAL B734 DAL  ; Boeing 737-400, visible as B733
+VIP_B735DAL B735 DAL  ; Boeing 737-500, visible as B733
+VIP_B736DAL B736 DAL  ; Boeing 737-600, visible as B733
+VIP_B737DAL B737 DAL  ; Boeing 737-700, visible as B733
+VIP_B738DAL B738 DAL  ; Boeing 737-800, visible as B738
+VIP_B752DAL B752 DAL  ; Boeing 757-200, visible as B752
+VIP_B762DAL B762 DAL  ; Boeing 767-200, visible as B762
+VIP_B763DAL B763 DAL  ; Boeing 767-300, visible as B763
+VIP_B764DAL B764 DAL  ; Boeing 767-400, visible as B764
+VIP_B772DAL B772 DAL  ; Boeing 777-200ER, visible as B772ER
+VIP_MD88DAL MD88 DAL  ; McDonnell Douglas MD88, visible as MD87
+VIP_MD90DAL MD90 DAL  ; McDonnell Douglas MD90, visible as MD87
+VIP_MD11DAL MD11 DAL  ; McDonnell Douglas MD11, visible as MD11
+VIP_B752DALSG B752 DAL DALSG ; Boeing 757-200, visible as B752
+VIP_B735DAN B735 DAN  ; Boeing 737-500, visible as B733
+VIP_B737DAN B737 DAN  ; Boeing 737-700, visible as B733
+VIP_CRJ2DAN CRJ2 DAN  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_A318DDF A318 _KA  ; Airbus Industrie A318, visible as A318
+VIP_A319DDF A319 _KA  ; Airbus Industrie A319, visible as A319
+VIP_A320DDF A320 _KA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A333DDF A333 _KA  ; Airbus Industrie A330-300, visible as A333
+VIP_B703DDF B703 _KA  ; Boeing 707-300, visible as B703
+VIP_B735DDF B735 _KA  ; Boeing 737-500, visible as B733
+VIP_B736DDF B736 _KA  ; Boeing 737-600, visible as B733
+VIP_B737DDF B737 _KA  ; Boeing 737-700, visible as B733
+VIP_B738DDF B738 _KA  ; Boeing 737-800, visible as B738
+VIP_B739DDF B739 _KA  ; Boeing 737-900, visible as B739
+VIP_B742DDF B742 _KA  ; Boeing 747-200, visible as B742
+VIP_B752DDF B752 _KA  ; Boeing 757-200, visible as B752
+VIP_B762DDF B762 _KA  ; Boeing 767-300, visible as B763
+VIP_B763DDF B763 _KA  ; Boeing 767-300, visible as B763
+VIP_B772DDF B772 _KA  ; Boeing 777-200ER, visible as B772ER
+VIP_B773DDF B773 _KA  ; Boeing 777-300ER, visible as B773ER
+VIP_CRJ2DDF CRJ2 _KA  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_DC10DDF DC10 _KA  ; McDonnell Douglas DC-10, visible as DC10 
+VIP_F100DDF F100 _KA  ; Fokker 100, visible as F100
+VIP_B752DHK B752 DHK  ; Boeing 757-200F, visible as B752
+VIP_A30BDHL A30B DHL  ; Airbus Industrie A300-600, visible as A30B
+VIP_B732DHL B732 DHL  ; Boeing 737-200F, visible as B732
+VIP_DC87DHL DC87 DHL  ; McDonnell Douglas DC-8F, visible as B703
+VIP_AT45DLA AT45 DLA  ; ATR.42-300, visible as ATR45
+VIP_AT72DLA AT72 DLA  ; ATR.72-200, visible as ATR72
+VIP_B463DLA B463 DLA  ; BAe146-300, visible as BA462
+VIP_CRJ2DLA CRJ2 DLA  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_A30BDLH A30B DLH  ; Airbus Industrie A300-600, visible as A30B
+VIP_A310DLH A310 DLH  ; Airbus Industrie A310-300, visible as A30B
+VIP_A319DLH A319 DLH  ; Airbus Industrie A319, visible as A319
+VIP_A320DLH A320 DLH  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321DLH A321 DLH  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332DLH A332 DLH  ; Airbus Industrie A330-200, visible as A332
+VIP_A333DLH A333 DLH  ; Airbus Industrie A330-300, visible as A333
+VIP_A342DLH A342 DLH  ; Airbus Industrie A340-200, visible as A342
+VIP_A343DLH A343 DLH  ; Airbus Industrie A340-300, visible as A343
+VIP_A346DLH A346 DLH  ; Airbus Industrie A340-600, visible as A346
+VIP_A388DLH A388 DLH  ; Airbus Industrie A380, visible as A380
+VIP_B733DLH B733 DLH  ; Boeing 737-300, visible as B733
+VIP_B734DLH B734 DLH  ; Boeing 737-400, visible as B733
+VIP_B735DLH B735 DLH  ; Boeing 737-500, visible as B733
+VIP_B742DLH B742 DLH  ; Boeing 747-200, visible as B742
+VIP_B744DLH B744 DLH  ; Boeing 747-400, visible as B744
+VIP_B763DLH B763 DLH  ; Boeing 767-300, visible as B763
+VIP_A318DLP A318 _DL  ; Airbus Industrie A318, visible as A318
+VIP_A319DLP A319 _DL  ; Airbus Industrie A319, visible as A319
+VIP_A320DLP A320 _DL  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321DLP A321 _DL  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332DLP A332 _DL  ; Airbus Industrie A330-200, visible as A332
+VIP_A333DLP A333 _DL  ; Airbus Industrie A330-300, visible as A333
+VIP_A342DLP A342 _DL  ; Airbus Industrie A340-200, visible as A342
+VIP_A343DLP A343 _DL  ; Airbus Industrie A340-300, visible as A343
+VIP_AT45DLP AT45 _DL  ; ATR.42-300, visible as ATR45
+VIP_B734DLP B734 _DL  ; Boeing 737-400, visible as B733
+VIP_B742DLP B742 _DL  ; Boeing 747-200, visible as B742
+VIP_B743DLP B743 _DL  ; Boeing 747-300, visible as B743
+VIP_B744DLP B744 _DL  ; Boeing 747-400, visible as B744
+VIP_B763DLP B763 _DL  ; Boeing 767-300, visible as B763
+VIP_B772DLP B772 _DL  ; Boeing 777-200ER, visible as B772ER
+VIP_B773DLP B773 _DL  ; Boeing 777-300ER, visible as B773ER
+VIP_CRJ2DLP CRJ2 _DL  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_B703DSR B703 DSR  ; Boeing 707-300F, visible as B703
+VIP_DC10DSR DC10 DSR  ; McDonnell Douglas DC-10F, visible as DC10 
+VIP_AT42DTR AT45 DTR  ; ATR.42-300, visible as ATR45
+VIP_AT72DTR AT72 DTR  ; ATR.72-200, visible as ATR72
+VIP_B190DTR B190 DTR  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B738ECA B738 ECA  ; Boeing 737-800, visible as B738
+VIP_A320EEZ A320 EEZ  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332EEZ A332 EEZ  ; Airbus Industrie A330-200, visible as A332
+VIP_B763EEZ B763 EEZ  ; Boeing 767-300, visible as B763
+VIP_DC92EEZ DC92 EEZ  ; McDonnell Douglas DC-9, visible as MD81
+VIP_AT45EGF AT45 EGF  ; ATR.42-300, visible as ATR45
+VIP_AT72EGF AT72 EGF  ; ATR.72-200, visible as ATR72
+VIP_CRJ7EGF CRJ7 EGF  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_E135EGF E135 EGF  ; Embraer RJ135  Amazon, visible as CRJ2                      
+VIP_E145EGF E145 EGF  ; Embraer RJ145  Amazon, visible as CRJ2              
+VIP_SF34EGF SF34 EGF  ; SAAB Saab SF340A/B, visible as SF34
+VIP_B741EIA B741 EIA  ; Boeing 747-100, visible as B741
+VIP_B742EIA B742 EIA  ; Boeing 747-200F, visible as B742
+VIP_B744EIA B744 EIA  ; Boeing 747-400F, visible as B744F
+VIP_DC91EIA DC91 EIA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93EIA DC93 EIA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_A319EIN A319 EIN  ; Airbus Industrie A319, visible as A319
+VIP_A320EIN A320 EIN  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321EIN A321 EIN  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332EIN A332 EIN  ; Airbus Industrie A330-200, visible as A332
+VIP_A333EIN A333 EIN  ; Airbus Industrie A330-300, visible as A333
+VIP_A342EIN A342 EIN  ; Airbus Industrie A340-200, visible as A342
+VIP_A343EIN A343 EIN  ; Airbus Industrie A340-300, visible as A343
+VIP_A345EIN A345 EIN  ; Airbus Industrie A340-500, visible as A345
+VIP_B463EIN B463 EIN  ; BAe146-300, visible as BA462
+VIP_B734EIN B734 EIN  ; Boeing 737-400, visible as B733
+VIP_B735EIN B735 EIN  ; Boeing 737-500, visible as B733
+VIP_B736EIN B736 EIN  ; Boeing 737-600, visible as B733
+VIP_B737EIN B737 EIN  ; Boeing 737-700, visible as B733
+VIP_B738EIN B738 EIN  ; Boeing 737-800, visible as B738
+VIP_B741EIN B741 EIN  ; Boeing 747-100, visible as B741 
+VIP_B742EIN B742 EIN  ; Boeing 747-200, visible as B742 
+VIP_B743EIN B743 EIN  ; Boeing 747-300, visible as B743 
+VIP_B744EIN B744 EIN  ; Boeing 747-400, visible as B744
+VIP_B763EIN B763 EIN  ; Boeing 767-300, visible as B763
+VIP_B772EIN B772 EIN  ; Boeing 777-200ER, visible as B772ER
+VIP_B773EIN B773 EIN  ; Boeing 777-300, visible as B773
+VIP_MD11EIN MD11 EIN  ; McDonnell Douglas MD11, visible as MD11
+VIP_A320EIR A320 EIR  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B733ELL B733 ELL  ; Boeing 737-300, visible as B733
+VIP_B734ELL B734 ELL  ; Boeing 737-400, visible as B733
+VIP_B735ELL B735 ELL  ; Boeing 737-500, visible as B733
+VIP_B736ELL B736 ELL  ; Boeing 737-600, visible as B733
+VIP_AT45ELO AT45 ELO  ; ATR.42-300, visible as ATR45
+VIP_AT72ELO AT72 ELO  ; ATR.72-200, visible as ATR72
+VIP_B734ELY B734 ELY  ; Boeing 737-400, visible as B733
+VIP_B737ELY B737 ELY  ; Boeing 737-700, visible as B733
+VIP_B738ELY B738 ELY  ; Boeing 737-800, visible as B738 
+VIP_B742ELY B742 ELY  ; Boeing 747-200, visible as B742
+VIP_B744ELY B744 ELY  ; Boeing 747-400, visible as B744
+VIP_B752ELY B752 ELY  ; Boeing 757-200, visible as B752
+VIP_B762ELY B762 ELY  ; Boeing 767-200, visible as B762
+VIP_B772ELY B772 ELY  ; Boeing 777-200ER, visible as B772ER
+VIP_B733EMD B733 _EM  ; Boeing 737-300, visible as B733
+VIP_B734EMD B734 _EM  ; Boeing 737-400, visible as B733
+VIP_B735EMD B735 _EM  ; Boeing 737-500, visible as B733
+VIP_B736EMD B736 _EM  ; Boeing 737-600, visible as B733
+VIP_B737EMD B737 _EM  ; Boeing 737-700, visible as B733
+VIP_B738EMD B738 _EM  ; Boeing 737-800, visible as B738
+VIP_B744EMD B744 _EM  ; Boeing 747-400, visible as B744
+VIP_B752EMD B752 _EM  ; Boeing 757-200, visible as B752
+VIP_B753EMD B753 _EM  ; Boeing 757-300, visible as B753
+VIP_B763EMD B763 _EM  ; Boeing 767-300, visible as B763
+VIP_B772EMD B772 _EM  ; Boeing 777-200ER, visible as B772ER
+VIP_B773EMD B773 _EM  ; Boeing 777-300ER, visible as B773ER
+VIP_CRJ2EMD CRJ2 _EM  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7EMD CRJ7 _EM  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_DH8AEMD DH8A _EM  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_DH8DEMD DH8D _EM  ; De Havilland Canada DHC-8 Dash 8Q-400,visible as DH8D
+VIP_DHC6EMD DHC6 _EM  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_DHC7EMD DHC7 _EM  ; De Havilland Canada DHC-7, visible as DHC7
+VIP_B461EMD B461 _EM  ; BAe146-100, visible as BA463
+VIP_B462EMD B462 _EM  ; BAe146-200, visible as BA463
+VIP_B463EMD B463 _EM  ; BAe146-300, visible as BA463
+VIP_B462EMX B462 EMX  ; BAe146 RJ100, visible as BA462
+VIP_DH8BEMX DH8B EMX  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8CEMX DH8C EMX  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_D328EMX D328 EMX  ; Fairchild Do.328 Prop, visible as D328
+VIP_B763ERC B763 ERC  ; Boeing 767-300F, visible as B763
+VIP_B744ERC B744 ERC  ; Boeing 747-400F, visible as B744F
+VIP_A320ERN A320 ERN  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_B190ERN B190 ERN  ; Beechcraft 1900/1900C/1900D, visible as B190 
+VIP_B735ERN B735 ERN  ; Boeing 737-500, visible as B733 
+VIP_B744ERN B744 ERN  ; Boeing 747-400, visible as B744
+VIP_B763ERN B763 ERN  ; Boeing 767-300, visible as B763
+VIP_JS31ERN JS31 ERN  ; British Aerospace Jetstream 31, visible as JS31
+VIP_IL76EQC IL76 EQC  ; llyushin 76TD, visible as IL76
+VIP_A310ESA A310 _ES  ; Airbus Industrie A310-200/300, visible as A30B
+VIP_A319ESA A319 _ES  ; Airbus Industrie A319, visible as A319
+VIP_A320ESA A320 _ES  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321ESA A321 _ES  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332ESA A332 _ES  ; Airbus Industrie A330-200, visible as A332
+VIP_A333ESA A333 _ES  ; Airbus Industrie A330-300, visible as A333
+VIP_A342ESA A342 _ES  ; Airbus Industrie A340-200, visible as A342
+VIP_A343ESA A343 _ES  ; Airbus Industrie A340-300, visible as A343
+VIP_B737ESA B737 _ES  ; Boeing 737-700, visible as B733
+VIP_B738ESA B738 _ES  ; Boeing 737-800, visible as B738
+VIP_B742ESA B742 _ES  ; Boeing 747-200, visible as B742
+VIP_B744ESA B744 _ES  ; Boeing 747-400, visible as B744
+VIP_B763ESA B763 _ES  ; Boeing 767-300, visible as B763
+VIP_B190ESA B190 _ES  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_DH8CESA DH8C _ES  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_B733ESK B733 ESK  ; Boeing 737-300, visible as B733
+VIP_B734ESK B734 ESK  ; Boeing 737-400, visible as B733
+VIP_B735ESK B735 ESK  ; Boeing 737-500, visible as B733
+VIP_B736ESK B736 ESK  ; Boeing 737-600, visible as B733
+VIP_F100EUY F100 EUY  ; Fokker F100, visible as F100
+VIP_A332EVA A332 EVA  ; Airbus Industrie A330-200, visible as A332
+VIP_A333EVA A333 EVA  ; Airbus Industrie A330-300, visible as A333
+VIP_B744EVA B744 EVA  ; Boeing 747-400, visible as B744
+VIP_B752EVA B752 EVA  ; Boeing 757-200, visible as B752
+VIP_B762EVA B762 EVA  ; Boeing 767-200, visible as B762
+VIP_B763EVA B763 EVA  ; Boeing 767-300, visible as B763
+VIP_B772EVA B772 EVA  ; Boeing 777-200ER, visible as B772ER
+VIP_B773EVA B773 EVA  ; Boeing 777-300ER, visible as B773ER
+VIP_MD90EVA MD90 EVA  ; McDonnell Douglas MD90, visible as MD81
+VIP_MD11EVA MD11 EVA  ; McDonnell Douglas MD11F, visible as MD11
+VIP_A319EWG A319 EWG  ; Airbus Industrie A319, visible as A319
+VIP_A320EWG A320 EWG  ; Airbus Industrie A320-100/200, visible as A320
+VIP_AT45EWG AT45 EWG  ; ATR.42-300, visible as ATR45
+VIP_AT72EWG AT72 EWG  ; ATR.72-200, visible as ATR72
+VIP_B462EWG B462 EWG  ; BAe146-200, visible as BA462
+VIP_B463EWG B463 EWG  ; BAe146-300, visible as BA462
+VIP_CRJ2EWG CRJ2 EWG  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_DH8CEXN AN26 EXN  ; Antonov AN-26, visible as DH8C
+VIP_JS31EZE JS31 EZE  ; British Aerospace Jetstream 31, visible as JS31 
+VIP_JS41EZE JS41 EZE  ; British Aerospace Jetstream 41, visible as JS41 
+VIP_SB20EZE SB20 EZE  ; SAAB Saab 2000,P,T, visible as SB20
+VIP_A319EZS A319 EZS  ; Airbus Industrie A319, visible as A319
+VIP_B733EZS B733 EZS  ; Boeing 737-300, visible as B733
+VIP_B738EZS B738 EZS  ; Boeing 737-800, visible as B738
+VIP_A319EZY A319 EZY  ; Airbus Industrie A319, visible as A319
+VIP_A320EZY A320 EZY  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B733EZY B733 EZY  ; Boeing 737-300, visible as B733
+VIP_B738EZY B738 EZY  ; Boeing 737-800, visible as B738
+VIP_A320FCA A320 FCA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321FCA A321 FCA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B752FCA B752 FCA  ; Boeing 757-200, visible as B752
+VIP_B762FCA B762 FCA  ; Boeing 767-200, visible as B762
+VIP_B763FCA B763 FCA  ; Boeing 767-300, visible as B763
+VIP_A306FDX A306 FDX  ; Airbus Industrie A300-600F, visible as A30B
+VIP_A310FDX A310 FDX  ; Airbus Industrie A310-200F, visible as A30B
+VIP_A388FDX A388 FDX  ; Airbus Industrie A380, visible as A380
+VIP_AT45FDX AT45 FDX  ; ATR.42-300F, visible as ATR45
+VIP_DC10FDX DC10 FDX  ; McDonnell Douglas DC-10F, visible as DC10
+VIP_DHC6FDX DHC6 FDX  ; Cessna 208B, visible as DHC6
+VIP_MD11FDX MD11 FDX  ; McDonnell Douglas MD11F, visible as MD11
+VIP_B733FFR B733 FFR  ; Boeing 737-300, visible as B733
+VIP_A318FFT A318 FFT  ; Airbus Industrie A318, visible as A318
+VIP_A319FFT A319 FFT  ; Airbus Industrie A319, visible as A319
+VIP_B732FFT B732 FFT  ; Boeing 737-200, visible as B732
+VIP_B733FFT B733 FFT  ; Boeing 737-300, visible as B733
+VIP_A319FIN A319 FIN  ; Airbus Industrie A319, visible as A319
+VIP_A320FIN A320 FIN  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321FIN A321 FIN  ; Airbus Industrie A321-100/200, visible as A321
+VIP_AT72FIN AT72 FIN  ; ATR.72-200, visible as ATR72
+VIP_B752FIN B752 FIN  ; Boeing 757-200, visible as B752
+VIP_DC92FIN DC92 FIN  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93FIN DC93 FIN  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DHC6FIN DHC6 FIN  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_MD82FIN MD82 FIN  ; McDonnell Douglas MD82, visible as MD81
+VIP_MD83FIN MD83 FIN  ; McDonnell Douglas MD83, visible as MD81
+VIP_MD11FIN MD11 FIN  ; McDonnell Douglas MD11, visible as MD11
+VIP_B752FJE B752 FJE  ; Boeing 757-200, visible as B752
+VIP_B763FJE B763 FJE  ; Boeing 767-300, visible as B763
+VIP_B737FJI B737 FJI  ; Boeing 737-700, visible as B733
+VIP_B738FJI B738 FJI  ; Boeing 737-800, visible as B738
+VIP_B744FJI B744 FJI  ; Boeing 747-400, visible as B744
+VIP_B763FJI B763 FJI  ; Boeing 767-300, visible as B763
+VIP_CRJ2FLG CRJ2 FLG  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_SF34FLG SF34 FLG  ; SAAB Saab SF340A/B, visible as SF34
+VIP_B733FOMY B733 FOM FOMYY ; Boeing 737-300, visible as B733
+VIP_B733FOMW B733 FOM FOMWW ; Boeing 737-300, visible as B733
+VIP_B734FUA B734 FUA  ; Boeing 737-400, visible as B733
+VIP_B735FUA B735 FUA  ; Boeing 737-500, visible as B733
+VIP_B736FUA B736 FUA  ; Boeing 737-600, visible as B733
+VIP_B738FUA B738 FUA  ; Boeing 737-800, visible as B738
+VIP_B734GAE B734 _GE  ; Boeing 737-400, visible as B733
+VIP_B736GAE B736 _GE  ; Boeing 737-600, visible as B733
+VIP_B738GAE B738 _GE  ; Boeing 737-800, visible as B738
+VIP_B744FGAE B744 _GE  ; Boeing 747-400F, visible as B744F
+VIP_B744GAE B744 _GE  ; Boeing 747-400 , visible as B744 
+VIP_B752GAE B752 _GE  ; Boeing 757-200, visible as B752
+VIP_B753GAE B753 _GE  ; Boeing 757-300, visible as B753
+VIP_B762GAE B762 _GE  ; Boeing 767-200, visible as B762
+VIP_B763GAE B763 _GE  ; Boeing 767-300, visible as B763
+VIP_B772GAE B772 _GE  ; Boeing 777-200ER, visible as B772ER
+VIP_B773GAE B773 _GE  ; Boeing 777-300ER, visible as B773ER
+VIP_A333GAE A333 _GE  ; Airbus Industrie A330-300, visible as A333
+VIP_A343GAE A343 _GE  ; Airbus Industrie A340-300, visible as A343
+VIP_A346GAE A346 _GE  ; Airbus Industrie A340-600, visible as A346
+VIP_A321GAE A321 _GE  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A319GAE A319 _GE  ; Airbus Industrie A319-100/200, visible as A319
+VIP_A320GAE A320 _GE  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_AT72GAE AT72 _GE  ; ATR.72-200, visible as ATR72
+VIP_DH8CGAE DH8C _GE  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_MD11CGAC MD11 _GE  ; McDonnell Douglas MD11F, visible as MD11
+VIP_MD11GAE MD11 _GE  ; McDonnell Douglas MD11, visible as MD11
+VIP_A30BGAE A30B _GE  ; Airbus Industrie A300-B2, visible as A30B
+VIP_A30BCGAE A30B _GE  ; Airbus Industrie A300-B2, visible as A30B
+VIP_CRJ2GAE CRJ2 _GE  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_A388GAE A388 _GE  ; Airbus Industrie A380, visible as A380
+VIP_B190GAE B190 _GE  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_F100GAE F100 _GE  ; Fokker 100, visible as F100
+VIP_A320GBL A320 GBL  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321GBL A321 GBL  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B733GBL B733 GBL  ; Boeing 737-300, visible as B733
+VIP_DC10GCO DC10 GCO  ; McDonnell Douglas DC-10F, visible as DC10
+VIP_MD11GCO MD11 GCO  ; McDonnell Douglas MD11F, visible as MD11
+VIP_B742GEC B742 GEC  ; Boeing 747-200F, visible as B742
+VIP_MD11GEC MD11 GEC  ; McDonnell Douglas MD11F, visible as MD11
+VIP_A320GFAGD A320 GFA  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A320GFAOR A320 GFA  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A332GFAGD A332 GFA  ; Airbus Industrie A330-200, visible as A332
+VIP_A332GFAOR A332 GFA  ; Airbus Industrie A330-200, visible as A332
+VIP_A343GFAGD A343 GFA  ; Airbus Industrie A340-300, visible as A343
+VIP_A343GFAOR A343 GFA  ; Airbus Industrie A340-300, visible as A343
+VIP_B763GFAGD B763 GFA  ; Boeing 767-300, visible as B763
+VIP_B763GFAOR B763 GFA  ; Boeing 767-300, visible as B763
+VIP_A333GIA A333 GIA  ; Airbus Industrie A330-300, visible as A333
+VIP_A343GIA A343 GIA  ; Airbus Industrie A340-300, visible as A343
+VIP_B733GIA B733 GIA  ; Boeing 737-300, visible as B733
+VIP_B734GIA B734 GIA  ; Boeing 737-400, visible as B733
+VIP_B735GIA B735 GIA  ; Boeing 737-500, visible as B733
+VIP_B737GIA B737 GIA  ; Boeing 737-700, visible as B733
+VIP_B742GIA B742 GIA  ; Boeing 747-200, visible as B742
+VIP_B744GIA B744 GIA  ; Boeing 747-400, visible as B744
+VIP_B738GIL B738 VOZ DJGIL ; Boeing 737-800, special Gillette
+VIP_F100GMI F100 GMI  ; Fokker 100, visible as F100
+VIP_B733GMI B733 GMI  ; Boeing 737-300, visible as B733
+VIP_B737GMI B737 GMI  ; Boeing 737-700, visible as B733
+VIP_DC10GIA DC10 GIA  ; McDonnell Douglas DC-10, visible as DC10
+VIP_B190GLA B190 GLA  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B734GLO B734 GLO  ; Boeing 737-400, visible as B733
+VIP_B737GLO B737 GLO  ; Boeing 737-700, visible as B733
+VIP_B738GLO B738 GLO  ; Boeing 737-800, visible as B738
+VIP_B190GLR B190 GLR  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B752GRE B752 GRE  ; Boeing 757-200, visible as B752
+VIP_A332GRL A332 GRL  ; Airbus Industrie A330-200, visible as A332
+VIP_B752GRL B752 GRL  ; Boeing 757-200, visible as B752
+VIP_DHC6GRL DHC6 GRL  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_B744GSS B744 GSS  ; Boeing 747-400F, visible as B744F
+VIP_B742GTI B742 GTI  ; Boeing 747-200F, visible as B742
+VIP_B743GTI B743 GTI  ; Boeing 747-300F, visible as B743
+VIP_B744GTI B744 GTI  ; Boeing 747-400F, visible as B744F
+VIP_A319GWI A319 GWI  ; Airbus Industrie A319, visible as A319
+VIP_A320GWI A320 GWI  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B712HAL B712 HAL  ; Boeing 717-200, visible as MD81
+VIP_B763HAL B763 HAL  ; Boeing 767-300, visible as B763
+VIP_B733HCY B733 HCY  ; Boeing 737-300, visible as B733
+VIP_B738HCY B738 HCY  ; Boeing 737-800, visible as B738
+VIP_A320HDA A320 HDA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321HDA A321 HDA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332HDA A332 HDA  ; Airbus Industrie A330-200, visible as A332
+VIP_A333HDA A333 HDA  ; Airbus Industrie A330-300, visible as A333
+VIP_A342HDA A342 HDA  ; Airbus Industrie A340-200, visible as A342
+VIP_A343HDA A343 HDA  ; Airbus Industrie A340-300, visible as A343
+VIP_B742HDA B742 HDA  ; Boeing 747-200, visible as B742
+VIP_B743HDA B743 HDA  ; Boeing 747-300, visible as B743
+VIP_B744HDA B744 HDA  ; Boeing 747-400F, visible as B744F
+VIP_B737HHI B737 HHI  ; Boeing 737-700, visible as B733
+VIP_A30BHLF A30B HLF  ; Airbus Industrie A310-200, visible as A30B
+VIP_A310HLF A310 HLF  ; Airbus Industrie A310-300, visible as A30B
+VIP_B734HLF B734 HLF  ; Boeing 737-400, visible as B733
+VIP_B735HLF B735 HLF  ; Boeing 737-500, visible as B733
+VIP_B738HLF B738 HLF  ; Boeing 737-800, visible as B738
+VIP_A306HLQ A306 HLQ  ; Airbus Industrie A300-600, visible as A30B
+VIP_DC10HLQ DC10 HLQ  ; McDonnell Douglas DC-10, visible as DC10
+VIP_MD81HLQ MD81 HLQ  ; McDonnell Douglas MD81, visible as MD81
+VIP_B735HLX B735 HLX  ; Boeing 737-500, visible as B733
+VIP_B737HLX B737 HLX  ; Boeing 737-700, visible as B733
+VIP_B733HSK B733 HSK  ; Boeing 737-300, visible as B733
+VIP_B734HSK B734 HSK  ; Boeing 737-400, visible as B733
+VIP_B735HSK B735 HSK  ; Boeing 737-500, visible as B733
+VIP_B736HSK B736 HSK  ; Boeing 737-600, visible as B733
+VIP_B737HSK B737 HSK  ; Boeing 737-700, visible as B733
+VIP_A321HVN A321 HVN  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B772HVN B772 HVN  ; Boeing 777-200, visible as B772
+VIP_SF34HZL SF34 HZL  ; SAAB Saab SF340A/B, visible as SF34
+VIP_AT72IBB AT72 IBB  ; ATR.72-200, visible as ATR72
+VIP_B190IBB B190 IBB  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_A319IBE A319 IBE  ; Airbus Industrie A319, visible as A319
+VIP_A320IBE A320 IBE  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321IBE A321 IBE  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332IBE A332 IBE  ; Airbus Industrie A330-200, visible as A332
+VIP_A333IBE A333 IBE  ; Airbus Industrie A330-300, visible as A333
+VIP_A343IBE A343 IBE  ; Airbus Industrie A340-300, visible as A343
+VIP_A346IBE A346 IBE  ; Airbus Industrie A340-600, visible as A346
+VIP_B742IBE B742 IBE  ; Boeing 747-200, visible as B742
+VIP_B743IBE B743 IBE  ; Boeing 747-300, visible as B743
+VIP_B744IBE B744 IBE  ; Boeing 747-400, visible as B744
+VIP_B752IBE B752 IBE  ; Boeing 757-200, visible as B752
+VIP_DC92IBE DC92 IBE  ; McDonnell Douglas DC-9, visible as MD81
+VIP_MD81IBE MD81 IBE  ; McDonnell Douglas MD81, visible as MD81
+VIP_MD88IBE MD88 IBE  ; McDonnell Douglas MD88, visible as MD81
+VIP_B733ICE B733 ICE  ; Boeing 737-300, visible as B733
+VIP_B734ICE B734 ICE  ; Boeing 737-400, visible as B733
+VIP_B752ICE B752 ICE  ; Boeing 757-200, visible as B752
+VIP_B753ICE B753 ICE  ; Boeing 757-300, visible as B753
+VIP_B763ICE B763 ICE  ; Boeing 767-300, visible as B763
+VIP_A319IDE A319 IDE  ; Airbus Industrie A319, visible as A319
+VIP_CRJ2IDE CRJ2 IDE  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_B738IFC B738 _IF  ; Boeing 737-800, visible as B738
+VIP_B763IFC B763 _IF  ; Boeing 767-300, visible as B763
+VIP_B744IFC B744 _IF  ; Boeing 747-400, visible as B744
+VIP_B744IITS B744 FJI FJITS ; Boeing 747-400, special Island in the Sky
+VIP_AT45ISR AT45 ISR  ; ATR.42-300, visible as ATR45
+VIP_B752ISR B752 ISR  ; Boeing 757-200, visible as B752
+VIP_B763ISR B763 ISR  ; Boeing 767-300, visible as B763
+VIP_A319ISS A319 ISS  ; Airbus Industrie A319, visible as A319
+VIP_A320ISS A320 ISS  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B462ISS B462 ISS  ; BAe146-200, visible as BA462
+VIP_DC92ISS DC92 ISS  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93ISS DC93 ISS  ; McDonnell Douglas DC-9, visible as MD81
+VIP_SF34JAC SF34 JAC  ; SAAB Saab SF340A/B, visible as SF34
+VIP_A30BJAL A30B JAL  ; Airbus Industrie A300-600, visible as A30B
+VIP_B732JAL B732 JAL  ; Boeing 737-200, visible as B732
+VIP_B734JAL B734 JAL  ; Boeing 737-400, visible as B733
+VIP_B741JAL B741 JAL  ; Boeing 747-100, visible as B741
+VIP_B742JAL B742 JAL  ; Boeing 747-200F, visible as B742
+VIP_B743JAL B743 JAL  ; Boeing 747-300, visible as B743
+VIP_B744JAL B744 JAL  ; Boeing 747-400, visible as B744
+VIP_B74DJAL B74D JAL  ; Boeing 747-400D, visible as B74D
+VIP_B762JAL B762 JAL  ; Boeing 767-200, visible as B762
+VIP_B763JAL B763 JAL  ; Boeing 767-300, visible as B763
+VIP_B772JAL B772 JAL  ; Boeing 777-200, visible as B772
+VIP_B773JAL B773 JAL  ; Boeing 777-300, visible as B773
+VIP_CRJ2JAL CRJ2 JAL  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_DC91JAL DC91 JAL  ; McDonnell Douglas DC-9, visible as MD81 
+VIP_DC10JAL DC10 JAL  ; McDonnell Douglas DC-10, visible as DC10
+VIP_JS31JAL JS31 JAL  ; British Aerospace Jetstream 31, visible as JS31       
+VIP_MD11JAL MD11 JAL  ; McDonnell Douglas MD11, visible as MD11
+VIP_MD90JAL MD90 JAL  ; McDonnell Douglas MD90, visible as MD81 
+VIP_A319JAT A319 JAT  ; Airbus Industrie A319, visible as A319 
+VIP_AT72JAT AT72 JAT  ; ATR.72-200, visible as ATR72
+VIP_B733JAT B733 JAT  ; Boeing 737-300, visible as B733
+VIP_B734JAT B734 JAT  ; Boeing 737-400, visible as B733
+VIP_DC91JAT DC91 JAT  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC92JAT DC92 JAT  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93JAT DC93 JAT  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC10JAT DC10 JAT  ; McDonnell Douglas DC-10, visible as DC10
+VIP_IL76JAW IL76 JAW  ; llyushin 76TD, visible as IL76
+VIP_A30BJHB A30B _JB  ; Airbus Industrie A300-600, visible as A30B
+VIP_A310JHB A310 _JB  ; Airbus Industrie A310-200, visible as A30B
+VIP_A320JHB A320 _JB  ; Airbus Industrie A320-200, visible as A320
+VIP_A343JHB A343 _JB  ; Airbus Industrie A340-300, visible as A343
+VIP_AT72JHB AT72 _JB  ; ATR-72-500, visible as ATR72
+VIP_B190JHB B190 _JB  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B734JHB B734 _JB  ; Boeing 737-400, visible as B733
+VIP_B737JHB B737 _JB  ; Boeing 737-700, visible as B733
+VIP_B739JHB B739 _JB  ; Boeing 737-900, visible as B739
+VIP_B744JHB B744 _JB  ; Boeing 747-400, visible as B744
+VIP_B752JHB B752 _JB  ; Boeing 757-200, visible as B752
+VIP_C72RJHB C72R _JB  ; Cessna.172, visible as CE172
+VIP_DH8AJHB DH8A _JB  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_DH8DJHB DH8D _JB  ; De Havilland Canada DHC-8 Dash 8-400, visible as DH8D
+VIP_F70JHB  F70  _JB  ; Fokker 70, visible as F100
+VIP_F100JHB F100 _JB  ; Fokker 100, visible as F100
+VIP_A320JBU A320 JBU  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A319JBU A319 JBU  ; Airbus Industrie A319, visible as A319
+VIP_A320JET A320 JET  ; Airbus Industrie A320-100/200, visible as A320  
+VIP_B734JEX B734 JEX  ; Boeing 737-400, visible as B733
+VIP_DC93JGO DC93 JGO  ; McDonnell Douglas DC-9, visible as MD81
+VIP_F100JGO F100 JGO  ; Fokker 100, visible as F100
+VIP_MD83JGO MD83 JGO  ; McDonnell Douglas MD83, visible as MD81
+VIP_A320JKK A320 JKK  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321JKK A321 JKK  ; Airbus Industrie A321-100/200, visible as A321
+VIP_DC92JKK DC92 JKK  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93JKK DC93 JKK  ; McDonnell Douglas DC-9, visible as MD81
+VIP_MD81JKK MD81 JKK  ; McDonnell Douglas MD81, visible as MD81
+VIP_B712JST B712 JST  ; Boeing 717-200, visible as B712
+VIP_A320JST A320 JST  ; Airbus Industrie A320, visible as A320
+VIP_A30BKAC A30B KAC  ; Airbus Industrie A300-600, visible as A30B
+VIP_A320KAC A320 KAC  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A343KAC A343 KAC  ; Airbus Industrie A340-300, visible as A343
+VIP_B742KAC B742 KAC  ; Boeing 747-200, visible as B742
+VIP_B744KAC B744 KAC  ; Boeing 747-400, visible as B744
+VIP_B772KAC B772 KAC  ; Boeing 777-200ER, visible as B772ER
+VIP_A310KAC A310 KAC  ; Airbus Industrie A310-300, visible as A30B
+VIP_A306KAL A306 KAL  ; Airbus Industrie A300-600, visible as A30B
+VIP_A332KAL A332 KAL  ; Airbus Industrie A330-200, visible as A332 
+VIP_A333KAL A333 KAL  ; Airbus Industrie A330-300, visible as A333
+VIP_A388KAL A388 KAL  ; Airbus Industrie A380, visible as A380 
+VIP_B738KAL B738 KAL  ; Boeing 737-800, visible as B738
+VIP_B739KAL B739 KAL  ; Boeing 737-900, visible as B739
+VIP_B742KAL B742 KAL  ; Boeing 747-200, visible as B742
+VIP_B744KAL B744 KAL  ; Boeing 747-400, visible as B744
+VIP_B772KAL B772 KAL  ; Boeing 777-200ER, visible as B772ER
+VIP_B773KAL B773 KAL  ; Boeing 777-300, visible as B773 
+VIP_F100KAL F100 KAL  ; Fokker 100, visible as F100
+VIP_MD83KAL MD83 KAL  ; McDonnell Douglas MD83, visible as MD81
+VIP_MD11KAL MD11 KAL  ; McDonnell Douglas MD11, visible as MD11
+VIP_B462BLF B462 BLF  ; BAe146-200, visible as BA462
+VIP_SB20BLF SB20 BLF  ; SAAB Saab 2000,P,T, visible as SB20
+VIP_B752KIW B752 KIW  ; Boeing 757-200, visible as B752
+VIP_F70KLC  F70  KLC  ; Fokker 70, visible as F100
+VIP_F100KLC F100 KLC  ; Fokker 100, visible as F100
+VIP_A332KLM A332 KLM  ; Airbus Industrie A330-200, visible as A332
+VIP_B733KLM B733 KLM  ; Boeing 737-300, visible as B733
+VIP_B734KLM B734 KLM  ; Boeing 737-400, visible as B733
+VIP_B738KLM B738 KLM  ; Boeing 737-800, visible as B738
+VIP_B739KLM B739 KLM  ; Boeing 737-900, visible as B739
+VIP_B742KLM B742 KLM  ; Boeing 747-200, visible as B742
+VIP_B743KLM B743 KLM  ; Boeing 747-300, visible as B743
+VIP_B744KLM B744 KLM  ; Boeing 747-400, visible as B744
+VIP_B763KLM B763 KLM  ; Boeing 767-300, visible as B763
+VIP_B772KLM B772 KLM  ; Boeing 777-200ER, visible as B772ER
+VIP_MD11KLM MD11 KLM  ; McDonnell Douglas MD11, visible as MD11
+VIP_A320KNT A320 KNA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321KNT A321 KNA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A333KNT A333 KNA  ; Airbus Industrie A330-300, visible as A333
+VIP_A342KNT A342 KNA  ; Airbus Industrie A340-200, visible as A342
+VIP_A345KNT A345 KNA  ; Airbus Industrie A340-500, visible as A345
+VIP_AT45KNT AT45 KNA  ; ATR.42-300, visible as ATR45
+VIP_AT72KNT AT72 KNA  ; ATR.72-200, visible as ATR72
+VIP_B190KNT B190 KNA  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B462KNT B462 KNA  ; BAe146-200, visible as BA462
+VIP_B733KNT B733 KNA  ; Boeing 737-300, visible as B733
+VIP_B735KNT B735 KNA  ; Boeing 737-500, visible as B733
+VIP_B737KNT B737 KNA  ; Boeing 737-700, visible as B733
+VIP_B742KNT B742 KNA  ; Boeing 747-200, visible as B742
+VIP_B744KNT B744 KNA  ; Boeing 747-400, visible as B744
+VIP_B763KNT B763 KNA  ; Boeing 767-300, visible as B763
+VIP_B772KNT B772 KNA  ; Boeing 777-200ER, visible as B772ER
+VIP_CRJ2KNT CRJ2 KNA  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_DC10KNT DC10 KNA  ; McDonnell Douglas DC-10, visible as DC10
+VIP_DH8BKNT DH8B KNA  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8CKNT DH8C KNA  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_MD11KNT MD11 KNA  ; McDonnell Douglas MD11, visible as MD11
+VIP_B744KNT B744 KNA YMACK ; Knight/Compass Codeshare
+VIP_B738KNT B738 KNA YMAGB ; The Grub
+VIP_B737KSZ B737 _KS  ; Boeing 737-700, visible as B733
+VIP_A30BKVA A30B _KV  ; Airbus Industrie A300-600, visible as A30B
+VIP_A320KVA A320 _KV  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332KVA A332 _KV  ; Airbus Industrie A330-200, visible as A332
+VIP_A333KVA A333 _KV  ; Airbus Industrie A330-300, visible as A333
+VIP_A342KVA A342 _KV  ; Airbus Industrie A340-200, visible as A342
+VIP_B733KVA B733 _KV  ; Boeing 737-300, visible as B733
+VIP_B734KVA B734 _KV  ; Boeing 737-400, visible as B733
+VIP_B735KVA B735 _KV  ; Boeing 737-500, visible as B733
+VIP_B736KVA B736 _KV  ; Boeing 737-600, visible as B733
+VIP_B737KVA B737 _KV  ; Boeing 737-700, visible as B733
+VIP_B738KVA B738 _KV  ; Boeing 737-800, visible as B738
+VIP_B744KVA B744 _KV  ; Boeing 747-400, visible as B744
+VIP_B772KVA B772 _KV  ; Boeing 777-200ER, visible as B772ER
+VIP_AT45KVA AT45 _KV  ; ATR.42-300, visible as ATR45
+VIP_AT72KVA AT72 _KV  ; ATR.72-200, visible as ATR72
+VIP_DC10KVA DC10 _KV  ; McDonnell Douglas DC-10, visible as DC10
+VIP_A310KZK A310 KZK  ; Airbus Industrie A310-300, visible as A30B
+VIP_B732KZK B732 KZK  ; Boeing 737-200, visible as B732
+VIP_B762KZK B762 KZK  ; Boeing 767-200, visible as B762
+VIP_IL76KZK IL76 KZK  ; llyushin 76TD, visible as IL76
+VIP_A319LAN A319 LAN  ; Airbus Industrie A319, visible as A319
+VIP_A320LAN A320 LAN  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A343LAN A343 LAN  ; Airbus Industrie A340-300, visible as A343
+VIP_B732LAN B732 LAN  ; Boeing 737-200, visible as B732
+VIP_B762LAN B762 LAN  ; Boeing 767-200, visible as B762
+VIP_B763LAN B763 LAN  ; Boeing 767-300, visible as B763
+VIP_A320LDA A320 LDA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321LDA A321 LDA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B733LDA B733 LDA  ; Boeing 737-300, visible as B733
+VIP_B734LDA B734 LDA  ; Boeing 737-400, visible as B733
+VIP_B736LDA B736 LDA  ; Boeing 737-600, visible as B733
+VIP_B737LDA B737 LDA  ; Boeing 737-700, visible as B733
+VIP_B738LDA B738 LDA  ; Boeing 737-800, visible as B738
+VIP_B739LDA B739 LDA  ; Boeing 737-900, visible as B739
+VIP_B763LDA B763 LDA  ; Boeing 767-300, visible as B763
+VIP_B772LDA B772 LDA  ; Boeing 777-200ER, visible as B772ER
+VIP_CRJ1LDA CRJ1 LDA  ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_DC91LER DC91 LER  ; McDonnell Douglas DC9, visible as MD81
+VIP_DC93LER DC93 LER  ; McDonnell Douglas DC9, visible as MD81
+VIP_B734LGL B734 LGL  ; Boeing 737-400, visible as B733
+VIP_B735LGL B735 LGL  ; Boeing 737-500, visible as B733
+VIP_B737LGL B737 LGL  ; Boeing 737-700, visible as B733
+VIP_E145LGL E145 LGL  ; Embraer RJ145  Amazon, visible as CRJ2
+VIP_B732LIL B732 LIL  ; Boeing 737-200, visible as B732
+VIP_B734LIL B734 LIL  ; Boeing 737-400, visible as B733
+VIP_B735LIL B735 LIL  ; Boeing 737-500, visible as B733
+VIP_B736LIL B736 LIL  ; Boeing 737-500, visible as B733
+VIP_SB20LIL SB20 LIL  ; SAAB Saab 2000,P,T, visible as SB20
+VIP_A30BLHA A30B _LZ  ; Airbus Industrie A300-B2, visible as A30B
+VIP_A320LHA A320 _LZ  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321LHA A321 _LZ  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332LHA A332 _LZ  ; Airbus Industrie A330-200, visible as A332
+VIP_A342LHA A342 _LZ  ; Airbus Industrie A340-200, visible as A342
+VIP_AT45LHA AT45 _LZ  ; ATR.42-300, visible as ATR45
+VIP_AT72LHA AT72 _LZ  ; ATR.72-200, visible as ATR72
+VIP_B190LHA B190 _LZ  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B462LHA B462 _LZ  ; BAe146-200, visible as BA462
+VIP_B703LHA B703 _LZ  ; Boeing 707-300, visible as B703
+VIP_B734LHA B734 _LZ  ; Boeing 737-400, visible as B733
+VIP_B737LHA B737 _LZ  ; Boeing 737-700, visible as B733
+VIP_B738LHA B738 _LZ  ; Boeing 737-800, visible as B738
+VIP_B739LHA B739 _LZ  ; Boeing 737-900, visible as B739
+VIP_B742LHA B742 _LZ  ; Boeing 747-200, visible as B742
+VIP_B743LHA B743 _LZ  ; Boeing 747-300, visible as B743
+VIP_B744LHA B744 _LZ  ; Boeing 747-400, visible as B744
+VIP_B752LHA B752 _LZ  ; Boeing 757-200, visible as B752
+VIP_B763LHA B763 _LZ  ; Boeing 767-300, visible as B763
+VIP_B772LHA B772 _LZ  ; Boeing 777-200ER, visible as B772ER
+VIP_DC91LHA DC91 _LZ  ; McDonnell Douglas DC-9, visible as DC9
+VIP_DC10LHA DC10 _LZ  ; McDonnell Douglas DC-10, visible as DC10
+VIP_DHC7LHA DHC7 _LZ  ; De Havilland Canada DHC-7, visible as DHC7
+VIP_DH8DLHA DH8D _LZ  ; De Havilland Canada DHC-8 Dash 8Q-400, visible as DH8D
+VIP_F70LHA  F70  _LZ  ; Fokker 70, visible as F100
+VIP_F100LHA F100 _LZ  ; Fokker 100, visible as F100
+VIP_L101LHA L101 _LZ  ; Lockheed 1011 Tristar 500
+VIP_MD11LHA MD11 _LZ  ; McDonnell Douglas MD11, visible as MD11
+VIP_MD81LHA MD81 _LZ  ; McDonnell Douglas MD81, visible as MD81
+VIP_B733LZB B733 LZB  ; Boeing 737-300, visible as B733
+VIP_B734LZB B734 LZB  ; Boeing 737-400, visible as B733
+VIP_B735LZB B735 LZB  ; Boeing 737-500, visible as B733
+VIP_B736LZB B736 LZB  ; Boeing 737-600, visible as B733
+VIP_B737LZB B737 LZB  ; Boeing 737-700, visible as B733
+VIP_B733LOT B733 LOT  ; Boeing 737-300, visible as B733
+VIP_B734LOT B734 LOT  ; Boeing 737-400, visible as B733
+VIP_B735LOT B735 LOT  ; Boeing 737-500, visible as B733
+VIP_B762LOT B762 LOT  ; Boeing 767-200, visible as B762
+VIP_B763LOT B763 LOT  ; Boeing 767-300, visible as B763
+VIP_E145LOT E145 LOT  ; Embraer RJ145  Amazon, visible as CRJ2
+VIP_B744LOTR1 B744 ANZ LOTR1 ; Boeing 747-400, special LOTR
+VIP_B744LOTR2 B744 ANZ LOTR2 ; Boeing 747-400, special LOTR
+VIP_B763LOTR3 B763 ANZ LOTR3 ; Boeing 767-300, special LOTR
+VIP_A320LOTR4 A320 ANZ LOTR4 ; Airbus Industrie A320, special LOTR
+VIP_D328LPV D328 LPV  ; Fairchild Do.328 Prop, visible as D328
+VIP_A320LTE A320 LTE  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321LTE A321 LTE  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A320LTU A320 LTU  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321LTU A321 LTU  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332LTU A332 LTU  ; Airbus Industrie A330-200, visible as A332
+VIP_A333LTU A333 LTU  ; Airbus Industrie A330-300, visible as A333
+VIP_B752LTU B752 LTU  ; Boeing 757-200, visible as B752
+VIP_B763LTU B763 LTU  ; Boeing 767-300, visible as B763
+VIP_A319LXR A319 LXR  ; Airbus Industrie A319, visible as A319
+VIP_A320LXR A320 LXR  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321LXR A321 LXR  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332LXR A332 LXR  ; Airbus Industrie A330-200, visible as A332
+VIP_L101LXR L101 LXR  ; Lockheed 1011 Tristar 500  
+VIP_B733MAH B733 MAH  ; Boeing 737-300, visible as B733
+VIP_B734MAH B734 MAH  ; Boeing 737-400, visible as B733
+VIP_B735MAH B735 MAH  ; Boeing 737-500, visible as B733
+VIP_B736MAH B736 MAH  ; Boeing 737-600, visible as B733
+VIP_B737MAH B737 MAH  ; Boeing 737-700, visible as B733
+VIP_B738MAH B738 MAH  ; Boeing 737-800, visible as B738
+VIP_B762MAH B762 MAH  ; Boeing 767-200, visible as B762
+VIP_CRJ2MAH CRJ2 MAH  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_F70MAH  F70  MAH  ; Fokker 70, visible as F100
+VIP_A332MAS A332 MAS  ; Airbus Industrie A330-200, visible as A332
+VIP_A333MAS A333 MAS  ; Airbus Industrie A330-300, visible as A333
+VIP_A388MAS A388 MAS  ; Airbus Industrie A380, visible as A380
+VIP_B734MAS B734 MAS  ; Boeing 737-400, visible as B733
+VIP_B735MAS B735 MAS  ; Boeing 737-500, visible as B733
+VIP_B742MAS B742 MAS  ; Boeing 747-200, visible as B742
+VIP_B744MAS B744 MAS  ; Boeing 747-400, visible as B744
+VIP_B772MAS B772 MAS  ; Boeing 777-200ER, visible as B772ER
+VIP_A319MAU A319 MAU  ; Airbus Industrie A319, visible as A319
+VIP_A343MAU A343 MAU  ; Airbus Industrie A340-300, visible as A343
+VIP_AT45MAU AT45 MAU  ; ATR.42-300, visible as ATR45
+VIP_AT72MAU AT72 MAU  ; ATR.72-200, visible as ATR72
+VIP_B762MAU B762 MAU  ; Boeing 767-200, visible as B762
+VIP_A320MEA A320 MEA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321MEA A321 MEA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332MEA A332 MEA  ; Airbus Industrie A330-200, visible as A332
+VIP_B462MES B462 MES  ; BAe146-200, visible as BA462
+VIP_SF34MES SF34 MES  ; SAAB Saab SF340A/B, visible as SF34
+VIP_B712MEP B712 MEP  ; Boeing 717-200, visible as MD81
+VIP_DC91MEP DC91 MEP  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC92MEP DC92 MEP  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93MEP DC93 MEP  ; McDonnell Douglas DC-9, visible as MD81
+VIP_MD88MEP MD88 MEP  ; McDonnell Douglas MD88, visible as MD81
+VIP_B742MKA B742 MKA  ; Boeing 747-200F, visible as B742
+VIP_A306MON A306 MON  ; Airbus Industrie A300-600, visible as A30B
+VIP_A320MON A320 MON  ; Airbus Industrie A320-100/200, visible as A320 
+VIP_A321MON A321 MON  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332MON A332 MON  ; Airbus Industrie A330-200, visible as A332
+VIP_A333MON A333 MON  ; Airbus Industrie A330-300, visible as A333
+VIP_B732MON B732 MON  ; Boeing 737-200, visible as B732
+VIP_B733MON B733 MON  ; Boeing 737-300, visible as B733
+VIP_B752MON B752 MON  ; Boeing 757-200, visible as B752
+VIP_B753MON B753 MON  ; Boeing 757-300, visible as B753
+VIP_B763MON B763 MON  ; Boeing 767-300, visible as B763
+VIP_DC10MON DC10 MON  ; McDonnell Douglas DC-10, visible as DC10
+VIP_B752MOV B752 MOV  ; Boeing 757-200, visible as B752
+VIP_A320MPH A320 MPH  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B742MPH B742 MPH  ; Boeing 747-200, visible as B742
+VIP_B744MPH B744 MPH  ; Boeing 747-400F, visible as B744F
+VIP_B752MPH B752 MPH  ; Boeing 757-200, visible as B752
+VIP_B763MPH B763 MPH  ; Boeing 767-300, visible as B763
+VIP_MD11MPH MD11 MPH  ; McDonnell Douglas MD11, visible as MD11
+VIP_A30BMSR A30B MSR  ; Airbus Industrie A300-600, visible as A30B
+VIP_A320MSR A320 MSR  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321MSR A321 MSR  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332MSR A332 MSR  ; Airbus Industrie A330-200, visible as A332
+VIP_A342MSR A342 MSR  ; Airbus Industrie A340-200, visible as A342
+VIP_A346MSR A346 MSR  ; Airbus Industrie A340-600, visible as A346
+VIP_B703MSR B703 MSR  ; Boeing 707-300, visible as B703
+VIP_B735MSR B735 MSR  ; Boeing 737-500, visible as B735
+VIP_B743MSR B743 MSR  ; Boeing 747-300, visible as B743
+VIP_B772MSR B772 MSR  ; Boeing 777-200ER, visible as B772ER
+VIP_A318MXA A318 MXA  ; Airbus Industrie A318, visible as A318
+VIP_A319MXA A319 MXA  ; Airbus Industrie A319, visible as A319
+VIP_A320MXA A320 MXA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B752MXA B752 MXA  ; Boeing 757-200, visible as B752
+VIP_B762MXA B762 MXA  ; Boeing 767-200, visible as B762
+VIP_B763MXA B763 MXA  ; Boeing 767-300, visible as B763
+VIP_B772MXA B772 MXA  ; Boeing 777-200ER, visible as B772ER
+VIP_F100MXA F100 MXA  ; Fokker 100, visible as F100
+VIP_A320MYT A320 MYT  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321MYT A321 MYT  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332MYT A332 MYT  ; Airbus Industrie A330-200, visible as A332
+VIP_B752MYT B752 MYT  ; Boeing 757-200, visible as B752
+VIP_B763MYT B763 MYT  ; Boeing 767-300, visible as B763
+VIP_DC10MYT DC10 MYT  ; McDonnell Douglas DC-10, visible as DC10
+VIP_B743NAL B743 QFA QFEBU ; Boeing 747-300, Nalanji Dreaming
+VIP_B752NAO B752 NAO  ; Boeing 757-200, visible as B752
+VIP_B763NAO B763 NAO  ; Boeing 767-300, visible as B763
+VIP_A30BNBL A30B _NB  ; Airbus Industrie A300-600, visible as A30B
+VIP_A320NBL A320 _NB  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321NBL A321 _NB  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332NBL A332 _NB  ; Airbus Industrie A330-200, visible as A332
+VIP_A333NBL A333 _NB  ; Airbus Industrie A330-300, visible as A333
+VIP_A342NBL A342 _NB  ; Airbus Industrie A340-200, visible as A342
+VIP_A343NBL A343 _NB  ; Airbus Industrie A340-300, visible as A343
+VIP_A345NBL A345 _NB  ; Airbus Industrie A340-500, visible as A345
+VIP_A346NBL A346 _NB  ; Airbus Industrie A340-600, visible as A346
+VIP_A388NBL A388 _NB  ; Airbus Industrie A380, visible as A380
+VIP_AT45NBL AT45 _NB  ; ATR.42-300, visible as ATR45
+VIP_AT72NBL AT72 _NB  ; ATR.72-200, visible as ATR72
+VIP_B190NBL B190 _NB  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B732NBL B732 _NB  ; Boeing 737-200, visible as B732
+VIP_B733NBL B733 _NB  ; Boeing 737-300, visible as B733
+VIP_B734NBL B734 _NB  ; Boeing 737-400, visible as B733
+VIP_B735NBL B735 _NB  ; Boeing 737-500, visible as B733
+VIP_B736NBL B736 _NB  ; Boeing 737-600, visible as B733
+VIP_B737NBL B737 _NB  ; Boeing 737-700, visible as B733
+VIP_B738NBL B738 _NB  ; Boeing 737-800, visible as B738
+VIP_B741NBL B741 _NB  ; Boeing 747-100, visible as B741
+VIP_B742NBL B742 _NB  ; Boeing 747-200, visible as B742
+VIP_B743NBL B743 _NB  ; Boeing 747-300, visible as B743
+VIP_B744NBL B744 _NB  ; Boeing 747-400, visible as B744
+VIP_B752NBL B752 _NB  ; Boeing 757-200, visible as B752
+VIP_B753NBL B753 _NB  ; Boeing 757-300, visible as B753
+VIP_B762NBL B762 _NB  ; Boeing 767-200, visible as B762
+VIP_B763NBL B763 _NB  ; Boeing 767-300, visible as B763
+VIP_B772NBL B772 _NB  ; Boeing 777-200ER, visible as B772ER
+VIP_B773NBL B773 _NB  ; Boeing 777-300, visible as B773 
+VIP_CRJ2NBL CRJ2 _NB  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7NBL CRJ7 _NB  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_DC92NBL DC92 _NB  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC10NBL DC10 _NB  ; McDonnell Douglas DC-10, visible as DC10
+VIP_DH8CNBL DH8C _NB  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_DH8DNBL DH8D _NB  ; De Havilland Canada DHC-8 Dash 8Q-400, visible as DH8D
+VIP_MD11NBL MD11 _NB  ; McDonnell Douglas MD11, visible as MD11
+VIP_DHC6NBL DHC6 _NB  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_B738NEA B738 NEA  ; Boeing 737-800, visible as B738
+VIP_B461NJS B461 NJS  ; BAe146-100, visible as BA462
+VIP_B462NJS B462 NJS  ; BAe146-200, visible as BA462
+VIP_B463NJS B463 NJS  ; BAe146-300, visible as BA462
+VIP_DHC7NJS DHC7 NJS  ; De Havilland Canada DHC-7, visible as DHC7
+VIP_DH8BNJS DH8B NJS  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_A320NLY A320 NLY  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321NLY A321 NLY  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A30BNVJ A30B NVJ  ; Airbus Industrie A300-600, visible as A30B            
+VIP_A320NVJ A320 NVJ  ; Airbus Industrie A320-100/200, visible as A320        
+VIP_DC93NVJ DC93 NVJ  ; McDonnell Douglas DC-9, visible as MD81               
+VIP_A321NVR A321 NVR  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332NVR A332 NVR  ; Airbus Industrie A330-200, visible as A332
+VIP_B738NVR B738 NVR  ; Boeing 737-800, visible as B738
+VIP_A319NWA A319 NWA  ; Airbus Industrie A319, visible as A319 
+VIP_A320NWA A320 NWA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332NWA A332 NWA  ; Airbus Industrie A330-200, visible as A332
+VIP_A333NWA A333 NWA  ; Airbus Industrie A330-300, visible as A333
+VIP_B741NWA B741 NWA  ; Boeing 747-100, visible as B741
+VIP_B742NWA B742 NWA  ; Boeing 747-200, visible as B742
+VIP_B744NWA B744 NWA  ; Boeing 747-400, visible as B744
+VIP_B752NWA B752 NWA  ; Boeing 757-200, visible as B752
+VIP_B753NWA B753 NWA  ; Boeing 757-300, visible as B753
+VIP_DC91NWA DC91 NWA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC92NWA DC92 NWA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93NWA DC93 NWA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC94NWA DC94 NWA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC95NWA DC95 NWA  ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC10NWA DC10 NWA  ; McDonnell Douglas DC-10, visible as DC10
+VIP_DC10OAE DC10 OAE  ; McDonnell Douglas DC-10, visible as DC10
+VIP_B752OAE B752 OAE  ; Boeing 757-200, visible as B752
+VIP_A306OAL A306 OAL  ; Airbus Industrie A300-600, visible as A30B
+VIP_A343OAL A343 OAL  ; Airbus Industrie A340-300, visible as A343
+VIP_AT42OAL AT43 OAL  ; ATR.42-200, visible as ATR45
+VIP_AT43OAL AT43 OAL  ; ATR.42-300, visible as ATR45
+VIP_AT45OAL AT45 OAL  ; ATR.42-300, visible as ATR45
+VIP_AT72OAL AT72 OAL  ; ATR.72-200, visible as ATR72
+VIP_B712OAL B712 OAL  ; Boeing 717-200, visible as MD81
+VIP_B733OAL B733 OAL  ; Boeing 737-300, visible as B733
+VIP_B734OAL B734 OAL  ; Boeing 737-400, visible as B733
+VIP_B736OAL B736 OAL  ; Boeing 737-600, visible as B733
+VIP_B737OAL B737 OAL  ; Boeing 737-700, visible as B733
+VIP_DH8AOAL DH8A OAL  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_A306OAV A306 _OA  ; Airbus Industrie A300-600, visible as A30B
+VIP_A343OAV A343 _OA  ; Airbus Industrie A340-300, visible as A343
+VIP_AT42OAV AT45 _OA  ; ATR.42-200, visible as ATR45
+VIP_AT43OAV AT43 _OA  ; ATR.42-300, visible as ATR45
+VIP_AT45OAV AT45 _OA  ; ATR.42-300, visible as ATR45
+VIP_AT72OAV AT72 _OA  ; ATR.72-200, visible as ATR72
+VIP_B712OAV B712 _OA  ; Boeing 717-200, visible as MD81
+VIP_B733OAV B733 _OA  ; Boeing 737-300, visible as B733
+VIP_B734OAV B734 _OA  ; Boeing 737-400, visible as B733
+VIP_B736OAV B736 _OA  ; Boeing 737-600, visible as B733
+VIP_B737OAV B737 _OA  ; Boeing 737-700, visible as B733
+VIP_DH8AOAV DH8A _OA  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_F100OAW F100 OAW  ; Fokker 100, visible as F100
+VIP_DC91OCA DC91 OCA  ; McDonnell Douglas DC-9, visible as DC9
+VIP_JS31OCM JS31 OCM  ; British Aerospace Jetstream 31, visible as JS31
+VIP_JS31OGN JS31 OGN  ; British Aerospace Jetstream 31, visible as JS31
+VIP_JS41OGN JS41 OGN  ; British Aerospace Jetstream 41, visible as JS41
+VIP_B763OOM B763 OOM  ; Boeing 767-300, visible as B763
+VIP_DC91OZA DC91 _OV  ; McDonnell Douglas DC-9, visible as DC9
+VIP_DC93OZA DC93 _OV  ; McDonnell Douglas DC-9, visible as DC9
+VIP_DC94OZA DC94 _OV  ; McDonnell Douglas DC-9, visible as DC9
+VIP_MD81OZA MD81 _OV  ; McDonnell Douglas MD87, visible as MD81
+VIP_MD82OZA MD82 _OV  ; McDonnell Douglas MD82, visible as MD81
+VIP_MD87OZA MD87 _OV  ; McDonnell Douglas MD87, visible as MD87
+VIP_B732OZJ B732 OZJ  ; Boeing 737-200, visible as B732
+VIP_A318PAY A318 _PA  ; Airbus Industrie A318, visible as A318
+VIP_A319PAY A319 _PA  ; Airbus Industrie A319, visible as A319
+VIP_A320PAY A320 _PA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332PAY A332 _PA  ; Airbus Industrie A330-200, visible as A332
+VIP_B190PAY B190 _PA  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B734PAY B734 _PA  ; Boeing 737-400, visible as B733
+VIP_B738PAY B738 _PA  ; Boeing 737-800, visible as B738
+VIP_B744PAY B744 _PA  ; Boeing 747-400, visible as B744
+VIP_B752PAY B752 _PA  ; Boeing 757-200, visible as B752
+VIP_B763PAY B763 _PA  ; Boeing 767-300, visible as B763
+VIP_B772PAY B772 _PA  ; Boeing 777-200, visible as B772
+VIP_B741PAC B741 PAC  ; Boeing 747-100, visible as B741
+VIP_B742PAC B742 PAC  ; Boeing 747-200, visible as B742
+VIP_B743PAC B743 PAC  ; Boeing 747-300, visible as B743
+VIP_B744PAC B744 PAC  ; Boeing 747-400F, visible as B744F
+VIP_A320PAL A320 PAL  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A333PAL A333 PAL  ; Airbus Industrie A330-300, visible as A333
+VIP_A343PAL A343 PAL  ; Airbus Industrie A340-300, visible as A343
+VIP_B733PAL B733 PAL  ; Boeing 737-300, visible as B733
+VIP_B734PAL B734 PAL  ; Boeing 737-400, visible as B733
+VIP_B742PAL B742 PAL  ; Boeing 747-200, visible as B742
+VIP_B744PAL B744 PAL  ; Boeing 747-400, visible as B744
+VIP_B732PAAOLD B732 PAA PAOLD ; Boeing 737-200, visible as B732
+VIP_B733PAAOLD B733 PAA PAOLD ; Boeing 737-300, visible as B733
+VIP_B741PAAOLD B741 PAA PAOLD ; Boeing 747-100, visible as B741
+VIP_B742PAAOLD B742 PAA PAOLD ; Boeing 747-200, visible as B742
+VIP_B743PAAOLD B743 PAA PAOLD ; Boeing 747-300, visible as B743
+VIP_DC10PAAOLD DC10 PAA PAOLD ; McDonnell Douglas DC-10, visible as DC10
+VIP_B744FPAAOLD B744 PAA PAOLD ; Boeing 747-400F, visible as B744F
+VIP_L101PAAOLD L101 PAA  PAOLD ; Lockheed 1011 Tristar 500
+VIP_B732PAABIL B732 PAA  PABIL ; Boeing 737-200, visible as B732
+VIP_B733PAABIL B733 PAA  PABIL ; Boeing 737-300, visible as B733
+VIP_A30BPAA A30B PAA   ; Airbus Industrie A300-B2, visible as A30B
+VIP_DC10PAABIL DC10 PAA PABIL ; McDonnell Douglas DC-10, visible as DC10
+VIP_B741PAABIL B741 PAA PABIL ; Boeing 747-100, visible as B741
+VIP_B742PAABIL B742 PAA PABIL ; Boeing 747-200, visible as B742
+VIP_B743PAABIL B743 PAA PABIL ; Boeing 747-300, visible as B743
+VIP_B737PBI B737 PBI  ; Boeing 737-700, visible as B733
+VIP_B738PBI B738 PBI  ; Boeing 737-800, visible as B738
+VIP_DHC6PEL DHC6 PEL  ; De Havilland Canada Twin Otter, visible as DHC6
+VIP_AT45PDA AT45 _PD  ; ATR.42-300, visible as ATR45
+VIP_B732PDA B732 _PD  ; Boeing 737-200, visible as B732
+VIP_B738PDA B738 _PD  ; Boeing 737-800, visible as B738
+VIP_B742PDA B742 _PD  ; Boeing 747-200, visible as B742
+VIP_B734PGT B734 PGT  ; Boeing 737-400, visible as B733
+VIP_B735PGT B735 PGT  ; Boeing 737-500, visible as B733
+VIP_B738PGT B738 PGT  ; Boeing 737-800, visible as B738
+VIP_B742PIA B742 PIA  ; Boeing 747-200, visible as B742
+VIP_B743PIA B743 PIA  ; Boeing 747-300, visible as B743
+VIP_B772PIA B772 PIA  ; Boeing 777-200, visible as B772
+VIP_B738PLA B738 PLA  ; Boeing 737-800, visible as B738
+VIP_B735PSA B735 _PS  ; Boeing 737-500, visible as B733
+VIP_B738PSA B738 _PS  ; Boeing 737-800, visible as B738
+VIP_B744PSA B744 _PS  ; Boeing 747-400, visible as B744
+VIP_B772PSA B772 _PS  ; Boeing 777-200, visible as B772
+VIP_B773PSA B773 _PS  ; Boeing 777-300, visible as B773
+VIP_CRJ2PSA CRJ2 _PS  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_A343PSA A343 _PS  ; Airbus Industrie A340-300, visible as A343
+VIP_A388PSA A388 _PS  ; Airbus Industrie A380, visible as A380
+VIP_MD81PSA MD81 _PS  ; McDonnell Douglas MD81, visible as MD81
+VIP_MD88PSA MD88 _PS  ; McDonnell Douglas MD88, visible as MD81
+VIP_B752PSA B752 _PS  ; Boeing 757-200, visible as B752
+VIP_B764PSA B764 _PS  ; Boeing 767-400, visible as B764
+VIP_A332QFA A332 QFA  ; Airbus Industrie A330-200, visible as A332
+VIP_A333QFA A333 QFA  ; Airbus Industrie A330-300, visible as A333
+VIP_A388QFA A388 QFA  ; Airbus Industrie A380, visible as A380
+VIP_B712QFA B712 QFA  ; Boeing 717-200, visible as MD81
+VIP_B733QFA B733 QFA  ; Boeing 737-300, visible as B733
+VIP_B734QFA B734 QFA  ; Boeing 737-400, visible as B733
+VIP_B738QFA B738 QFA  ; Boeing 737-800, visible as B738
+VIP_B742QFA B742 QFA  ; Boeing 747-200, visible as B742
+VIP_B743QFA B743 QFA  ; Boeing 747-300, visible as B743
+VIP_B744QFA B744 QFA  ; Boeing 747-400, visible as B744
+VIP_B762QFA B762 QFA  ; Boeing 767-200, visible as B762
+VIP_B763QFA B763 QFA  ; Boeing 767-300, visible as B763
+VIP_B462QFA B462 QFA  ; BAe146-200, visible as BA462
+VIP_DH8AQFA DH8A QFA  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_DH8BQFA DH8B QFA  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8CQFA DH8C QFA  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_F100QQA F100 QQA  ; Fokker F100, visible as F100
+VIP_A30BQTR A30B QTR  ; Airbus Industrie A300-600, visible as A30B
+VIP_A30BQTR A30B QTR QT30F ; Airbus Industrie A300-600F, visible as A30B
+VIP_A319QTR A319 QTR  ; Airbus Industrie A319, visible as A319
+VIP_A320QTR A320 QTR  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321QTR A321 QTR  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332QTR A332 QTR  ; Airbus Industrie A330-200, visible as A332
+VIP_A333QTR A333 QTR  ; Airbus Industrie A330-300, visible as A333
+VIP_A342QTR A342 QTR  ; Airbus Industrie A340-200, visible as A342
+VIP_A346QTR A346 QTR  ; Airbus Industrie A340-600, visible as A346
+VIP_A388QTR A388 QTR  ; Airbus Industrie A380, visible as A380
+VIP_CRJ7QTR CRJ7 QTR  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_CRJ7QXE CRJ7 QXE  ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_DH8BQXE DH8B QXE  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8DQXE DH8D QXE  ; De Havilland Canada DHC-8 Dash 8Q-400, visible as DH8D
+VIP_DH8ARAC DH8A RAC  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A 
+VIP_DHC6RAC DHC6 RAC  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6 
+VIP_BN2PRAC BN2P RAC  ; Pilatus Britten-Norman BN-2A/B Islander, visible as CE441
+VIP_A321RAM A321 RAM  ; Airbus Industrie A321-100/200, visible as A321
+VIP_AT45RAM AT45 RAM  ; ATR.42-300, visible as ATR45
+VIP_B732RAM B732 RAM  ; Boeing 737-200, visible as B732
+VIP_B734RAM B734 RAM  ; Boeing 737-400, visible as B733
+VIP_B735RAM B735 RAM  ; Boeing 737-500, visible as B733
+VIP_B737RAM B737 RAM  ; Boeing 737-700, visible as B733
+VIP_B738RAM B738 RAM  ; Boeing 737-800, visible as B738
+VIP_B742RAM B742 RAM  ; Boeing 747-200, visible as B742
+VIP_B744RAM B744 RAM  ; Boeing 747-400, visible as B744
+VIP_B752RAM B752 RAM  ; Boeing 757-200, visible as B752
+VIP_B763RAM B763 RAM  ; Boeing 767-300, visible as B763
+VIP_B763RBA B763 RBA  ; Boeing 767-300, visible as B763
+VIP_A320RBA A320 RBA  ; Airbus Industrie A320, visible as A320
+VIP_A319RBA A319 RBA  ; Airbus Industrie A319, visible as A319
+VIP_DC93RCH DC93 RCH  ; McDonnell Douglas DC-9, visible as MD81
+VIP_B732RCH B732 RCH  ; Boeing 737-200, visible as B732
+VIP_B737RCH B737 RCH  ; Boeing 737-700, visible as B733
+VIP_B742RCHVC B742 RCH  RCHVC ; Boeing 747-200, visible as B742
+VIP_B742RCHEB B742 RCH  RCHEB  ; Boeing 747-200, visible as B742  
+VIP_B703RCHOS B703 RCH  RCHOS ; Boeing 707-300, visible as B703
+VIP_B703RCHKC B703 RCH  RCHKC ; Boeing 707-300, visible as B703
+VIP_B752RCH B752 RCH  ; Boeing 757-200, visible as B752
+VIP_DC10RCH DC10 RCH  ; McDonnell Douglas DC-10, visible as DC10
+VIP_AT45REA AT45 REA  ; ATR.42-300, visible as ATR45
+VIP_AT72REA AT72 REA  ; ATR.72-200, visible as ATR72
+VIP_A310RJA A310 RJA  ; Airbus Industrie A310-300, visible as A30B
+VIP_A319RJA A319 RJA  ; Airbus Industrie A319, visible as A319
+VIP_A320RJA A320 RJA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321RJA A321 RJA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A342RJA A342 RJA  ; Airbus Industrie A340-200, visible as A342
+VIP_B703RJA B703 RJA  ; Boeing 707-300, visible as B703
+VIP_B772RJA B772 RJA  ; Boeing 777-200ER, visible as B772ER
+VIP_L101RJA L101 RJA  ; Lockheed 1011 Tristar 500
+VIP_B732ROI B732 ROI  ; Boeing 737-200, visible as B732
+VIP_B190ROI B190 ROI  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B752ROK B752 ROK  ; Boeing 757-200, visible as B752
+VIP_B734RON B734 RON  ; Boeing 737-400, visible as B733
+VIP_A310ROT A310 ROT  ; Airbus Industrie A310-300, visible as A30B
+VIP_AT45ROT AT45 ROT  ; ATR.42-300, visible as ATR45
+VIP_B733ROT B733 ROT  ; Boeing 737-300, visible as B733
+VIP_B734ROT B734 ROT  ; Boeing 737-400, visible as B733
+VIP_B737ROT B737 ROT  ; Boeing 737-700, visible as B733
+VIP_L101RRR L101 RRR  ; Lockheed 1011 Tristar 500
+VIP_B461RRRRD B461 RRR  RRRRD ; BAe146 RJ100, visible as BA462
+VIP_B461RRRNW B461 RRR  RRRNW ; BAe146 RJ100, visible as BA462
+VIP_B732RYR B732 RYR  ; Boeing 737-200, visible as B732
+VIP_B734RYR B734 RYR  ; Boeing 737-400, visible as B733
+VIP_B738RYR B738 RYR  ; Boeing 737-800, visible as B738
+VIP_A310RZO A310 RZO  ; Airbus Industrie A310-300, visible as A30B
+VIP_A320RZO A320 RZO  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B734RZO B734 RZO  ; Boeing 737-400, visible as B733
+VIP_A319SAA A319 SAA  ; Airbus Industrie A319, visible as A319
+VIP_A320SAA A320 SAA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332SAA A332 SAA  ; Airbus Industrie A330-200, visible as A332
+VIP_A342SAA A342 SAA  ; Airbus Industrie A340-200, visible as A342
+VIP_A343SAA A343 SAA  ; Airbus Industrie A340-300, visible as A343
+VIP_A346SAA A346 SAA  ; Airbus Industrie A340-600, visible as A346
+VIP_B732SAA B732 SAA  ; Boeing 737-200, visible as B732
+VIP_B738SAA B738 SAA  ; Boeing 737-800, visible as B738
+VIP_B742SAA B742 SAA  ; Boeing 747-200, visible as B742
+VIP_B743SAA B743 SAA  ; Boeing 747-300, visible as B743
+VIP_B744SAA B744 SAA  ; Boeing 747-400, visible as B744
+VIP_B74SSAA B74S SAA  ; Boeing 747SP-44, visible as B74S
+VIP_B762SAA B762 SAA  ; Boeing 767-200, visible as B762
+VIP_A319SAB A319 SAB  ; Airbus Industrie A319, visible as A319
+VIP_A333SAB A333 SAB  ; Airbus Industrie A330-300, visible as A333
+VIP_B461SAB B461 SAB  ; BAe146 RJ100, visible as BA461
+VIP_B462SAB B462 SAB  ; BAe146-200, visible as BA462
+VIP_B463SAB B463 SAB  ; BAe146-300, visible as BA462
+VIP_A321SAS A321 SAS  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A333SAS A333 SAS  ; Airbus Industrie A330-300, visible as A333
+VIP_A343SAS A343 SAS  ; Airbus Industrie A340-300, visible as A343 
+VIP_B736SAS B736 SAS  ; Boeing 737-600, visible as B733
+VIP_B737SAS B737 SAS  ; Boeing 737-700, visible as B733
+VIP_B738SAS B738 SAS  ; Boeing 737-800, visible as B738
+VIP_B763SAS B763 SAS  ; Boeing 767-300, visible as B763
+VIP_DC91SAS DC91 SAS  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DC92SAS DC92 SAS  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DC93SAS DC93 SAS  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DC94SAS DC94 SAS  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DC95SAS DC95 SAS  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DH8DSAS DH8D SAS  ; De Havilland Canada DHC-8 Dash 8Q-400, visible as DH8D
+VIP_MD87SAS MD87 SAS  ; McDonnell Douglas MD87, visible as MD87
+VIP_D328SAY D328 SAY  ; Fairchild Do.328 Prop, visible as D328
+VIP_B738SCX B738 SCX  ; Boeing 737-800, visible as B738
+VIP_A319SHT A319 SHT  ; Airbus Industrie A319, visible as A319
+VIP_A320SHT A320 SHT  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321SHT A321 SHT  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B733SHT B732 SHT  ; Boeing 737-300, visible as B733
+VIP_B734SHT B734 SHT  ; Boeing 737-400, visible as B733
+VIP_B735SHT B735 SHT  ; Boeing 737-500, visible as B733
+VIP_B752SHT B752 SHT  ; Boeing 757-200, visible as B752
+VIP_B763SHT B763 SHT  ; Boeing 767-300, visible as B763
+VIP_A310SIA A310 SIA  ; Airbus Industrie A310-300, visible as A30B
+VIP_A343SIA A343 SIA  ; Airbus Industrie A340-300, visible as A343
+VIP_A345SIA A345 SIA  ; Airbus Industrie A340-500, visible as A345
+VIP_A388SIA A388 SIA  ; Airbus Industrie A380, visible as A380
+VIP_B742SIA B742 SIA  ; Boeing 747-200, visible as B742
+VIP_B744SIA B744 SIA  ; Boeing 747-400, visible as B744
+VIP_B772SIA B772 SIA  ; Boeing 777-200ER, visible as B772ER
+VIP_B773SIA B773 SIA  ; Boeing 777-300, visible as B773
+VIP_B734SIH B734 SIH  ; Boeing 737-400, visible as B733
+VIP_F100SKW F100 SKW  ; Fokker F100, visible as F100
+VIP_SF34SKX SF34 SKX  ; SAAB Saab SF340A/B, visible as SF34 
+VIP_B762SKY B762 SKY  ; Boeing 767-200, visible as B762
+VIP_B763SKY B763 SKY  ; Boeing 767-300, visible as B763
+VIP_A320SLE A320 _SN  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A343SLE A343 _SN  ; Airbus Industrie A340-300, visible as A343
+VIP_AT45SLE AT45 _SN  ; ATR.42-300, visible as ATR45
+VIP_AT72SLE AT72 _SN  ; ATR.72-200, visible as ATR72
+VIP_DH8CSLE DH8C _SN  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_B463SLE B463 _SN  ; BAe146-300, visible as BA462
+VIP_B722SLE B722 _SN  ; Boeing 727-200F, visible as MD11
+VIP_F70SLE  F70  _SN  ; Fokker 70, visible as F100
+VIP_B734SLE B734 _SN  ; Boeing 737-400, visible as B733
+VIP_B737SLE B737 _SN  ; Boeing 737-700, visible as B733
+VIP_B744SLE B744 _SN  ; Boeing 747-400, visible as B744
+VIP_B762SLE B762 _SN  ; Boeing 767-200, visible as B762
+VIP_A343SLR A343 SLR  ; Airbus Industrie A340-300, visible as A343
+VIP_B733SLR B733 SLR  ; Boeing 737-300, visible as B733
+VIP_B734SLR B734 SLR  ; Boeing 737-400, visible as B733
+VIP_B738SLR B738 SLR  ; Boeing 737-800, visible as B738
+VIP_B763SLR B763 SLR  ; Boeing 767-300, visible as B763
+VIP_B733SOL B733 SOL  ; Boeing 737-300, visible as B733
+VIP_B742SOO B742 SOO  ; Boeing 747-200F, visible as B742
+VIP_B738SNBLB B738 SNB SNBLB ; Boeing 737-800, visible as B738
+VIP_B738SNBDB B738 SNB SNBDB ; Boeing 737-800, visible as B738
+VIP_B738SNBGR B738 SNB SNBGR ; Boeing 737-800, visible as B738
+VIP_B738SNBYL B738 SNB SNBYL ; Boeing 737-800, visible as B738
+VIP_B738SNBRD B738 SNB SNBRD ; Boeing 737-800, visible as B738
+VIP_B744SQC B744 SQC  ; Boeing 747-400F, visible as B744F
+VIP_A319SSV A319 SSV  ; Airbus Industrie A319, visible as A319
+VIP_A320SSV A320 SSV  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A333SSV A333 SSV  ; Airbus Industrie A330-300, visible as A333
+VIP_B732SWA B732 SWA  ; Boeing 737-200, visible as B732
+VIP_B733SWA B733 SWA  ; Boeing 737-300, visible as B733
+VIP_B735SWA B735 SWA  ; Boeing 737-500, visible as B733
+VIP_B737SWA B737 SWA  ; Boeing 737-700, visible as B733
+VIP_B732SWD B732 SWD  ; Boeing 737-200, visible as B732
+VIP_B742SWD B742 SWD  ; Boeing 747-200, visible as B742
+VIP_B763SWD B763 SWD  ; Boeing 767-300, visible as B763
+VIP_A319SWR A319 SWR  ; Airbus Industrie A319, visible as A319
+VIP_A320SWR A320 SWR  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321SWR A321 SWR  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332SWR A332 SWR  ; Airbus Industrie A330-200, visible as A332
+VIP_A343SWR A343 SWR  ; Airbus Industrie A340-300, visible as A343
+VIP_A345SWR A345 SWR  ; Airbus Industrie A340-500, visible as A345
+VIP_A346SWR A346 SWR  ; Airbus Industrie A340-600, visible as A346
+VIP_B461SWR B461 SWR  ; BAe146 RJ100, visible as B462
+VIP_DC92SWR DC92 SWR  ; McDonnell Douglas DC-9, visible as MD87
+VIP_DC93SWR DC93 SWR  ; McDonnell Douglas DC-9, visible as MD87
+VIP_MD11SWR MD11 SWR  ; McDonnell Douglas MD11, visible as MD11
+VIP_SB20SWR SB20 SWR  ; SAAB Saab 2000,P,T, visible as SB20
+VIP_SF34SWR SF34 SWR  ; SAAB Saab SF340A/B, visible as SF34 
+VIP_B738SXS B738 SXS  ; Boeing 737-800, visible as B738
+VIP_A319TAI A319 TAI  ; Airbus Industrie A319, visible as A319
+VIP_A320TAI A320 TAI  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321TAI A321 TAI  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B732TAI B732 TAI  ; Boeing 737-200, visible as B732
+VIP_B733TAI B733 TAI  ; Boeing 737-300, visible as B733
+VIP_A310TAP A310 TAP  ; Airbus Industrie A310-300, visible as A30B
+VIP_A319TAP A319 TAP  ; Airbus Industrie A319, visible as A319
+VIP_A320TAP A320 TAP  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321TAP A321 TAP  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A333TAP A333 TAP  ; Airbus Industrie A330-300, visible as A333
+VIP_A343TAP A343 TAP  ; Airbus Industrie A340-300, visible as A343
+VIP_A30BTAR A30B TAR  ; Airbus Industrie A300-600, visible as A30B
+VIP_A319TAR A319 TAR  ; Airbus Industrie A319, visible as A319
+VIP_A320TAR A320 TAR  ; Airbus Industrie A320-100/200, visible as A320
+VIP_B733TAR B733 TAR  ; Boeing 737-300, visible as B733
+VIP_B735TAR B735 TAR  ; Boeing 737-500, visible as B733
+VIP_B736TAR B736 TAR  ; Boeing 737-600, visible as B733
+VIP_A320TCW A320 TCW  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A320TCX A320 TCX  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332TCX A332 TCX  ; Airbus Industrie A330-200, visible as A332
+VIP_B752TCX B752 TCX  ; Boeing 757-200, visible as B752
+VIP_B753TCX B753 TCX  ; Boeing 757-300, visible as B753
+VIP_A30BTAY A30B TAY  ; Airbus Industrie A300-600, visible as A30B
+VIP_B462TAY B462 TAY  ; BAe146-200, visible as BA462
+VIP_B463TAY B463 TAY  ; BAe146-300, visible as BA462
+VIP_B733TAY B733 TAY  ; Boeing 737-300, visible as B733
+VIP_B752TAY B752 TAY  ; Boeing 757-200, visible as B752
+VIP_A306THA A306 THA  ; Airbus Industrie A300-600, visible as A30B
+VIP_A333THA A333 THA  ; Airbus Industrie A330-300, visible as A333
+VIP_A345THA A345 THA  ; Airbus Industrie A340-500, visible as A345
+VIP_A346THA A346 THA  ; Airbus Industrie A340-600, visible as A346
+VIP_A388THA A388 THA  ; Airbus Industrie A380, visible as A380
+VIP_AT72THA AT72 THA  ; ATR.72-200, visible as ATR72
+VIP_B733THA B733 THA  ; Boeing 737-300, visible as B733
+VIP_B734THA B734 THA  ; Boeing 737-400, visible as B733
+VIP_B744THA B744 THA  ; Boeing 747-400, visible as B744
+VIP_B772THA B772 THA  ; Boeing 777-200ER, visible as B772ER
+VIP_B773THA B773 THA  ; Boeing 777-300, visible as B773
+VIP_MD11THA MD11 THA  ; McDonnell Douglas MD11, visible as MD11
+VIP_A343THT A343 THT  ; Airbus Industrie A340-300, visible as A343
+VIP_A310THY A310 THY  ; Airbus Industrie A310-300, visible as A30B
+VIP_A320THY A320 THY  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321THY A321 THY  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332THY A332 THY  ; Airbus Industrie A330-200, visible as A332
+VIP_A333THY A333 THY  ; Airbus Industrie A330-300, visible as A333
+VIP_A343THY A343 THY  ; Airbus Industrie A340-300, visible as A343
+VIP_B734THY B734 THY  ; Boeing 737-400, visible as B733
+VIP_B735THY B735 THY  ; Boeing 737-500, visible as B733
+VIP_B738THY B738 THY  ; Boeing 737-800, visible as B738
+VIP_B461THY B461 THY  ; BAe146 RJ100, visible as BA462
+VIP_B742TOW B742 _FF  ; Boeing 747-200, visible as B742
+VIP_B733TOM B733 TOM  ; Boeing 737-300, visible as B733
+VIP_B735TOM B735 TOM  ; Boeing 737-500, visible as B733
+VIP_B738TOM B738 TOM  ; Boeing 737-800, visible as B738
+VIP_B752TOM B752 TOM  ; Boeing 757-200, visible as B752
+VIP_B762TOM B762 TOM  ; Boeing 767-200, visible as B762
+VIP_B763TOM B763 TOM  ; Boeing 767-300, visible as B763
+VIP_B733TRA B733 TRA  ; Boeing 737-300, visible as B733
+VIP_B737TRA B737 TRA  ; Boeing 737-700, visible as B733
+VIP_B738TRA B738 TRA  ; Boeing 737-800, visible as B738
+VIP_B752TRA B752 TRA  ; Boeing 757-200, visible as B752
+VIP_B712TRS B712 TRS  ; Boeing 717-200, visible as MD81
+VIP_DC92TRS DC92 TRS  ; McDonnell Douglas DC-9, visible as MD81
+VIP_MD81TRS MD81 TRS  ; McDonnell Douglas MD81, visible as MD81
+VIP_A310TSC A310 TSC  ; Airbus Industrie A310-300, visible as A30B
+VIP_A320TSC A320 TSC  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A332TSC A332 TSC  ; Airbus Industrie A330-200, visible as A332
+VIP_A333TSC A333 TSC  ; Airbus Industrie A330-300, visible as A333
+VIP_B752TSC B752 TSC  ; Boeing 757-200, visible as B752
+VIP_L101TSC L101 TSC  ; Lockheed 1011 Tristar 500
+VIP_B738TVS B738 TVS  ; Boeing 737-800, visible as B738
+VIP_B703TWA B703 _TW  ; Boeing 707-300, visible as B703
+VIP_B738TWA B738 _TW  ; Boeing 737-800, visible as B738
+VIP_B741TWA B741 _TW  ; Boeing 747-100, visible as B741
+VIP_B742TWA B742 _TW  ; Boeing 747-200, visible as B742
+VIP_B744TWA B744 _TW  ; Boeing 747-400F, visible as B744F
+VIP_B752TWA B752 _TW  ; Boeing 757-200, visible as B752
+VIP_B762TWA B762 _TW  ; Boeing 767-200, visible as B762
+VIP_B763TWA B763 _TW  ; Boeing 767-300, visible as B763
+VIP_DC91TWA DC91 _TW  ; McDonnell Douglas DC-9, visible as DC-9
+VIP_L101TWA L101 _TW  ; Lockheed 1011 Tristar 500
+VIP_MD81TWA MD81 _TW  ; McDonnell Douglas MD81, visible as MD81
+VIP_MD87TWA MD87 _TW  ; McDonnell Douglas MD87, visible as MD81
+VIP_IL76TXC IL76 TXC  ; llyushin 76TD, visible as IL76
+VIP_DH8DTYR DH8D TYR  ; De Havilland Canada DHC-8 Dash 8-400, visible as DH8D
+VIP_F70TYR  F70  TYR  ; Fokker 70, visible as F100
+VIP_F100TYR F100 TYR  ; Fokker 100, visible as F100
+VIP_CRJ1TYR CRJ1 TYR  ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2TYR CRJ2 TYR  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_DH8CTYR DH8C TYR  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_A332UAE A332 UAE  ; Airbus Industrie A330-200, visible as A332
+VIP_A343UAE A343 UAE  ; Airbus Industrie A340-300, visible as A343
+VIP_A345UAE A345 UAE  ; Airbus Industrie A340-500, visible as A345
+VIP_A346UAE A346 UAE  ; Airbus Industrie A340-600, visible as A346
+VIP_A388UAE A388 UAE  ; Airbus Industrie A380, visible as A380
+VIP_B744UAE B744 UAE  ; Boeing 747-400F, visible as B744F
+VIP_B772UAE B772 UAE  ; Boeing 777-200ER, visible as B772ER
+VIP_B773UAE B773 UAE  ; Boeing 777-300, visible as B773
+VIP_A319UALTED A319 UAL UATED  ; Airbus Industrie A319, visible as A319
+VIP_A320UALTED A320 UAL UATED  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A319UAL A319 UAL  ; Airbus Industrie A319, visible as A319
+VIP_A320UAL A320 UAL  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321UAL A321 UAL  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B732UAL B732 UAL  ; Boeing 737-200, visible as B732
+VIP_B733UAL B733 UAL  ; Boeing 737-300, visible as B733
+VIP_B734UAL B734 UAL  ; Boeing 737-400, visible as B733
+VIP_B735UAL B735 UAL  ; Boeing 737-500, visible as B733
+VIP_B736UAL B736 UAL  ; Boeing 737-600, visible as B733
+VIP_B737UAL B737 UAL  ; Boeing 737-700, visible as B733
+VIP_B744UAL B744 UAL  ; Boeing 747-400, visible as B744
+VIP_B752UAL B752 UAL  ; Boeing 757-200, visible as B752
+VIP_B762UAL B762 UAL  ; Boeing 767-200, visible as B762
+VIP_B763UAL B763 UAL  ; Boeing 767-300, visible as B763
+VIP_B772UAL B772 UAL  ; Boeing 777-200ER, visible as B772ER
+VIP_DC10UAL DC10 UAL  ; McDonnell Douglas DC-10, visible as DC10
+VIP_DH8BUAL DH8B UAL  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_B190UCA B190 UCA  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_A30BUPS A30B UPS  ; Airbus Industrie A300-600F, visible as A30B
+VIP_A388UPS A388 UPS  ; Airbus Industrie A380, visible as A380
+VIP_AT45UPS AT45 UPS  ; ATR.42-300F, visible as ATR45
+VIP_B732UPS B732 UPS  ; Boeing 737-200F, visible as B732
+VIP_B741UPS B741 UPS  ; Boeing 747-100F, visible as B741
+VIP_B742UPS B742 UPS  ; Boeing 747-200F, visible as B742
+VIP_B744UPS B744 UPS  ; Boeing 747-400F, visible as B744F
+VIP_B752UPS B752 UPS  ; Boeing 757-200F, visible as B752
+VIP_B763UPS B763 UPS  ; Boeing 767-300F, visible as B763
+VIP_DC87UPS DC87 UPS  ; McDonnell Douglas DC-8F, visible as B703
+VIP_DHC6UPS DHC6 UPS  ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_DHC7UPS DHC7 UPS  ; De Havilland Canada DHC-7, visible as DHC7
+VIP_MD11UPS MD11 UPS  ; McDonnell Douglas MD11F, visible as MD11
+VIP_A319USA A319 USA  ; Airbus Industrie A319, visible as A319
+VIP_A320USA A320 USA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321USA A321 USA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A333USA A333 USA  ; Airbus Industrie A330-300, visible as A333
+VIP_B190USA B190 USA  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B733USA B733 USA  ; Boeing 737-300, visible as B733
+VIP_B734USA B734 USA  ; Boeing 737-400, visible as B733
+VIP_B752USA B752 USA  ; Boeing 757-200, visible as B752  
+VIP_B762USA B762 USA  ; Boeing 767-200, visible as B762
+VIP_CRJ2USA CRJ2 USA  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_D328USA D328 USA  ; Fairchild Do.328 Prop, visible as D328
+VIP_DH8AUSA DH8A USA  ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_DH8BUSA DH8B USA  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8CUSA DH8C USA  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_E145USA E145 USA  ; Embraer ERJ145  Amazon, visible as CRJ2
+VIP_JS41USA JS41 USA  ; British Aerospace Jetstream 41, visible as JS41
+VIP_SF34USA SF34 USA  ; SAAB Saab SF340A/B, visible as SF34
+VIP_A310UZB A310 UZB  ; Airbus Industrie A310-300, visible as A30B
+VIP_B752UZB B752 UZB  ; Boeing 757-200, visible as B752
+VIP_B763UZB B763 UZB  ; Boeing 767-300, visible as B763
+VIP_IL76UZB IL76 UZB  ; llyushin 76TD, visible as IL76
+VIP_IL86UZB IL86 UZB  ; llyushin 86, visible as IL96
+VIP_B732VAP B732 VAP  ; Boeing 737-200, visible as B732
+VIP_B742VAP B742 VAP  ; Boeing 747-200, visible as B742
+VIP_B743VAP B743 VAP  ; Boeing 747-300, visible as B743
+VIP_B752VAP B752 VAP  ; Boeing 757-200, visible as B752
+VIP_YS11VAP YS11 VAP  ; NAMC YS-11A, visible as YS11 
+VIP_B742VDA B742 VDA  ; Boeing 747-200, visible as B742
+VIP_IL76VDA IL76 VDA  ; llyushin 76TD, visible as IL76
+VIP_B733VEX B733 VEX  ; Boeing 737-300, visible as B733
+VIP_B734VEX B734 VEX  ; Boeing 737-400, visible as B733
+VIP_B735VEX B735 VEX  ; Boeing 737-500, visible as B733
+VIP_B736VEX B736 VEX  ; Boeing 737-600, visible as B733
+VIP_B737VEX B737 VEX  ; Boeing 737-700, visible as B733
+VIP_C72RVIP C72R      ; Cessna.172, visible as CE172
+VIP_C550VIP C550      ; Cessna,550 Citation 2,P,J, visible as C550
+VIP_AS50VIP AS50      ; Eurocopter,Ecureuil,H,T, visible as AS50
+VIP_A30BVIP A30B      ; Airbus Industrie A300-B2, visible as A30B
+VIP_A306VIP A306      ; Airbus Industrie A300-600, visible as A30B
+VIP_A310VIP A310      ; Airbus Industrie A310-300, visible as A30B
+VIP_A318VIP A318      ; Airbus Industrie A318, visible as A318
+VIP_A319VIP A319      ; Airbus Industrie A319, visible as A319
+VIP_A320VIP A320      ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321VIP A321      ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332VIP A332      ; Airbus Industrie A330-200, visible as A332
+VIP_A333VIP A333      ; Airbus Industrie A330-300, visible as A333
+VIP_A342VIP A342      ; Airbus Industrie A340-200, visible as A342
+VIP_A343VIP A343      ; Airbus Industrie A340-300, visible as A343
+VIP_A345VIP A345      ; Airbus Industrie A340-500, visible as A345
+VIP_A346VIP A346      ; Airbus Industrie A340-600, visible as A346
+VIP_A388VIP A388      ; Airbus Industrie A380, visible as A380
+VIP_AT42VIP AT45      ; ATR.42-200, visible as ATR45
+VIP_AT45VIP AT45      ; ATR.42-500, visible as ATR45
+VIP_AT72VIP AT72      ; ATR.72-200, visible as ATR72
+VIP_B190VIP B190      ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B703VIP B703      ; Boeing 707-300, visible as B703
+VIP_B712VIP B712      ; Boeing 717-200, visible as MD81
+VIP_B732VIP B732      ; Boeing 737-200, visible as B732
+VIP_B733VIP B733      ; Boeing 737-300, visible as B733
+VIP_B734VIP B734      ; Boeing 737-400, visible as B733
+VIP_B735VIP B735      ; Boeing 737-500, visible as B733
+VIP_B736VIP B736      ; Boeing 737-600, visible as B733
+VIP_B737VIP B737      ; Boeing 737-700, visible as B733
+VIP_B738VIP B738      ; Boeing 737-800, visible as B738
+VIP_B739VIP B739      ; Boeing 737-900, visible as B739
+VIP_B741VIP B741      ; Boeing 747-100, visible as B741
+VIP_B742VIP B742      ; Boeing 747-200, visible as B742
+VIP_B743VIP B743      ; Boeing 747-300, visible as B743
+VIP_B744VIP B744      ; Boeing 747-400, visible as B744
+VIP_B74SVIP B74S      ; Boeing 747SP-44, visible as B74S
+VIP_B752VIP B752      ; Boeing 757-200, visible as B752
+VIP_B753VIP B753      ; Boeing 757-300, visible as B753
+VIP_B762VIP B762      ; Boeing 767-200, visible as B762
+VIP_B763VIP B763      ; Boeing 767-300, visible as B763
+VIP_B764VIP B764      ; Boeing 767-400, visible as B764
+VIP_B772VIP B772      ; Boeing 777-200ER, visible as B772ER
+VIP_B773VIP B773      ; Boeing 777-300ER, visible as B773ER
+VIP_B461VIP B461      ; BAe146-100, visible as BA462
+VIP_B462VIP B462      ; BAe146-200, visible as BA462
+VIP_B463VIP B463      ; BAe146-300, visible as BA462
+VIP_BN2PVIP BN2P      ; Pilatus Britten-Norman BN-2A/B Islander, visible as CE441
+VIP_CONCVIP CONC      ; Concorde, visible as Concorde
+VIP_DC91VIP DC91      ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC92VIP DC92      ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC93VIP DC93      ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC94VIP DC94      ; McDonnell Douglas DC-9, visible as MD81
+VIP_DC95VIP DC95      ; McDonnell Douglas DC-9, visible as MD81
+VIP_F15VIP   F15      ; F15,Boeing,Eagle,L,J
+VIP_MD81VIP MD81      ; McDonnell Douglas MD81, visible as MD81
+VIP_MD88VIP MD88      ; McDonnell Douglas MD88, visible as MD81
+VIP_CRJ1VIP CRJ1      ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2VIP CRJ2      ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7VIP CRJ7      ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_CRJ9VIP CRJ9      ; Canadair Regional Jet CRJ900, visible as CRJ9
+VIP_D328VIP D328      ; Fairchild Do.328 Prop, visible as D328
+VIP_DC10VIP DC10      ; McDonnell Douglas DC-10, visible as DC10
+VIP_DH8AVIP DH8A      ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_DH8BVIP DH8B      ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8CVIP DH8C      ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_DH8DVIP DH8D      ; De Havilland Canada DHC-8 Dash 8-400, visible as DH8D
+VIP_DHC6VIP DHC6      ; De Havilland Canada DHC-6 Twin Otter, visible as DHC6
+VIP_DHC7VIP DHC7      ; De Havilland Canada DHC-7, visible as DHC7
+VIP_F100VIP F100      ; Fokker 100, visible as F100
+VIP_IL76VIP IL76      ; llyushin 76TD, visible as IL76
+VIP_IL86VIP IL86      ; llyushin 86, visible as IL96
+VIP_IL96VIP IL96      ; llyushin 96, visible as IL96
+VIP_JS31VIP JS31      ; British Aerospace Jetstream 31, visible as JS31
+VIP_JS41VIP JS41      ; British Aerospace Jetstream 41, visible as JS41
+VIP_L101VIP L101      ; Lockheed 1011 Tristar 500
+VIP_MD11VIP MD11      ; McDonnell Douglas MD11, visible as MD11
+VIP_SB20VIP SB20      ; SAAB Saab 2000,P,T, visible as SB20
+VIP_SF34VIP SF34      ; SAAB Saab SF340A/B, visible as SF34
+VIP_X35VIP   X35      ; X35,Lockheed Martin,X-35,L,J
+VIP_YS11VIP YS11      ; NAMC YS-11A, visible as YS11
+VIP_DC93VIK DC93 VIK  ; McDonnell Douglas DC-9, visible as MD81
+VIP_A320VIR A320 VIR  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321VIR A321 VIR  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A343VIR A343 VIR  ; Airbus Industrie A340-300, visible as A343
+VIP_A345VIR A345 VIR  ; Airbus Industrie A340-500, visible as A345
+VIP_A346VIR A346 VIR  ; Airbus Industrie A340-600, visible as A346
+VIP_A388VIR A388 VIR  ; Airbus Industrie A380, visible as A380
+VIP_B733VIR B733 VIR  ; Boeing 737-300, visible as B733
+VIP_B734VIR B734 VIR  ; Boeing 737-400, visible as B733
+VIP_B735VIR B735 VIR  ; Boeing 737-500, visible as B733
+VIP_B736VIR B736 VIR  ; Boeing 737-600, visible as B733
+VIP_B737VIR B737 VIR  ; Boeing 737-700, visible as B733
+VIP_B742VIR B742 VIR  ; Boeing 747-200, visible as B742
+VIP_B744VIR B744 VIR  ; Boeing 747-400, visible as B744
+VIP_MD11VIR MD11 VIR  ; McDonnell Douglas MD11, visible as MD11
+VIP_A320VKG A320 VKG  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321VKG A321 VKG  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332VKG A332 VKG  ; Airbus Industrie A330-200, visible as A332
+VIP_A333VKG A333 VKG  ; Airbus Industrie A330-300, visible as A333
+VIP_B752VKG B752 VKG  ; Boeing 757-200, visible as B752
+VIP_B763VKG B763 VKG  ; Boeing 767-300, visible as B763
+VIP_DC10VKG DC10 VKG  ; McDonnell Douglas DC-10, visible as DC10
+VIP_B733VOZ B733 VOZ  ; Boeing 737-300, visible as B733
+VIP_B734VOZ B734 VOZ  ; Boeing 737-400, visible as B733
+VIP_B737VOZ B737 VOZ  ; Boeing 737-700, visible as B733
+VIP_B738VOZ B738 VOZ  ; Boeing 737-800, visible as B738
+VIP_B732VRG B732 VRG  ; Boeing 737-200, visible as B732
+VIP_B733VRG B733 VRG  ; Boeing 737-300, visible as B733
+VIP_B734VRG B734 VRG  ; Boeing 737-400, visible as B733
+VIP_B752VRG B752 VRG  ; Boeing 757-200, visible as B752
+VIP_B762VRG B762 VRG  ; Boeing 767-200, visible as B762
+VIP_B763VRG B763 VRG  ; Boeing 767-300, visible as B763
+VIP_B772VRG B772 VRG  ; Boeing 777-200ER, visible as B772ER
+VIP_DC10VRG DC10 VRG  ; McDonnell Douglas DC-10, visible as DC10
+VIP_MD11VRG MD11 VRG  ; McDonnell Douglas MD11, visible as MD11
+VIP_A306VSP A306 VSP  ; Airbus Industrie A300-600, visible as A30B
+VIP_B732VSP B732 VSP  ; Boeing 737-200, visible as B732
+VIP_B733VSP B733 VSP  ; Boeing 737-300, visible as B733
+VIP_B734VSP B734 VSP  ; Boeing 737-400, visible as B733
+VIP_DC10VSP DC10 VSP  ; McDonnell Douglas DC-10, visible as DC10
+VIP_MD11VSP MD11 VSP  ; McDonnell Douglas MD11, visible as MD11
+VIP_AT45WEA AT45 WEA  ; ATR.42-300, visible as ATR45
+VIP_B734WEA B734 WEA  ; Boeing 737-400, visible as B733
+VIP_B735WEA B735 WEA  ; Boeing 737-500, visible as B733
+VIP_B736WEA B736 WEA  ; Boeing 737-600, visible as B733
+VIP_B737WEA B737 WEA  ; Boeing 737-700, visible as B733
+VIP_B738WEA B738 WEA  ; Boeing 737-800, visible as B738
+VIP_DH8BWIF DH8B WIF  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8CWIF DH8C WIF  ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_DH8DWIF DH8D WIF  ; De Havilland Canada DHC-8 Dash 8-400, visible as DH8D
+VIP_DH8CWIFQU DH8C WIF WIFQU ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_B732WJA B732 WJA  ; Boeing 737-200, visible as B732
+VIP_B737WJA B737 WJA  ; Boeing 737-700, visible as B733
+VIP_DC10WOA DC10 WOA  ; McDonnell Douglas DC-10, visible as DC10
+VIP_MD11WOA MD11 WOA  ; McDonnell Douglas MD11, visible as MD11
+VIP_B733WPA B733 WPA  ; Boeing 737-300, visible as B733
+VIP_A319WES A319 _WA  ; Airbus Industrie A319, visible as A319
+VIP_A320WES A320 _WA  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321WES A321 _WA  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332WES A332 _WA  ; Airbus Industrie A330-200, visible as A332
+VIP_A333WES A333 _WA  ; Airbus Industrie A330-300, visible as A333
+VIP_A342WES A342 _WA  ; Airbus Industrie A340-200, visible as A342
+VIP_A343WES A343 _WA  ; Airbus Industrie A340-300, visible as A343
+VIP_A388WES A388 _WA  ; Airbus Industrie A380, visible as A380
+VIP_AT72WES AT72 _WA  ; ATR.72-200, visible as ATR72
+VIP_B190WES B190 _WA  ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B462WES B462 _WA  ; BAe146-200, visible as BA462
+VIP_B463WES B463 _WA  ; BAe146-300, visible as BA462
+VIP_B703WES B703 _WA  ; Boeing 707-300, visible as B703
+VIP_B733WES B733 _WA  ; Boeing 737-300, visible as B733
+VIP_B734WES B734 _WA  ; Boeing 737-400, visible as B733
+VIP_B735WES B735 _WA  ; Boeing 737-500, visible as B733
+VIP_B736WES B736 _WA  ; Boeing 737-600, visible as B733
+VIP_B737WES B737 _WA  ; Boeing 737-700, visible as B733
+VIP_B738WES B738 _WA  ; Boeing 737-800, visible as B738
+VIP_B739WES B739 _WA  ; Boeing 737-900, visible as B739
+VIP_B742WES B742 _WA  ; Boeing 747-200, visible as B742
+VIP_B742FWES B742 _WA  ; Boeing 747-200F, visible as B742
+VIP_B744WES B744 _WA  ; Boeing 747-400, visible as B744
+VIP_B744FWES B744 _WA  ; Boeing 747-400F, visible as B744F
+VIP_B74SWES B74S _WA  ; Boeing 747SP-44, visible as B74S
+VIP_B752WES B752 _WA  ; Boeing 757-200, visible as B752
+VIP_B753WES B753 _WA  ; Boeing 757-300, visible as B753
+VIP_B762WES B762 _WA  ; Boeing 767-200, visible as B762
+VIP_B763WES B763 _WA  ; Boeing 767-300, visible as B763
+VIP_B764WES B764 _WA  ; Boeing 767-400, visible as B764
+VIP_B772WES B772 _WA  ; Boeing 777-200ER, visible as B772ER
+VIP_B773WES B773 _WA  ; Boeing 777-300ER, visible as B773ER
+VIP_DC10WES DC10 _WA  ; McDonnell Douglas DC-10, visible as DC10
+VIP_DH8DWES DH8D _WA  ; De Havilland Canada DHC-8 Dash 8-400, visible as DH8D
+VIP_F100WES F100 _WA  ; Fokker 100, visible as F100
+VIP_JS31WES JS31 _WA  ; British Aerospace Jetstream 31, visible as JS31
+VIP_MD11WES MD11 _WA  ; McDonnell Douglas MD11, visible as MD11
+VIP_B737WKD B737 _WK  ; Boeing 737-700, visible as B733
+VIP_B744WKD B744 _WK  ; Boeing 747-400, visible as B744
+VIP_A320WKD A320 _WK  ; Airbus Industrie A320-100/200, visible as A320
+VIP_AT72WKD AT72 _WK  ; ATR.72-200, visible as ATR72
+VIP_B763WKD B763 _WK  ; Boeing 767-300, visible as B763
+VIP_CONCWKD CONC _WK  ; Concorde, visible as Concorde
+VIP_CRJ2WKD CRJ2 _WK  ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_C550WKD C550 _WK  ; Cessna,550 Citation 2,P,J, visible as C550
+VIP_A343WKD A343 _WK  ; Airbus Industrie A340-300, visible as A343
+VIP_A310WTA A310 _WT  ; Airbus Industrie A310-300, visible as A30B
+VIP_A320WTA A320 _WT  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321WTA A321 _WT  ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332WTA A332 _WT  ; Airbus Industrie A330-200, visible as A332
+VIP_A333WTA A333 _WT  ; Airbus Industrie A330-300, visible as A333
+VIP_A342WTA A342 _WT  ; Airbus Industrie A340-200, visible as A342
+VIP_A343WTA A343 _WT  ; Airbus Industrie A340-300, visible as A343
+VIP_AT45WTA AT45 _WT  ; ATR.42-300, visible as ATR45
+VIP_AT72WTA AT72 _WT  ; ATR.72-200, visible as ATR72
+VIP_B462WTA B462 _WT  ; BAe146-200, visible as BA462
+VIP_B733WTA B733 _WT  ; Boeing 737-300, visible as B733
+VIP_B734WTA B734 _WT  ; Boeing 737-400, visible as B733
+VIP_B735WTA B735 _WT  ; Boeing 737-500, visible as B733
+VIP_B736WTA B736 _WT  ; Boeing 737-600, visible as B733
+VIP_B737WTA B737 _WT  ; Boeing 737-700, visible as B733
+VIP_B738WTA B738 _WT  ; Boeing 737-800, visible as B738
+VIP_B739WTA B739 _WT  ; Boeing 737-900, visible as B739
+VIP_B763WTA B763 _WT  ; Boeing 767-300, visible as B763
+VIP_B744WTA B744 _WT  ; Boeing 747-400, visible as B744
+VIP_B772WTA B772 _WT  ; Boeing 777-200ER, visible as B772ER
+VIP_DC10WTA DC10 _WT  ; McDonnell Douglas DC-10, visible as DC10
+VIP_F70WTA  F70  _WT  ; Fokker 70, visible as F100
+VIP_F100WTA F100 _WT  ; Fokker 100, visible as F100
+VIP_MD11WTA MD11 _WT  ; McDonnell Douglas MD11, visible as MD11
+VIP_B744WUN B744 QFA QFOEJ ; Boeing 747-400, Wunala Dreaming
+VIP_A319WZZ A319 WZZ  ; Airbus Industrie A319, visible as A319
+VIP_A320WZZ A320 WZZ  ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321WZZ A321 WZZ  ; Airbus Industrie A321-100/200, visible as A321
+VIP_B734XLA B734 XLA  ; Boeing 737-400, visible as B733
+VIP_B735XLA B735 XLA  ; Boeing 737-500, visible as B733
+VIP_B736XLA B736 XLA  ; Boeing 737-600, visible as B733
+VIP_B737XLA B737 XLA  ; Boeing 737-700, visible as B733
+VIP_B738XLA B738 XLA  ; Boeing 737-800, visible as B738
+VIP_B752XLA B752 XLA  ; Boeing 757-200, visible as B752
+VIP_B762XLA B762 XLA  ; Boeing 767-200, visible as B762
+VIP_B763XLA B763 XLA  ; Boeing 767-300, visible as B763
+VIP_B462XME B462 XME  ; BAe146-200, visible as BA462
+VIP_B738YAN B738 QFA QFVBX ; Boeing 737-800, Yananyi Dreaming
+VIP_A30BYMA A30B _YM       ; Airbus Industrie A300-B2, visible as A30B
+VIP_A30BYMB A30B _YM YMABL ; Airbus Industrie A300-B2, visible as A30B
+VIP_A306YMA A306 _YM       ; Airbus Industrie A300-600, visible as A30B
+VIP_A306YMB A306 _YM YMABL ; Airbus Industrie A300-600, visible as A30B
+VIP_A310YMA A310 _YM       ; Airbus Idustrie A310, visible as A30B
+VIP_A310YMB A310 _YM YMABL ; Airbus Idustrie A310, visible as A30B
+VIP_A318YMA A318 _YM       ; Airbus Industrie A318, visible as A318
+VIP_A318YMB A318 _YM YMABL ; Airbus Industrie A318, visible as A318
+VIP_A319YMA A319 _YM       ; Airbus Industrie A319, visible as A319
+VIP_A319YMB A319 _YM YMABL ; Airbus Industrie A319, visible as A319
+VIP_A320YMA A320 _YM       ; Airbus Industrie A320-100/200, visible as A320
+VIP_A320YMB A320 _YM YMABL ; Airbus Industrie A320-100/200, visible as A320
+VIP_A321YMA A321 _YM       ; Airbus Industrie A321-100/200, visible as A321
+VIP_A321YMB A321 _YM YMABL ; Airbus Industrie A321-100/200, visible as A321
+VIP_A332YMA A332 _YM       ; Airbus Industrie A330-200, visible as A332
+VIP_A332YMB A332 _YM YMABL ; Airbus Industrie A330-200, visible as A332
+VIP_A333YMA A333 _YM       ; Airbus Industrie A330-300, visible as A333
+VIP_A333YMB A333 _YM YMABL ; Airbus Industrie A330-300, visible as A333
+VIP_A342YMA A342 _YM       ; Airbus Industrie A340-200, visible as A342
+VIP_A342YMB A342 _YM YMABL ; Airbus Industrie A340-200, visible as A342
+VIP_A343YMA A343 _YM       ; Airbus Industrie A340-300, visible as A343
+VIP_A343YMB A343 _YM YMABL ; Airbus Industrie A340-300, visible as A343
+VIP_A345YMA A345 _YM       ; Airbus Industrie A340-500, visible as A345
+VIP_A345YMB A345 _YM YMABL ; Airbus Industrie A340-500, visible as A345
+VIP_A346YMA A346 _YM       ; Airbus Industrie A340-600, visible as A346
+VIP_A346YMB A346 _YM YMABL ; Airbus Industrie A340-600, visible as A346
+VIP_A388YMA A388 _YM       ; Airbus Industrie A380, visible as A380
+VIP_A388YMB A388 _YM YMABL ; Airbus Industrie A380, visible as A380
+VIP_A388YMF A388 _YM YMFCL ; Airbus Industrie A380, visible as A380
+VIP_A388YML A388 _YM YMFBL ; Airbus Industrie A380, visible as A380
+VIP_AT42YMX AT45 _YM YMXCL ; ATR.42-200, visible as ATR45
+VIP_AT45YMX AT45 _YM YMXCL ; ATR.42-500, visible as ATR45
+VIP_AT42YMP AT45 _YM YMXBL ; ATR.42-200, visible as ATR45
+VIP_AT45YMP AT45 _YM YMXBL ; ATR.42-500, visible as ATR45
+VIP_AT72YMP AT72 _YM YMXBL ; ATR.72-200, visible as ATR72
+VIP_AT72YMX AT72 _YM YMXCL ; ATR.72-200, visible as ATR72
+VIP_B190YMP B190 _YM YMXBL ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B190YMX B190 _YM YMXCL ; Beechcraft 1900/1900C/1900D, visible as B190
+VIP_B703YMA B703 _YM       ; Boeing 707-300, visible as B703
+VIP_B703YMB B703 _YM YMABL ; Boeing 707-300, visible as B703
+VIP_B712YMA B712 _YM       ; Boeing 717-200, visible as MD81
+VIP_B712YMB B712 _YM YMABL ; Boeing 717-200, visible as MD81
+VIP_DC91YMA DC91 _YM       ; McDonnell Douglas DC9-10, visible as MD81
+VIP_DC92YMA DC92 _YM       ; McDonnell Douglas DC9-20, visible as MD81
+VIP_DC93YMA DC93 _YM       ; McDonnell Douglas DC9-30, visible as MD81
+VIP_DC94YMA DC94 _YM       ; McDonnell Douglas DC9-40, visible as MD81
+VIP_DC95YMA DC95 _YM       ; McDonnell Douglas DC9-50, visible as MD81
+VIP_DC91YMB DC91 _YM YMABL ; McDonnell Douglas DC9-10, visible as MD81
+VIP_DC92YMB DC92 _YM YMABL ; McDonnell Douglas DC9-20, visible as MD81
+VIP_DC93YMB DC93 _YM YMABL ; McDonnell Douglas DC9-30, visible as MD81
+VIP_DC94YMB DC94 _YM YMABL ; McDonnell Douglas DC9-40, visible as MD81
+VIP_DC95YMB DC95 _YM YMABL ; McDonnell Douglas DC9-50, visible as MD81
+VIP_MD81YMA MD81 _YM       ; McDonnell Douglas MD81, visible as MD81
+VIP_MD81YMB MD81 _YM YMABL ; McDonnell Douglas MD81, visible as MD81
+VIP_MD88YMA MD88 _YM       ; McDonnell Douglas MD88, visible as MD81
+VIP_MD88YMB MD88 _YM YMABL ; McDonnell Douglas MD88, visible as MD81
+VIP_B752YMA B752 _YM       ; Boeing 757-200, visible as B752
+VIP_B752YMB B752 _YM YMABL ; Boeing 757-200, visible as B752
+VIP_B752YMF B752 _YM YMFCL ; Boeing 757-200, visible as B752
+VIP_B752YML B752 _YM YMFBL ; Boeing 757-200, visible as B752
+VIP_B753YMA B753 _YM       ; Boeing 757-300, visible as B753
+VIP_B753YMB B753 _YM YMABL ; Boeing 757-300, visible as B753
+VIP_B753YMF B753 _YM YMFCL ; Boeing 757-300, visible as B753
+VIP_B753YML B753 _YM YMFBL ; Boeing 757-300, visible as B753
+VIP_B732YMA B732 _YM       ; Boeing 737-200, visible as B732
+VIP_B732YMB B732 _YM YMABL ; Boeing 737-200, visible as B732
+VIP_B733YMA B733 _YM       ; Boeing 737-300, visible as B733
+VIP_B733YMB B733 _YM YMABL ; Boeing 737-300, visible as B733
+VIP_B734YMA B734 _YM       ; Boeing 737-400, visible as B733
+VIP_B734YMB B734 _YM YMABL ; Boeing 737-400, visible as B733
+VIP_B735YMA B735 _YM       ; Boeing 737-500, visible as B733
+VIP_B735YMB B735 _YM YMABL ; Boeing 737-500, visible as B733
+VIP_B736YMA B736 _YM       ; Boeing 737-600, visible as B733
+VIP_B736YMB B736 _YM YMABL ; Boeing 737-600, visible as B733
+VIP_B737YMA B737 _YM       ; Boeing 737-700, visible as B733
+VIP_B737YMB B737 _YM YMABL ; Boeing 737-700, visible as B733
+VIP_B737LNR B737 _YM YMARD ; Rudolph
+VIP_B737LNS B737 _YM YMAST ; Santa
+VIP_B737JED B737 _YM YMAJB ; Jingle Bells
+VIP_B738GRB B738 _YM YMAGB ; The Grub
+VIP_B738YMA B738 _YM       ; Boeing 737-800, visible as B738
+VIP_B738YMB B738 _YM YMABL ; Boeing 737-800, visible as B738
+VIP_B738LNF B738 _YM YMASB ; Snowbird
+VIP_B739YMA B739 _YM       ; Boeing 737-900, visible as B739
+VIP_B739YMB B739 _YM YMABL ; Boeing 737-900, visible as B739
+VIP_B741YMA B741 _YM       ; Boeing 747-100, visible as B741
+VIP_B741YMB B741 _YM YMABL ; Boeing 747-100, visible as B741
+VIP_B742YMA B742 _YM       ; Boeing 747-200, visible as B742
+VIP_B742YMB B742 _YM YMABL ; Boeing 747-200, visible as B742
+VIP_B742YMF B742 _YM YMFCL ; Boeing 747-200, visible as B742
+VIP_B742YML B742 _YM YMFBL ; Boeing 747-200, visible as B742
+VIP_B742RHM B742 _YM YMAF1 ; Sir Jack Brabham
+VIP_B743YMA B743 _YM       ; Boeing 747-300, visible as B743
+VIP_B743YMB B743 _YM YMABL ; Boeing 747-300, visible as B743
+VIP_B744YMA B744 _YM       ; Boeing 747-400, visible as B744
+VIP_B744YMB B744 _YM YMABL ; Boeing 747-400, visible as B744
+VIP_B744YMF B744 _YM YMFCL ; Boeing 747-400, visible as B744
+VIP_B744YML B744 _YM YMFBL ; Boeing 747-400, visible as B744
+VIP_B744CMK B744 _YM YMACK ; Knight Codeshare
+VIP_B74SYMA B74S _YM       ; Boeing 747SP-44, visible as B74S
+VIP_B74SYMB B74S _YM YMABL ; Boeing 747SP-44, visible as B74S
+VIP_B762YMA B762 _YM       ; Boeing 767-200, visible as B762
+VIP_B762YMB B762 _YM YMABL ; Boeing 767-200, visible as B762
+VIP_B763YMA B763 _YM       ; Boeing 767-300, visible as B763
+VIP_B763YMB B763 _YM YMABL ; Boeing 767-300, visible as B763
+VIP_B764YMA B764 _YM       ; Boeing 767-400, visible as B764
+VIP_B764YMB B764 _YM YMABL ; Boeing 767-400, visible as B764
+VIP_B772YMA B772 _YM       ; Boeing 777-200, visible as B772
+VIP_B772YMB B772 _YM YMABL ; Boeing 777-200, visible as B772
+VIP_B773YMA B773 _YM       ; Boeing 777-300, visible as B773
+VIP_B773YMB B773 _YM YMABL ; Boeing 777-300, visible as B773
+VIP_CRJ1YMA CRJ1 _YM       ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2YMA CRJ2 _YM       ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7YMA CRJ7 _YM       ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_CRJ9YMA CRJ9 _YM       ; Canadair Regional Jet CRJ900, visible as CRJ9
+VIP_CRJ1YMB CRJ1 _YM YMABL ; Canadair Regional Jet CRJ100, visible as CRJ2
+VIP_CRJ2YMB CRJ2 _YM YMABL ; Canadair Regional Jet CRJ200, visible as CRJ2
+VIP_CRJ7YMB CRJ7 _YM YMABL ; Canadair Regional Jet CRJ700, visible as CRJ7
+VIP_CRJ9YMB CRJ9 _YM YMABL ; Canadair Regional Jet CRJ900, visible as CRJ9
+VIP_D328YMX D328 _YM YMXCL ; Fairchild Do.328 Prop, visible as D328
+VIP_D328YMP D328 _YM YMXBL ; Fairchild Do.328 Prop, visible as D328
+VIP_DHC7YMX DHC7 _YM YMXCL ; De Havilland Canada DHC-7, visible as DHC7
+VIP_DHC7YMP DHC7 _YM YMXBL ; De Havilland Canada DHC-7, visible as DHC7
+VIP_DH8AYMX DH8A _YM YMXCL ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_DH8BYMX DH8B _YM YMXCL ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8CYMX DH8C _YM YMXCL ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_DH8DYMX DH8D _YM YMXCL ; De Havilland Canada DHC-8 Dash 8-400, visible as DH8D
+VIP_DH8AYMP DH8A _YM YMXBL ; De Havilland Canada DHC-8 Dash 8-100, visible as DH8A
+VIP_DH8BYMP DH8B _YM YMXBL ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+VIP_DH8CYMP DH8C _YM YMXBL ; De Havilland Canada DHC-8 Dash 8-300, visible as DH8C
+VIP_DH8DYMP DH8D _YM YMXBL ; De Havilland Canada DHC-8 Dash 8-400, visible as DH8D
+VIP_SB20YMX SB20 _YM YMXCL ; SAAB Saab 2000,P,T, visible as SB20
+VIP_SB20YMP SB20 _YM YMXBL ; SAAB Saab 2000,P,T, visible as SB20
+VIP_SF34YMX SF34 _YM YMXCL ; SAAB Saab SF340A/B, visible as SF34
+VIP_SF34YMP SF34 _YM YMXBL ; SAAB Saab SF340A/B, visible as SF34
+VIP_F100YMF F100 _YM YMFCL ; Fokker 100, visible as F100
+VIP_F100YML F100 _YM YMFBL ; Fokker 100, visible as F100
+VIP_B461YMF B461 _YM YMFCL ; BAe146-100, visible as BA462
+VIP_B461YML B461 _YM YMFBL ; BAe146-100, visible as BA462
+VIP_B462YMF B462 _YM YMFCL ; BAe146-200, visible as BA462
+VIP_B462YML B462 _YM YMFBL ; BAe146-200, visible as BA462
+VIP_B463YMF B463 _YM YMFCL ; BAe146-300, visible as BA462
+VIP_B463YML B463 _YM YMFBL ; BAe146-300, visible as BA462
+VIP_L101YMA L101 _YM       ; Lockheed 1011 Tristar 500
+VIP_L101YMB L101 _YM       ; Lockheed 1011 Tristar 500
+VIP_DC10YMA DC10 _YM       ; McDonnell Douglas DC-10, visible as DC10
+VIP_DC10YMB DC10 _YM YMABL ; McDonnell Douglas DC-10, visible as DC10
+VIP_MD11YMA MD11 _YM       ; McDonnell Douglas MD11, visible as MD11
+VIP_MD11YMB MD11 _YM YMABL ; McDonnell Douglas MD11, visible as MD11
+VIP_MD11YMF MD11 _YM YMFCL ; McDonnell Douglas MD11, visible as MD11
+VIP_MD11YML MD11 _YM YMFBL ; McDonnell Douglas MD11, visible as MD11
+VIP_CONCYMA CONC _YM       ; Concorde, visible as Concorde
+VIP_CONCYMB CONC _YM YMABL ; Concorde, visible as Concorde
+VIP_CONCSWN CONC _YM YMASN ; The Swan
+VIP_DH8AWTB DH8A _YM YMXAJ ; Aunty Jack
+VIP_DH8BCSW DH8B CSW  ; De Havilland Canada DHC-8 Dash 8-200, visible as DH8B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
