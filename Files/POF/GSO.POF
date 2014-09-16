@@ -1,0 +1,206 @@
+vZTL ARTCC GSO Position File Version 1  3/25/2013
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+;Updated by William Lewis
+;//////////////////////////////////////////////////////////////////////////////////////
+ 
+;ZTL POSITION ID FILE HISTORY
+
+;3/25/13 Created
+;//////////////////////////////////////////////////////////////////////////////////////
+
+
+;USE THIS FILE TO CREATE UNIQUE STATIC CONTROLLER POSITION ID'S FOR YOUR ASRC RADAR CLIENT.
+;AMENDING THIS FILE ONLY CHANGES THE WAY CONTROLLERS APPEAR TO YOU, AND DO NOT AFFECT
+;THE WAY OTHER CLIENTS SEE YOU, OR THE WAY THAT THEY SEE OTHER CONTROLLERS.
+
+;THIS FILE USES THE FOLLOWING FORMAT -->
+
+;NAME = SECTOR NAME
+;RNAME = RADIO CALLSIGN
+;FREQ = FREQUENCY MATCH FOR THIS POSITIN
+;SECID = SECTOR ID USED FOR HANDOFFS & ATC-ATC COMMS
+;ARTSTAG = POSITION SYMBOL ON THE ARTS SCOPE
+;CALLPREFIX = PREFIX MATCH FOR THIS POSITION
+;CALLSUFFIX = SUFFIX MATCH FOR THIS POSITION
+;LINE1 = FIRST LINE TO DISPLAY ON EACH KEY IN VSCS
+;LINE2 = SECOND LINE TO DISPLAY ON EACH KEY IN VSCS
+;LSQUAWK = LOW END OF SQUAWK RANGE FOR THIS POSITION
+;HSQUAWK = HIGH END OF SQUAWK RANGE FOR THIS POSITION
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+
+Relief Controllers    :Atlanta Center:199.998:00:-:ZTL:REL:ZTL:REL
+Observers             :Atlanta Center:199.998:00:-:ZTL:OBS:ZTL:OBS
+Instructors           :Atlanta Center:199.998:00:-:ZTL:INS:ZTL:INS
+Mentors               :Atlanta Center:199.998:00:-:ZTL:MEN:ZTL:MEN
+ATM  		      :Atlanta ATM:199.998:00:-:ZTL:ATM:ZTL:ATM
+DATM		      :Atlanta DATM:199.998:00:-:ZTL:DATM:ZTL:DATM
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+;ZTL ARTCC
+
+;Operations Desk
+ZTL TMU:Atlanta TMU:199.998:00:C:ZTL:TMU:ZTL:TMU
+ZTL Flight Data:Atlanta Flight Watch:135.470:WX:C:ATL:CTR:ATL:CTR
+
+;Area 1
+ZTL Salem 42 High:Atlanta Center:120.720:42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
+ZTL Pulaski 43 High:Atlanta Center:132.970:43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
+ZTL Shine 44 Low:Atlanta Center:132.620:44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
+ZTL Bristol 45 Low:Atlanta Center:127.850:45:C:ATL:CTR:Bristol Low:ZTL 45:2001:2077
+ZTL Moped 47 Low:Atlanta Center:134.550:47:C:ATL:CTR:Moped Low:ZTL 47:2001:2077
+ZTL Wilkes 48 Ultra Low:Atlanta Center:125.150:48:C:ATL:CTR:Wilkes Ultra Low:ZTL 48:2001:2077
+
+;Area 2
+ZTL Leeon 29 Low:Atlanta Center:128.800:29:C:ATL:CTR:Leeon Low:ZTL 29:2001:2077
+ZTL Locas 30 Low:Atlanta Center:133.150:30:C:ATL:CTR:Locas Low:ZTL 30:2001:2077
+ZTL Unarm 31 Low:Atlanta Center:135.350:31:C:ATL:CTR:Unarm Low:ZTL 31:2001:2077
+ZTL Spartanburg 32 High:Atlanta Center:125.620:32:C:ATL:CTR:Spartanburg High:ZTL 32:2001:2077
+ZTL Charlotte 33 Hi:Atlanta Center:124.420:33:C:ATL:CTR:Charlotte High:ZTL 33:2001:2077
+ZTL Georgia 34 High:Atlanta Center:120.420:34:C:ATL:CTR:Georgia High:ZTL 34:2001:2077
+ZTL High Rock 28 Ultra High:Atlanta Center:125.020:28:C:ATL:CTR:High Rock Ultra High:ZTL 28:2001:2077
+
+;Area 3
+ZTL East Departure 16 Low:Atlanta Center:124.450:16:C:ATL:CTR:East Departure Low:ZTL 16:2001:2077
+ZTL Logen 49 Low:Atlanta Center:121.350:49:C:ATL:CTR:Logen Low:ZTL 49:2001:2077
+ZTL Commerce 18 Ultra Low:Atlanta Center:134.800:18:C:ATL:CTR:Commerce Ultra Low:ZTL 18:2001:2077
+ZTL Lanier 50 High:Atlanta Center:124.370:50:C:ATL:CTR:Lanier High:ZTL 50:2001:2077
+ZTL Baden 15 Ultra High:Atlanta Center:126.770:15:C:ATL:CTR:Baden Ultra High:ZTL 15:2001:2077
+
+;Area 4
+ZTL Sinca 19 Low:Atlanta Center:123.950:42:C:ATL:CTR:Sinca Low:ZTL 19:2001:2077
+ZTL South Departure 21 Low:Atlanta Center:134.500:21:C:ATL:CTR:South Departure Low:ZTL 21:2001:2077
+ZTL Augusta 24 Low:Atlanta Center:135.550:24:C:ATL:CTR:Augusta Low:ZTL 24:2001:2077
+ZTL Dublin 20 High:Atlanta Center:126.420:20:C:ATL:CTR:Dublin High:ZTL 20:2001:2077
+ZTL Macon 22 High:Atlanta Center:119.370:22:C:ATL:CTR:Macon High:ZTL 22:2001:2077
+ZTL Clark Hill 23 Ultra High:Atlanta Center:124.320:23:C:ATL:CTR:Clark Hill Ultra High:ZTL 23:2001:2077
+ZTL Hampton 27 Ultra High:Atlanta Center:125.820:27:C:ATL:CTR:Hampton 27 Ultra High:ZTL 27:2001:2077
+
+;Area 5
+ZTL Tiroe 09 Low:Atlanta Center:120.450:09:C:ATL:CTR:Tiroe 09 Low:ZTL 09:2001:2077
+ZTL Birmingham 12 Low:Atlanta Center:127.300:12:C:ATL:CTR:Birmingham Low:ZTL 12:2001:2077
+ZTL Montgomery 13 Low:Atlanta Center:120.550:13:C:ATL:CTR:Montgomery Low:ZTL 13:2001:2077
+ZTL Maxwell 14 Low:Atlanta Center:132.250:14:C:ATL:CTR:Maxwell Low:ZTL 14:2001:2077
+ZTL LaGrange 10 High:Atlanta Center:125.570:10:C:ATL:CTR:LaGrange High:ZTL 10:2001:2077
+ZTL Monroeville 11 High:Atlanta Center:128.020:11:C:ATL:CTR:Monroeville High:ZTL 11:2001:2077
+ZTL Martin Lake 08 Ultra High:Atlanta Center:125.870:08:C:ATL:CTR:Martin Lake Ultra High:ZTL 08:2001:2077
+
+;Area 6
+ZTL West Departure 04 Low:Atlanta Center:134.950:04:C:ATL:CTR:West Departure Low:ZTL 04:2001:2077
+ZTL Dalas 05 Low:Atlanta Center:121.320:05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
+ZTL Rome 01 Ultra Low:Atlanta Center:135.170:01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
+ZTL Gadsden 03 High:Atlanta Center:128.720:03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
+ZTL Rocket 06 Ultra High:Atlanta Center:133.170:06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
+ZTL Gunter 02 Ultra High:Atlanta Center:126.82:02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
+
+;Area 7
+ZTL North Departure 38 Low:Atlanta Center:133.100:38:C:ATL:CTR:North Departure Low:ZTL 38:2001:2077
+ZTL Hinch Mountain 41 Low:Atlanta Center:133.600:41:C:ATL:CTR:Hinch Mountain Low:ZTL 41:2001:2077
+ZTL Crossville 37 High:Atlanta Center:126.670:37:C:ATL:CTR:Crossville High:ZTL 37:2001:2077
+ZTL Burne 39 High:Atlanta Center:125.920:39:C:ATL:CTR:Burne High:ZTL 39:2001:2077
+ZTL Allatoona 36 Ultra High:Atlanta Center:124.870:36:C:ATL:CTR:Allatoona Ultra High:ZTL 36:2001:2077
+ZTL Blue Ridge 40 Ultra High:Atlanta Center:134.070:40:C:ATL:CTR:Blue Ridge Ultra High:ZTL 40:2001:2077
+
+; ZDC - Washington Center Area A
+; ******************************
+;
+ZDC Hi- 03 Moorefield:Washington Center:133.270:W03:C:DC:CTR:DC:03:3601:3637
+ZDC Hi- 04 Pinion (A):Washington Center:133.970:W04:C:DC:CTR:DC:04:3601:3637
+ZDC Hi- 37 Marlinton:Washington Center:133.020:W37:C:DC:CTR:DC:37:3601:3637
+;
+; ******************************
+; ZDC - Washington Center Area B
+; ******************************
+;
+ZDC Hi- 10 Bay:Washington Center:132.270:W10:C:DC:CTR:DC:10:3640:3677
+ZDC Hi- 12 Brooke:Washington Center:126.870:W12:C:DC:CTR:DC:12:3640:3677
+ZDC Hi- 18 Dupont:Washington Center:132.520:W18:C:DC:CTR:DC:18:3640:3677
+ZDC Hi- 19 Woodstown (B):Washington Center:125.450:W19:C:DC:CTR:DC:19:3640:3677
+ZDC Hi- 39 Snow Hill:Washington Center:121.370:W39:C:DC:CTR:DC:39:3640:3677
+ZDC Lo- 51 Casino:Washington Center:127.700:W51:C:DC:CTR:DC:51:3640:3677
+ZDC Lo- 53 Kenton:Washington Center:132.050:W53:C:DC:CTR:DC:53:3640:3677
+ZDC Hi- 54 Salisbury:Washington Center:120.970:W54:C:DC:CTR:DC:54:3640:3677
+ZDC Hi- 58 Coyle:Washington Center:121.020:W58:C:DC:CTR:DC:58:3640:3677
+ZDC Hi- 59 Sea Isle:Washington Center:133.120:W59:C:DC:CTR:DC:59:3640:3677
+;
+; ******************************
+; ZDC - Washington Center Area C
+; ******************************
+;
+ZDC Lo- 14 Irons:Washington Center:132.950:W14:C:DC:CTR:DC:14:0501:0577
+ZDC Hi- 16 Hopewell:Washington Center:121.870:W16:C:DC:CTR:DC:16:0501:0577
+ZDC Hi- 32 Gordonsville (C):Washington Center:133.720:W32:C:DC:CTR:DC:32:0501:0577
+ZDC Hi- 36 Raleigh:Washington Center:118.920:W36:C:DC:CTR:DC:36:0501:0577
+ZDC Hi- 52 Tech:Washington Center:133.570:W52:C:DC:CTR:DC:52:0501:0577
+;
+; ******************************
+; ZDC - Washington Center Area D
+; ******************************
+;
+ZDC Hi- 34 Norfolk:Washington Center:133.820:W34:C:DC:CTR:DC:34:7001:7037
+ZDC Hi- 35 Wilmington (D):Washington Center:124.020:W35:C:DC:CTR:DC:35:7001:7037
+ZDC Hi- 38 Tar River:Washington Center:132.220:W38:C:DC:CTR:DC:38:7001:7037
+;
+; ******************************
+; ZDC - Washington Center Area SH
+; ******************************
+;
+ZDC SH- 07 Wahoo:Washington Center:121.920:W07:C:DC:CTR:07:3501:3517
+ZDC SH- 09 Dixon:Washington Center:118.820:W09:C:DC:CTR:DC:09:3501:3517
+ZDC SH- 42 Bryce:Washington Center:118.020:W42:C:DC:CTR:DC:42:3501:3517
+ZDC SH- 50 Yorktown:Washington Center:127.420:W50:C:DC:CTR:DC:50:3501:3517
+ZDC SH- 72 Shenandoah:Washington Center:134.620:W72:C:DC:CTR:DC:72:3501:3517
+;
+; **********************************
+; ZDC - Other Center Sectors
+; **********************************
+ZDC Lo- 01 Elkins:Washington Center:128.600:W01:C:DC:CTR:DC:01:7040:7077
+ZDC Lo- 02 Casanova:Washington Center:133.200:W02:C:DC:CTR:DC:02:7040:7077
+ZDC Lo- 05 Linden:Washington Center:133.550:W05:C:DC:CTR:DC:05:7040:7077
+ZDC Lo- 06 Hagerstown:Washington Center:134.150:W06:C:DC:CTR:DC:06:7040:7077
+ZDC Lo- 11 Calvert:Washington Center:133.900:W11:C:DC:CTR:DC:11:7040:7077
+ZDC Lo- 15 Blue Ridge:Washington Center:133.650:W15:C:DC:CTR:DC:15:7040:7077
+ZDC Lo- 17 Swann:Washington Center:134.500:W17:C:DC:CTR:DC:17:7040:7077
+ZDC Lo- 20 Blackstone:Washington Center:127.750:W20:C:DC:CTR:DC:20:7040:7077
+ZDC Lo- 21 Dominion:Washington Center:118.750:W21:C:DC:CTR:DC:21:7040:7077
+ZDC Lo- 22 South Boston:Washington Center:124.050:W22:C:DC:CTR:DC:22:7040:7077
+ZDC Lo- 23 Cape Charles:Washington Center:132.550:W23:C:DC:CTR:DC:23:7040:7077
+ZDC Lo- 24 Cofield:Washington Center:123.850:W24:C:DC:CTR:DC:24:7040:7077
+ZDC Lo- 25 New Bern:Washington Center:135.500:W25:C:DC:CTR:DC:25:7040:7077
+ZDC Lo- 26 Sampson:Washington Center:135.300:W26:C:DC:CTR:DC:26:7040:7077
+ZDC Lo- 27 Liberty:Washington Center:135.200:W27:C:DC:CTR:DC:27:7040:7077
+ZDC Lo- 28 Rocky Mount:Washington Center:118.470:W28:C:DC:CTR:DC:28:7040:7077
+ZDC Lo- 29 Hot Springs:Washington Center:134.400:W29:C:DC:CTR:DC:29:7040:7077
+ZDC Lo- 30 Valley:Washington Center:127.920:W30:C:DC:CTR:DC:30:7040:7077
+ZDC Lo- 31 Azalea:Washington Center:135.400:W31:C:DC:CTR:DC:31:7040:7077
+ZDC Lo- 33 Franklin:Washington Center:132.020:W33:C:DC:CTR:DC:33:7040:7077
+ZDC Lo- 39 Snow Hill:Washington Center:121.370:W39:C:DC:CTR:DC:39:7040:7077
+ZDC Lo- 60 Montebello:Washington Center:121.670:W60:C:DC:CTR:DC:60:7040:7077
+
+
+APP:Approach:118.500:S:S:GSO:APP:SR:GSO:3501:3577
+APP:Approach:124.350:N:N:GSO:APP:SR:GSO:3501:3577
+LC:Tower:119.100:L:L:GSO:TWR:LC:GSO:3501:3577
+GC:Ground:121.900:GG:GC:GSO:GND:GC:GSO:3501:3577
+CD:Delivery:121.750:GD:CD:GSO:DEL:CD:GSO:3501:3577
+ATIS:Greensboro ATIS:128.550:GA:GA:KGSO:ATIS:KGSO:ATIS::
+
+;Charlotte (CLT) 
+DR:Charlotte Departure:120.500:1W:W:CLT:DEP:CLT:W:6301:6377
+DR:Charlotte Departure:120.500:1W:W:CLT:APP:CLT:W:6301:6377
+SAT:Charlotte Approach:134.750:1N:N:CLT:APP:CLT:N:6301:6377
+
+ARE:Charlotte Approach:126.150:1H:H:CLT:APP:CLT:H:6301:6377
+ARW:Charlotte Approach:125.350:1U:U:CLT:APP:CLT:U:6301:6377
+FE:Charlotte Approach:127.700:1A:A:CLT:APP:CLT:A:6301:6377
+FC:Charlotte Approach:119.000:1M:M:CLT:APP:CLT:M:6301:6377
+
+
+;Winston-Salem (INT)
+GC:Winston Ground:128.250:IG:IG:INT:GND:GC:INT:3501:3577
+LC:Winston Tower:123.750:I:I:INT:TWR:LC:INT:3501:3577
+ATIS:Winston ATIS:121.300:IA:IA:KINT:ATIS:KINT:ATIS::
