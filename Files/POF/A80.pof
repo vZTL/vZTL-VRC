@@ -1,0 +1,237 @@
+vZTL ARTCC A80 Position File Version 1.4  3/25/2013
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+;Updated by William Lewis
+;//////////////////////////////////////////////////////////////////////////////////////
+ 
+;ZTL POSITION ID FILE HISTORY
+
+;3/25/2013 Added all remaining A80 positions as well at airport ATIS codes.
+;6/19/10 POF rebuild SY
+;9/9/10 Added New A80 CSs/ New ZJX sectors / New OZR freq.
+;2/28/11 Ammended for new sectors
+;//////////////////////////////////////////////////////////////////////////////////////
+
+
+;USE THIS FILE TO CREATE UNIQUE STATIC CONTROLLER POSITION ID'S FOR YOUR ASRC RADAR CLIENT.
+;AMENDING THIS FILE ONLY CHANGES THE WAY CONTROLLERS APPEAR TO YOU, AND DO NOT AFFECT
+;THE WAY OTHER CLIENTS SEE YOU, OR THE WAY THAT THEY SEE OTHER CONTROLLERS.
+
+;THIS FILE USES THE FOLLOWING FORMAT -->
+
+;NAME = SECTOR NAME
+;RNAME = RADIO CALLSIGN
+;FREQ = FREQUENCY MATCH FOR THIS POSITIN
+;SECID = SECTOR ID USED FOR HANDOFFS & ATC-ATC COMMS
+;ARTSTAG = POSITION SYMBOL ON THE ARTS SCOPE
+;CALLPREFIX = PREFIX MATCH FOR THIS POSITION
+;CALLSUFFIX = SUFFIX MATCH FOR THIS POSITION
+;LINE1 = FIRST LINE TO DISPLAY ON EACH KEY IN VSCS
+;LINE2 = SECOND LINE TO DISPLAY ON EACH KEY IN VSCS
+;LSQUAWK = LOW END OF SQUAWK RANGE FOR THIS POSITION
+;HSQUAWK = HIGH END OF SQUAWK RANGE FOR THIS POSITION
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+
+Relief Controllers    :Atlanta Center:199.998:00:-:ZTL:REL:ZTL:REL
+Observers             :Atlanta Center:199.998:00:-:ZTL:OBS:ZTL:OBS
+Instructors           :Atlanta Center:199.998:00:-:ZTL:INS:ZTL:INS
+Mentors               :Atlanta Center:199.998:00:-:ZTL:MEN:ZTL:MEN
+ATM  		      :Atlanta ATM:199.998:00:-:ZTL:ATM:ZTL:ATM
+DATM		      :Atlanta DATM:199.998:00:-:ZTL:DATM:ZTL:DATM
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+;ZTL ARTCC
+
+;Operations Desk
+ZTL TMU:Atlanta TMU:199.998:00:C:ZTL:TMU:ZTL:TMU
+ZTL Flight Data:Atlanta Flight Watch:135.470:WX:C:ATL:CTR:ATL:CTR
+
+;Area 1
+ZTL Salem 42 High:Atlanta Center:120.720:42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
+ZTL Pulaski 43 High:Atlanta Center:132.970:43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
+ZTL Shine 44 Low:Atlanta Center:132.620:44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
+ZTL Bristol 45 Low:Atlanta Center:127.850:45:C:ATL:CTR:Bristol Low:ZTL 45:2001:2077
+ZTL Moped 47 Low:Atlanta Center:134.550:47:C:ATL:CTR:Moped Low:ZTL 47:2001:2077
+ZTL Wilkes 48 Ultra Low:Atlanta Center:125.150:48:C:ATL:CTR:Wilkes Ultra Low:ZTL 48:2001:2077
+
+;Area 2
+ZTL Leeon 29 Low:Atlanta Center:128.800:29:C:ATL:CTR:Leeon Low:ZTL 29:2001:2077
+ZTL Locas 30 Low:Atlanta Center:133.150:30:C:ATL:CTR:Locas Low:ZTL 30:2001:2077
+ZTL Unarm 31 Low:Atlanta Center:135.350:31:C:ATL:CTR:Unarm Low:ZTL 31:2001:2077
+ZTL Spartanburg 32 High:Atlanta Center:125.620:32:C:ATL:CTR:Spartanburg High:ZTL 32:2001:2077
+ZTL Charlotte 33 Hi:Atlanta Center:124.420:33:C:ATL:CTR:Charlotte High:ZTL 33:2001:2077
+ZTL Georgia 34 High:Atlanta Center:120.420:34:C:ATL:CTR:Georgia High:ZTL 34:2001:2077
+ZTL High Rock 28 Ultra High:Atlanta Center:125.020:28:C:ATL:CTR:High Rock Ultra High:ZTL 28:2001:2077
+
+;Area 3
+ZTL East Departure 16 Low:Atlanta Center:124.450:16:C:ATL:CTR:East Departure Low:ZTL 16:2001:2077
+ZTL Logen 49 Low:Atlanta Center:121.350:49:C:ATL:CTR:Logen Low:ZTL 49:2001:2077
+ZTL Commerce 18 Ultra Low:Atlanta Center:134.800:18:C:ATL:CTR:Commerce Ultra Low:ZTL 18:2001:2077
+ZTL Lanier 50 High:Atlanta Center:124.370:50:C:ATL:CTR:Lanier High:ZTL 50:2001:2077
+ZTL Baden 15 Ultra High:Atlanta Center:126.770:15:C:ATL:CTR:Baden Ultra High:ZTL 15:2001:2077
+
+;Area 4
+ZTL Sinca 19 Low:Atlanta Center:123.950:42:C:ATL:CTR:Sinca Low:ZTL 19:2001:2077
+ZTL South Departure 21 Low:Atlanta Center:134.500:21:C:ATL:CTR:South Departure Low:ZTL 21:2001:2077
+ZTL Augusta 24 Low:Atlanta Center:135.550:24:C:ATL:CTR:Augusta Low:ZTL 24:2001:2077
+ZTL Dublin 20 High:Atlanta Center:126.420:20:C:ATL:CTR:Dublin High:ZTL 20:2001:2077
+ZTL Macon 22 High:Atlanta Center:119.370:22:C:ATL:CTR:Macon High:ZTL 22:2001:2077
+ZTL Clark Hill 23 Ultra High:Atlanta Center:124.320:23:C:ATL:CTR:Clark Hill Ultra High:ZTL 23:2001:2077
+ZTL Hampton 27 Ultra High:Atlanta Center:125.820:27:C:ATL:CTR:Hampton 27 Ultra High:ZTL 27:2001:2077
+
+;Area 5
+ZTL Tiroe 09 Low:Atlanta Center:120.450:09:C:ATL:CTR:Tiroe 09 Low:ZTL 09:2001:2077
+ZTL Birmingham 12 Low:Atlanta Center:127.300:12:C:ATL:CTR:Birmingham Low:ZTL 12:2001:2077
+ZTL Montgomery 13 Low:Atlanta Center:120.550:13:C:ATL:CTR:Montgomery Low:ZTL 13:2001:2077
+ZTL Maxwell 14 Low:Atlanta Center:132.250:14:C:ATL:CTR:Maxwell Low:ZTL 14:2001:2077
+ZTL LaGrange 10 High:Atlanta Center:125.570:10:C:ATL:CTR:LaGrange High:ZTL 10:2001:2077
+ZTL Monroeville 11 High:Atlanta Center:128.020:11:C:ATL:CTR:Monroeville High:ZTL 11:2001:2077
+ZTL Martin Lake 08 Ultra High:Atlanta Center:125.870:08:C:ATL:CTR:Martin Lake Ultra High:ZTL 08:2001:2077
+
+;Area 6
+ZTL West Departure 04 Low:Atlanta Center:134.950:04:C:ATL:CTR:West Departure Low:ZTL 04:2001:2077
+ZTL Dalas 05 Low:Atlanta Center:121.320:05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
+ZTL Rome 01 Ultra Low:Atlanta Center:135.170:01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
+ZTL Gadsden 03 High:Atlanta Center:128.720:03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
+ZTL Rocket 06 Ultra High:Atlanta Center:133.170:06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
+ZTL Gunter 02 Ultra High:Atlanta Center:126.82:02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
+
+;Area 7
+ZTL North Departure 38 Low:Atlanta Center:133.100:38:C:ATL:CTR:North Departure Low:ZTL 38:2001:2077
+ZTL Hinch Mountain 41 Low:Atlanta Center:133.600:41:C:ATL:CTR:Hinch Mountain Low:ZTL 41:2001:2077
+ZTL Crossville 37 High:Atlanta Center:126.670:37:C:ATL:CTR:Crossville High:ZTL 37:2001:2077
+ZTL Burne 39 High:Atlanta Center:125.920:39:C:ATL:CTR:Burne High:ZTL 39:2001:2077
+ZTL Allatoona 36 Ultra High:Atlanta Center:124.870:36:C:ATL:CTR:Allatoona Ultra High:ZTL 36:2001:2077
+ZTL Blue Ridge 40 Ultra High:Atlanta Center:134.070:40:C:ATL:CTR:Blue Ridge Ultra High:ZTL 40:2001:2077
+
+;A80 POSITIONS 
+
+TAR-D:Atlanta Approach:128.000:D:D:ATL:APP:TAR-D:A80:0401:0477
+TAR-H:Atlanta Approach:127.900:H:H:ATL:APP:TAR-H:A80:0401:0477
+TAR-L:Atlanta Approach:128.520:L:L:ATL:APP:TAR-L:A80:0401:0477
+TAR-Y:Atlanta Approach:124.720:Y:Y:ATL:APP:TAR-Y:A80:0401:0477
+AR-V:Atlanta Approach:127.250:V:V:ATL:APP:AR-V:A80:0401:0477
+AR-A:Atlanta Approach:118.350:A:A:ATL:APP:AR-A:A80:0401:0477
+AR-O:Atlanta Approach:124.600:O:O:ATL:APP:AR-O:A80:0401:0477
+PRM-V:Atlanta Approach:126.900:M:M:ATL:APP:PRM-V:A80:0401:0477
+PRM-A:Atlanta Approach:133.420:M:M:ATL:APP:PRM-A:A80:0401:0477
+PRM-O:Atlanta Approach:132.550:M:M:ATL:APP:PRM-O:A80:0401:0477
+DR-N:Atlanta Departure:125.700:N:N:ATL:DEP:DR-N:A80:0401:0477
+DR-S:Atlanta Departure:125.650:S:S:ATL:DEP:DR-S:A80:0401:0477
+DR-I:Atlanta Departure:135.370:I:I:ATL:DEP:DR-I:A80:0401:0477
+DR-N:Atlanta Departure:125.700:N:N:ATL:APP:DR-N:A80:0401:0477
+DR-S:Atlanta Departure:125.650:S:S:ATL:APP:DR-S:A80:0401:0477
+DR-I:Atlanta Departure:135.370:I:I:ATL:APP:DR-I:A80:0401:0477
+SAT-F:Atlanta Approach:121.000:F:F:ATL:APP:SAT-F:A80:0401:0477
+SAT-G:Atlanta Approach:128.570:G:G:ATL:APP:SAT-G:A80:0401:0477
+SAT-P:Atlanta Approach:126.970:P:P:ATL:APP:SAT-P:A80:0401:0477
+SAT-Q:Atlanta Approach:124.300:Q:Q:ATL:APP:SAT-Q:A80:0401:0477
+SAT-X:Atlanta Approach:119.800:X:X:ATL:APP:SAT-X:A80:0401:0477
+CSG-Z:Atlanta Approach:125.500:Z:Z:ATL:APP:SAT-Z:A80:0401:0477
+CSG-R:Atlanta Approach:126.550:R:R:ATL:APP:SAT-R:A80:0401:0477
+MCN-J:Atlanta Approach:119.600:J:J:ATL:APP:SAT-J:A80:0401:0477
+MCN-M:Atlanta Approach:124.200:M:M:ATL:APP:SAT-M:A80:0401:0477
+ATHENS-E:Atlanta Approach:132.470:E:E:ATL:APP:SAT-E:A80:0401:0477
+ATHENS-W:Atlanta Approach:119.870:W:W:ATL:APP:SAT-W:A80:0401:0477
+AUX1:Atlanta Approach:126.020:B:B:ATL:DEP:AUX-1:A80:0401:0477
+AUX2:Atlanta Approach:124.800:C:C:ATL:DEP:AUX-2:A80:0401:0477
+
+
+
+;ATL ATCT
+LC-1:Atlanta Tower:119.100:L1:T:ATL:TWR:LOCAL 1:ATL_TWR:7201:7277
+LC-2:Atlanta Tower:119.300:L2:T:ATL:TWR:LOCAL 2:ATL_TWR:7201:7277
+LC-3:Atlanta Tower:119.500:L3:T:ATL:TWR:LOCAL 3:ATL_TWR:7201:7277
+GC-N:Atlanta Ground:121.900:GN:GN:ATL:GND:GN:GND:7201:7277
+GC-C:Atlanta Ground:121.750:GC:GC:ATL:GND:GC:GND:7201:7277
+GC-S:Atlanta Ground:121.650:GS:GS:ATL:GND:GS:GND:7201:7277
+GC-M:Atlanta Ground:125.000:GM:GM:ATL:GND:GM:GND:7201:7277
+RAMP:Atlanta Ramp:131.450:GR:GR:ATL:GND:GR:GND:7201:7277
+CD-1:Atlanta Clearance Delivery:118.100:C1:C1:ATL:DEL:ATL:DEL:7101:7177
+CD-2:Atlanta Clearance Delivery:118.700:C2:C2:ATL:DEL:ATL:DEL:7101:7177
+ATIS:Atlanta ATIS:125.550:ATIS:ATIS:KATL:ATIS:KATL:ATIS::
+
+;AGS ATCT
+Augusta:Augusta Approach:119.150:1E:1:AGS:APP:AGS:APP:4701:4777
+Augusta:Augusta Approach:126.800:1W:1:AGS:APP:AGS:APP:4701:4777
+
+;GSP ATCT
+RW:Greer Approach:118.800:2W:G:GSP:APP:APP:GSP:4101:4177
+RE:Greer Approach:119.400:2E:G:GSP:APP:APP:GSP:4101:4177
+RS:Greer Approach:120.600:2S:G:GSP:APP:APP:GSP:4101:4177
+
+;MGM ATCT
+APP:Montgomery Approach:124.000:3W:M:MGM:APP:MGM:APP:0201:0277
+APP:Montgomery Approach:121.200:3N:M:MGM:APP:MGM:APP:0201:0277
+APP:Montgomery Approach:118.850:3S:M:MGM:APP:MGM:APP:0201:0277
+APP:Montgomery Approach:132.450:3E:M:MGM:APP:MGM:APP:0201:0277
+
+;OZR ARAC
+OZR_APP:Cairns Approach:125.400:4:O:OZR:APP:OZR:APP:2741:2747
+
+;FTY ATCT
+FTY:County Tower:118.450:B:B:FTY:TWR:FTY:LC:3501:3577
+FTY:County Ground:121.700:BG:BG:FTY:GND:FTY:GC:3501:3577
+ATIS:County ATIS:120.175:BA:BA:KFTY:ATIS:KFTY:ATIS::
+
+;PDK ATCT
+PDK:Peachtree Tower:120.900:X:X:PDK:TWR:PDK:LC:3501:3577
+PDK:Peachtree Ground:121.600:XG:XG:PDK:GND:PDK:GC:3501:3577
+PDK:Peachtree Clearance Delivery:125.200:XC:DC:PDK:DEL:PDK:CD:3501:3577
+PDK:Peachtree ATIS:128.400::XA:XA:KPDK:ATIS:KPDK:ATIS::
+
+;CSG ATCT
+CSG:Columbus Tower:120.100:K:K:CSG:TWR:CSG:LC:3501:3577
+CSG:Columbus Ground:121.900:KG:KG:CSG:GND:CSG:GC:3501:3577
+CSG:Columbus ATIS:127.750:KA:KA:KCSG:ATIS:KCSG:ATIS::
+
+;MGE ATCT
+MGE:Dobins Tower:120.750:G:G:MGE:TWR:MGE:LC:3501:3577
+MGE:Dobins Ground:125.300:GG:GG:MGE:GND:MGE:GC:3501:3577
+MGE ATIS:Dobins ATIS:120.180:GA:GA:KMGE:ATIS:KMGE:ATIS:3501:3577
+
+;LSF ATCT
+LSF:Lawson Tower:119.050:L:L:TWR:LSF:LC:3501:3577
+LSF:Lawson Ground:121.700:LG:LG:LSF:GND:LSF:GC:3501:3577
+LSF:Lawson ATIS:134.370:LA:LA:KLSF:ATIS:KLSF:ATIS:::
+
+;WRB ATCT
+WRB:Robbins Tower:133.220:W:W:WRB:TWR:3501:3577
+WRB:Robbins Ground:121.850:WG:WG:WRB:GND:3501:3577
+WRB:Robbins ATIS:119.470:WA:WA:KWRB:ATIS:KWRB:ATIS::
+
+
+;LZU ATCT Closed as of 4/17/2013
+LZU:Gwinnett Tower:124.100:I:I:LZU:TWR:LZU:LC:3501:3577
+LZU:Gwinnett Ground:121.800:IG:IG:LZU:GND:LZU:GC:3501:3577
+
+;MCN ATCT Closed as of 4/17/2013
+MCN:Macon Tower:128.200:M:M:MCN:TWR:MCN:LC:3501:3577
+MCN:Macon Ground:121.650:MG:MG:MCN:GND:MCN:GC:3501:3577
+
+;AHN ATCT Closed as of 4/17/2013
+AHN:Athens Tower:126.300:Q:Q:MCN:TWR:AHN:LC:3501:3577
+AHN:Athens Ground:121.800:QG:QG:MCN:GND:AHN:GC:3501:3577
+
+;RYY ATCT - Closed as of 4/17/2013
+RYY:Mc Collum Tower:125.900:U:U:RYY:TWR:RYY:LC:3501:3577
+RYY:Mc Collum Ground:119.000:UG:UG:RYY:GND:RYY:GC:3501:3577
+
+;******************************************
+; JAX CENTER
+;******************************************
+;$En-Route
+; LOW 1X
+;$!Low En-Route Sectors
+JAX_10_CTR:Jacksonville Center:135.050:J10:C:JAX:CTR:JAX:CTR:1001:1077
+JAX_13_CTR:Jacksonville Center:134.450:J13:C:JAX:CTR:JAX:CTR:1001:1077
+JAX_15_CTR:Jacksonville Center:133.320:J15:C:JAX:CTR:JAX:CTR:1001:1077
+
+; HIGH 3X
+;$!High En-Route Sectors
+JAX_30_CTR:Jacksonville Center:124.770:J30:C:JAX:CTR:JAX:CTR:3201:3277
+JAX_33_CTR:Jacksonville Center:134.850:J33:C:JAX:CTR:JAX:CTR:3201:3277
