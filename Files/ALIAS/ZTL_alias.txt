@@ -1,0 +1,442 @@
+vZTL Alias File v1.2
+
+
+---MISC---
+.cyrv can you receive voice?
+.a80vpts .vis *RATL *RMCN *RCSG *RLZU
+.ztlvpts .vis KATL KBHM KCLT
+.vztl .vis atl clt sug mgm
+.events vZTL brings you a whole new way to follow events and announcements with vZTL. Like us on facebook at www.facebook.com/vZTLARTCC, Follow us on Twitter at www.twitter.com/vZTLARTCC, and dont forget to check our events page at www.events.vztlartcc.net!
+.adf Not within vZTL service area, please double check your airport facility directory for the appropriate controlling facility, freq change approved good day.
+.asdex ASDE-X inuse all pilots should operate transponder with Mode-C on all taxiways and runways squawking your assigned beacon code as stated on your airport diagram.
+
+
+---CLEARANCES---
+.clrd  Cleared to $arr, via $route. Maintain $temp, expect $cruise one zero minutes after departure. Departure radar services not online, squawk $squawk.
+.clr Cleared to $arr, via $route. Maintain $temp, expect $cruise one zero minutes after departure. Departure frequency $freq($1), squawk $squawk.
+.rte Cleared to $arr, via $route. Rest of clearance remains unchanged.
+.clr2 Cleared to $arr, via $route. Maintain $cruise squawk $squawk.
+
+
+.pdc .msg $aircraft -PRE-DEPARTURE CLEARANCE START- CALL SIGN: $aircraft BEACON: $squawk - FLIGHT LEVEL: $cruise DEPT: $dep ARR: $arr EQUIPMENT: $type($aircraft) APPROVED ROUTE: $route DEP FREQ INFO: $freq($1) - ALTITUDE RESTRICTIONS: AS PUBLISHED ON THE SID - SID INFORMATION: RNAV DEPARTURES ARE RUNWAY DEPENDENT. RNAV SID CONFIRM FIRST RNAV FIX WITH TOWER PRIOR TO DEPARTURE.
+.pdcd .msg $aircraft -PRE-DEPARTURE CLEARANCE START- CALL SIGN: $aircraft BEACON: $squawk - FLIGHT LEVEL: $cruise DEPT: $dep ARR: $arr EQUIPMENT: $type($aircraft) APPROVED ROUTE: $route DEP FREQ INFO: OFFLINE - ALTITUDE RESTRICTIONS: AS PUBLISHED ON THE SID - SID INFORMATION: RNAV DEPARTURES ARE RUNWAY DEPENDENT. RNAV SID CONFIRM FIRST RNAV FIX WITH TOWER PRIOR TO DEPARTURE.
+.pdcm .msg $aircraft - ADDITIONAL INFORMATION: GROUND WILL ASSIGN RUNWAY WITH TAXI INSTRUCTIONS. CONTACT GROUND CONTROL ON 125.00 FOR TAXI INSTRUCTIONS. THIS MESSAGE SERVES AS YOUR PRE-DEPARTURE CLEARANCE. YOU DO NOT NEED TO REPLY TO THIS MESSAGE. CONTACT CLEARANCE DELIVERY ONLY IF YOU HAVE QUESTIONS REGARDING YOUR CLEARANCE.  -PRE-DEPARTURE CLEARANCE END-
+.pdcn .msg $aircraft - ADDITIONAL INFORMATION: GROUND WILL ASSIGN RUNWAY WITH TAXI INSTRUCTIONS. CONTACT APPROPRIATE GROUND CONTROL AS PUBLISHED AT THE NORTH SIDE OF THE TERMINAL RAMP. THIS MESSAGE SERVES AS YOUR PRE-DEPARTURE CLEARANCE. YOU DO NOT NEED TO REPLY TO THIS MESSAGE. CONTACT CLEARANCE DELIVERY ONLY IF YOU HAVE QUESTIONS REGARDING YOUR CLEARANCE.  -PRE-DEPARTURE CLEARANCE END-
+.pdcs .msg $aircraft - ADDITIONAL INFORMATION: GROUND WILL ASSIGN RUNWAY WITH TAXI INSTRUCTIONS. CONTACT APPROPRIATE GROUND CONTROL AS PUBLISHED AT THE SOUTH SIDE OF THE TERMINAL RAMP. THIS MESSAGE SERVES AS YOUR PRE-DEPARTURE CLEARANCE. YOU DO NOT NEED TO REPLY TO THIS MESSAGE. CONTACT CLEARANCE DELIVERY ONLY IF YOU HAVE QUESTIONS REGARDING YOUR CLEARANCE.  -PRE-DEPARTURE CLEARANCE END-
+.pdcc .msg $aircraft - ADDITIONAL INFORMATION: GROUND WILL ASSIGN RUNWAY WITH TAXI INSTRUCTIONS. CONTACT APPROPRIATE GROUND CONTROL AS PUBLISHED.THIS MESSAGE SERVES AS YOUR PRE-DEPARTURE CLEARANCE. YOU DO NOT NEED TO REPLY TO THIS MESSAGE. CONTACT CLEARANCE DELIVERY ONLY IF YOU HAVE QUESTIONS REGARDING YOUR CLEARANCE.  -PRE-DEPARTURE CLEARANCE END-
+
+
+-CLASS B VFR CLRNCS-
+.vfr cleared into $dep Class Bravo Airspace,squawk $squawk.
+.vfrp cleared out of $dep Class Bravo airspace, maintain VFR at or below 3500, squawk $squawk.
+.vfrj cleared out of $dep Class Bravo airspace, Maintain VFR at or below 5500, squawk $squawk.
+
+
+
+-Clearance Delivery Readback-
+.rb Readback correct
+.rbcatl readback correct, advise $1 side of ramp for taxi with information $atiscode
+.rbcatis readback correct, ATIS information $atiscode is current.
+.rbcaltim readback correct, The $dep altimeter is $altim($dep).
+.rbcrls readback correct, clearance void if not off by $1, if not off by $1, advise $radioname($2) not later than $3 of intentions, time $4, released for departure.
+.advise advise when ready to taxi.
+.alt the $1 altimeter is $altim($1).
+
+---GROUND---
+.walt wind $wind($dep), altimeter $altim($dep)
+.sn squawk normal.
+.ss squawk standby.
+.sqbad check squawk, squawk $squawk.
+.sq squawk $squawk
+.taxi runway $1, taxi via  $uc($2 $3 $4 $5 $6 $7 $8 $9).
+.taxi26L runway 26L, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi27R runway 27R, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi8R runway 8R, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi9L runway 9L, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi10 runway 10, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi28 runway 28, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi5 runway 5, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi18C runway 18C, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi18L runway 18L, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi23 runway 23, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi36R runway 36R, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi36C runway 36C, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxih26R runway 26L, taxi via $uc($1 $2 $3 $4 $5 $6), hold short runway 26R. 
+.taxih27L runway 27R, taxi via $uc($1 $2 $3 $4 $5 $6), hold short runway 27L.
+.taxih8L runway 8R, taxi via $uc($1 $2 $3 $4 $5 $6), hold short runway 8L.
+.taxih9R runway 9L, taxi via $uc($1 $2 $3 $4 $5 $6), hold short runway 9R.
+.tpark taxi to parking via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9). 
+.tramp taxi to the ramp via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.ramp taxi to the ramp via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.c26Ltpark cross runway 26L, join $1, taxi to the ramp.
+.c27Rtpark cross runway 27R, join $1, taxi to the ramp.
+.c8Rtpark cross runway 8R, join $1, taxi to the ramp.
+.c9Ltpark cross runway 9L, join $1, taxi to the ramp.
+.crossrwy cross runway $1.
+.cross26R cross runway 26R.
+.cross26L cross runway 26L.
+.cross27R cross runway 27R.
+.cross27L cross runway 27L.
+.contaxi continue taxi
+.h hold short runway $1.
+.h26L hold short runway 26L.
+.h27R hold short runway 27R.
+.h8R hold short runway 8R.
+.h9L hold short runway 9L.
+.vatis Verify information $atiscode.
+
+---TOWER---
+
+.lu runway $1, line up and wait.
+.lu26L runway 26L, line up and wait.
+.lu27R runway 27R, line up and wait.
+.lu8R runway 8R, line up and wait.
+.lu9L runway 9L, line up and wait.
+.lu10 runway 10, line up and wait.
+.lu28 runway 28, line up and wait.
+.lu18L runway 18L, line up and wait.
+.lu18C runway 18C, line up and wait.
+.lu36C runway 36C, line up and wait.
+.lu36R runway 36R, line up and wait.
+.lu5 runway 05, line up and wait.
+.lu23 runway 23, line up and wait.
+.cto wind $wind($dep), runway $1, cleared for takeoff.
+.ctorh Fly runway heading, wind $wind($dep), runway $1, cleared for takeoff.
+.ctoh fly hdg $1, wind $wind($dep), runway $2, cleared for takeoff.
+.hrshl wind $wind($dep), RNAV to HRSHL, runway 8R, cleared for takeoff.
+.ronii wind $wind($dep), RNAV to RONII, runway 8R, cleared for takeoff.
+.lidas wind $wind($dep), RNAV to LIDAS, runway 9L, cleared for takeoff.
+.gritz wind $wind($dep), RNAV to GRITZ, runway 9L, cleared for takeoff.
+.snufy wind $wind($dep), RNAV to SNUFY, runway 26L, cleared for takeoff.
+.mpass wind $wind($dep), RNAV to MPASS, runway 26L, cleared for takeoff.
+.slaww wind $wind($dep), RNAV to SLAWW, runway 27R, cleared for takeoff.
+.futbl wind $wind($dep), RNAV to FUTBL, runway 27R, cleared for takeoff.
+.wekin wind $wind($dep), RNAV to WEKIN, runway 18R, cleared for takeoff.
+.hisor wind $wind($dep), RNAV to HISOR, runway 18L, cleared for takeoff.
+.grigy wind $wind($dep), RNAV to GIRGY, runway 18C, cleared for takeoff.
+.jimal wind $wind($dep), RNAV to JIMAL, runway 36L, cleared for takeoff.
+.ebawi wind $wind($dep), RNAV to EBAWI, runway 36C, cleared for takeoff.
+.kayfo wind $wind($dep), RNAV to KAYFO, runway 36R, cleared for takeoff.
+.uncot wind $wind($dep), RNAV to KAYFO, runway 23, cleared for takeoff.
+.veazy wind $wind($dep), RNAV to KAYFO, runway 5, cleared for takeoff.
+.ctl wind $wind($arr), runway $1, cleared to land.
+.ctl26R wind $wind(katl), runway 26R, cleared to land.
+.ctl27L wind $wind(katl), runway 27L, cleared to land.
+.ctl8L wind $wind(katl), runway 8L, cleared to land.
+.ctl9R wind $wind(katl), runway 9R, cleared to land.
+.ctl10 wind $wind(katl), runway 10, cleared to land.
+.ctl28 wind $wind(katl), runway 28, cleared to land.
+.ctl18L wind $wind(kclt), runway 18L, cleared to land.
+.ctl18C wind $wind(kclt), runway 18C, cleared to land.
+.ctl36C wind $wind(kclt), runway 36C, cleared to land.
+.ctl36R wind $wind(kclt), runway 36R, cleared to land.
+.ctl5 wind $wind(kclt), runway 05, cleared to land.
+.ctl23 wind $wind(kclt), runway 23, cleared to land.
+.ctltg wind $wind($arr),runway $1, cleared touch and go.
+.ctltg26R wind $wind($arr),runway 26R, cleared touch and go.
+.ctltg27L wind $wind($arr),runway 27L, cleared touch and go.
+.ctltg8R wind $wind($arr),runway 8R, cleared touch and go.
+.ctltg9L wind $wind($arr),runway 9L, cleared touch and go.
+.ctl10 wind $wind(katl), runway 10, cleared touch and go.
+.ctl28 wind $wind(katl), runway 28, cleared touch and go.
+.ctlopt wind $wind($arr),runway $1, cleared for the option.
+.ctlopt26R wind $wind($arr),runway 26R, cleared for the option.
+.ctlopt27L wind $wind($arr),runway 27L, cleared for the option.
+.ctlopt8R wind $wind($arr),runway 8R, cleared for the option.
+.ctlopt9L wind $wind($arr),runway 9L, cleared for the option.
+.ctl10 wind $wind(katl), runway 10, cleared for option.
+.ctl28 wind $wind(katl), runway 28, cleared for option.
+.cwt Caution wake turbulence $1 $2 $3 $4 $5 $6 $7 $8 $9.
+.ga go around.
+.ma copy missed approach.
+.mah copy missed approach, fly heading $1, climb and maintain $2.
+.man copy missed approach, fly heading 360, climb and maintain $2.
+.mas copy missed approach, fly heading 180, climb and maintain $2.
+.map copy missed approach, fly missed procedure as published.
+.wel Welcome to $1
+.welatl Welcome to Atlanta
+.welclt Welcome to Charlotte
+.welx welcome to Atlanta, cross runway $1, contact ground $freq($2).
+.hins please read back hold short instructions.
+-TOWER VFR-
+.mlt make left closed traffic approved runway $1 clear for takeoff.
+.mrt make right closed traffic approved runway $1 clear for takeoff.
+.msi make straight in to runway $1.
+.tomrd26L wind $wind($dep), runway 26L, cleared for takeoff, make a right downwind departure.
+.tomrd27R wind $wind($dep), runway 27R, cleared for takeoff, make a left downwind departure.
+.tomrd8L wind $wind($dep), runway 8L, cleared for takeoff, make a left downwind departure.
+.tomrd9R wind $wind($dep), runway 9R, cleared for takeoff, make a right downwind departure.
+.tomrct26L wind $wind($dep), runway 26L, cleared for takeoff, make right closed traffic runway 26R.
+.tomrct26R wind $wind($dep), runway 26R, cleared for takeoff, make right closed traffic
+.tomlct27R wind $wind($dep), runway 27R, cleared for takeoff, make left closed traffic runway 27L.
+.tlmlct27L wind $wind($dep), runway 27L, cleared for takeoff, make left closed traffic
+.tomlct8L wind $wind($dep), runway 8L, cleared for takeoff, make left closed traffic 
+.tomlct8R wind $wind($dep), runway 8R, cleared for takeoff, make left closed traffic runway 8L.
+.tomrct9L wind $wind($dep), runway 9L, cleared for takeoff, make right closed traffic runway 9R.
+.tomrct9R wind $wind($dep), runway 9R, cleared for takeoff, make right closed traffic 
+.mrt26R make right traffic for runway 26R.
+.mrt27L make left traffic for runway 27L.
+.mrt8L make left traffic for runway 8L.
+.mrt9R make right traffic for runway 9R. 
+.msi26R make straight in runway 26R.
+.msi27L make straight in runway 27L.
+.msi8L make straight in runway 8L.
+.msi9R make straight in runway 9R.
+.mvfr maintain VFR.
+.mvfralt maintain VFR at or below $1.
+
+---DEPARTURE---
+
+.rc radar contact
+.id radar contact
+.id3 radar contact $dist($1) miles $bear($1) of $uc($1)
+.i IDENT
+.sa say altitude
+.rcp radar contact $dist($1) miles $bear($1) of $1
+.rcsa radar contact, say altitude
+.jointran turn $1, join the $2 transition.
+.joinairway turn $1, join $2
+.cdct cleared direct $1.
+.dct cleared direct $uc($1).
+.pdct proceed direct $1.
+.ron resume own navigation.
+.c climb and maintain $alt
+.d descend and maintain $alt
+.m maintain $alt
+.tr turn right heading $1
+.tl turn left heading $1
+.fh fly heading $1
+.rs reduce speed to $1
+.is increase speed to $1
+.ms maintain $1 knots
+.msl maintain $1 knots or less
+.msm maintain $1 knots or greater
+.ua until advised 
+.rsdm reduce speed to $1, then descend and maintain $alt
+.dmrs descend and maintain $1, then reduce speed to $2
+
+---APPROACH---
+.exp expect runway $1
+.ra report the airport in sight.
+.ira turn $1 heading $2, intercept the runway $3 localizer, report the airport in sight.
+.expv expect visual approach runway $1, $arr altimeter $altim($arr).
+.expi expect ILS runway $1 approach, $arr altimeter $altim($arr).
+.expv26R expect visual approach runway 26R, Atlanta altimeter $altim(KATL).
+.expv27L expect visual approach runway 27L, Atlanta altimeter $altim(KATL).
+.expv8L expect visual approach runway 8L, Atlanta altimeter $altim(KATL).
+.expv9R expect visual approach runway 9R, Atlanta altimeter $altim(KATL).
+.expv10 expect visual approach runway 10, Atlanta altimeter $altim(KATL).
+.expv28 expect visual approach runway 28, Atlanta altimeter $altim(KATL).
+.expv5 expect visual approach runway 5, Charlotte altimeter $altim(KCLT).
+.expv18R expect visual approach runway 18R, Charlotte altimeter $altim(KCLT).
+.expv18C expect visual approach runway 18C, Charlotte altimeter $altim(KCLT).
+.expv18L expect visual approach runway 18L, Charlotte altimeter $altim(KCLT).
+.expv23 expect visual approach runway 23, Charlotte altimeter $altim(KCLT).
+.expv36R expect visual approach runway 36R, Charlotte altimeter $altim(KCLT).
+.expv36C expect visual approach runway 36C, Charlotte altimeter $altim(KCLT).
+.expv36L expect visual approach runway 36L, Charlotte altimeter $altim(KCLT).
+.expi26R expect ILS runway 26R approach, Atlanta altimeter $altim(KATL).
+.expi27L expect ILS runway 27L approach, Atlanta altimeter $altim(KATL).
+.expi8L expect ILS runway 8L approach, Atlanta altimeter $altim(KATL).
+.expi9R expect ILS runway 9R approach, Atlanta altimeter $altim(KATL).
+.expi10 expect ILS runway 10 approach, Atlanta altimeter $altim(KATL).
+.expi28 expect ILS runway 28 approach, Atlanta altimeter $altim(KATL).
+.expi5 expect ILS runway 5 approach, Charlotte altimeter $altim(KCLT).
+.expi18R expect ILS runway 18R approach, Charlotte altimeter $altim(KCLT).
+.expi18C expect ILS runway 18C approach, Charlotte altimeter $altim(KCLT).
+.expi18L expect ILS runway 18L approach, Charlotte altimeter $altim(KCLT).
+.expi23 expect ILS runway 23 approach, Charlotte altimeter $altim(KCLT).
+.expi36R expect ILS runway 36R approach, Charlotte altimeter $altim(KCLT).
+.expi36C expect ILS runway 36C approach, Charlotte altimeter $altim(KCLT).
+.expi36L expect ILS runway 36L approach, Charlotte altimeter $altim(KCLT).
+.ptac $dist($1) miles from $1, turn $2 heading $3, maintain $4 until established on the localizer, cleared ILS runway $5 approach.
+.pac $dist($1) miles from $1, cross $1 at or above $2, cleared $3 runway $4 approach. 
+.radis $arr is at your $oclock($arr) $dist($arr) miles, report in sight.
+.cvis cleared visual approach runway $1.
+.cvis26R cleared visual approach runway 26R.
+.cvis27L cleared visual approach runway 27L.
+.cvis8L cleared visual approach runway 8L.
+.cvis9R cleared visual approach runway 9R.
+.cvis10 cleared visual approach runway 10.
+.cvis28 cleared visual approach runway 28.
+.cva cleared visual approach $uc($1).
+NOTE: For text traffic advisories, select the aircraft you wish to send the advisory to, then hold the CTRL+SHIFT keys, and click the aircraft you wish to point out.
+
+---CENTER---
+
+.cross cross $uc($1) at and maintain $alt. The $arr altimeter is $altim($arr).
+.crossspeed cross $1 at and maintain $2 at $3 knots.  The $arr altimeter is $altim($arr).
+-ATL ARRS-
+.dirtydw cross DIRTY at and maintain 12,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.dirtyde cross DIRTY at and maintain 14,000. The Atlanta altimeter is $altim($arr).
+.pechydw cross PECHY at and maintain 13,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.pechyde cross PECHY at and maintain 13,000. The Atlanta altimeter is $altim($arr).
+.whinzdw cross WHINZ at and maintain 12,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.whinzde cross WHINZ at and maintain 14,000. The Atlanta altimeter is $altim($arr).
+.sincadw cross CANUK at and maintain 12,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.sincade cross CANUK at and maintain 14,000. The Atlanta altimeter is $altim($arr).
+.canukdw cross CANUK at and maintain 12,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.canukde cross CANUK at and maintain 14,000. The Atlanta altimeter is $altim($arr).
+.lgcdw cross HONIE at and maintain 14,000. The Atlanta altimeter is $altim($arr).
+.lgcde cross HONIE at and maintain 12,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.honiedw cross HONIE at and maintain 14,000. The Atlanta altimeter is $altim($arr).
+.honiede cross HONIE at and maintain 12,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.rmgdw cross ERLIN at and maintain 14,000. The Atlanta altimeter is $altim($arr).
+.rmgde cross ERLIN at and maintain 13,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.erlindw cross ERLIN at and maintain 14,000. The Atlanta altimeter is $altim($arr).
+.erlinde cross ERLIN at and maintain 13,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+.herkodw cross HERKO at and maintain 13,000. The Atlanta altimeter is $altim($arr).
+.herkode cross HERKO at and maintain 12,000 at 250 Knots. The Atlanta altimeter is $altim($arr).
+
+-CLT ARRS-
+.shinedn cross SHINE at and maintain 12,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.shineds cross SHINE at and maintain 11,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.johnsdn cross SHINE at and maintain 12,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.johnsds cross SHINE at and maintain 11,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.unarmdn cross ADENA at and maintain 11,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.unarmds cross ADENA at and maintain 12,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.adenadn cross ADENA at and maintain 11,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.adenads cross ADENA at and maintain 12,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.majicd cross MAJIC at and maintain 13,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.sudsyd cross MAJIC at and maintain 13,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.ctfd cross BOOZE at and maintain 11,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+.hustnd cross BOOZE at and maintain 11,000 at 250 knots. The Charlotte altimeter is $altim($arr).
+
+-A80 SAT ARRS-
+.awsond cross DEHAN at and maintain 8000, $arr altimeter $altim($arr).
+.bunnid cross BUNNI at and maintain 8000, $arr altimeter $altim($arr).
+.bunnidp cross BUNNI at and maintain 5000, $arr altimeter $altim($arr).
+.diffid cross BUUZZ at and maintain 11000, $arr altimeter $altim($arr).
+.diffidp cross BUUZZ at and maintain 7000, $arr altimeter $altim($arr).
+.jramsd cross TRBOW at and maintain 11000, $arr altimeter $altim($arr).
+.jramsdp cross TRBOW at and maintain 8000, $arr altimeter $altim($arr).
+.mikeed cross ARNCO at and maintain 11000, $arr altimeter $altim($arr).
+.trbowd cross TRBOW at and maintain 11000, $arr altimeter $altim($arr).
+.trbowdp cross TRBOW at and maintain 8000, $arr altimeter $altim($arr).
+.ho contact $radioname($1) $freq($1)
+.cnt contact $radioname($1) $freq($1)
+.l Leaving my airspace, radar service terminated, frequency change approved.
+.lzme Leaving my airspace, Memphis Center offline, radar service terminated, frequency change approved.
+.lzid Leaving my airspace, Indianapolis Center offline, radar service terminated, frequency change approved.
+.lzjx Leaving my airspace, Jacksonville Center offline, radar service terminated, frequency change approved.
+.lzdc Leaving my airspace, Washington Center offline, radar service terminated, frequency change approved.
+.lzhu Leaving my airspace, Houston Center offline, radar service terminated, frequency change approved.
+.fca Frequency change approved
+
+.gd G'Day
+.gm Good Morning
+.gn Good Night
+
+---diagrams--- 
+--AUGUSTA---
+.stuge .fd STUGE3
+.stwrt .fd STWRT2
+.chatt .fd CHATT3
+.dover .fd DOVER3
+.junpr .fd JUNPR3
+.kaoln .fd KAOLN4
+.rdbud .fd RDBUD2
+.SAMMI .fd SAMMI2
+--ATL ARRS--
+.bnele .fd BNELE1
+.canuk .fd CANUK2
+.dirty .fd DIRTY1
+.erlin .fd ERLIN1
+.evule .fd EVULE1
+.flcon .fd FLCON8
+.herko .fd HERKO7
+.honie .fd HONIE9
+.koltt .fd KOLTT1
+.lgc .fd LGC3
+.onyon .fd ONYON1
+.pechy .fd PECHY8
+.rmg .fd RMG5
+.rptor .fd RPTOR3
+.sinca .fd SINCA6
+.warrr .fd WARRR1
+.whinz .fd WHINZ2
+---ATL DEP---
+.bravs .fd BRAVS7
+.cadit .fd CADIT7
+.cokem .fd COKEM6
+.dawgs .fd DAWGS6
+.dooly .fd DOOLY6
+.geetk .fd GEETK7
+.jckts .fd JCKTS7
+.jogor .fd JOGOR5
+.munsn .fd MUNSN6
+.novss .fd NOVSS5
+.nuggt .fd NUGGT6
+.pnutt .fd PNUTT7
+.rmbln .fd RMBLN7
+.summt .fd SUMMT6
+.thrsr .fd THRSR5
+.ugaaa .fd UGAAA6
+-A80 SAT ARRS-
+.awson .fd AWSON2
+.bunni .fd BUNNI3
+.diffi .fd DIFFI2
+.jrams .fd JRAMS3
+.trbow .fd TRBOW9
+-CLT ARRS-
+.adena .fd ADENA3
+.ctf .fd CTF3
+.hustn .fd HUSTN2
+.johns .fd JOHNS3
+.majic .fd MAJIC1
+.shine .fd SHINE6 
+.sudsy .fd SUDSY4
+.unarm .fd UNARM1
+.nascr .fd NASCR1
+---CLT DEP---
+.andys .fd ANDYS7
+.bob .fd BOB5
+.buckl .fd BUCKL7
+.debie .fd DEBIE6
+.hor .fd HOR7
+.hug .fd HUG2
+.jacal .fd JACAL6
+.lills .fd LILLS6
+.meril .fd MERIL6
+.pan .fd PAN2
+.zaver .fd ZAVER2
+---GSO ARR---
+.blocc .fd BLOCC1
+.brook .fd BROOK2
+.henby .fd HENBY2
+.smokn .fd SMOKN3
+---GSO DEP---
+.quak .fd QUAK3
+.tri .fd TRI6
+
+-Playball Callsigns-
+.ARI .msg PB/Callsigns Callsign: D'Back - Team: Arizona Diamondbacks
+.ATL .msg PB/Callsigns Callsign: Tomahawk  - Team: Atlanta Braves
+.BAL .msg PB/Callsigns Callsign: Oriole  - Team: Baltimore Orioles
+.BOS .msg PB/Callsigns Callsign: Bosox  - Team: Boston Red Sox
+.CHC .msg PB/Callsigns Callsign: Wrigley - Team: Chicago Cubs
+.CWS .msg PB/Callsigns Callsign: Sox - Team: Chicago White Sox 
+.CIN .msg PB/Callsigns Callsign: Redleg - Team: Cincinnati Reds
+.CLE .msg PB/Callsigns Callsign: Indian - Team: Cleveland Indians 
+.COL .msg PB/Callsigns Callsign: Rocky  - Team: Colorado Rockies
+.DET .msg PB/Callsigns Callsign: Tiger - Team: Detroit Tigers
+.HOU .msg PB/Callsigns Callsign: 'stro - Team: Houston Astros
+.KC .msg PB/Callsigns Callsign: Royal - Team: Kansas City Royals 
+.LAA .msg PB/Callsigns Callsign: Angel - Team: Los Angeles Angels 
+.LAD .msg PB/Callsigns Callsign: Dodger - Team: Los Angeles Dodgers 
+.MIA .msg PB/Callsigns Callsign: Marlin - Team: Miami Marlins
+.MIL .msg PB/Callsigns Callsign: Crew - Team: Milwaukee Brewers
+.MIN .msg PB/Callsigns Callsign: Twin - Team: Minnesota Twins
+.NYM .msg PB/Callsigns Callsign: Met - Team: New York Mets
+.NYY .msg PB/Callsigns Callsign: Yankee - Team: New York Yankees
+.OAK .msg PB/Callsigns Callsign: Elephant - Team: Oakland Athletics 
+.PHI .msg PB/Callsigns Callsign: Philly - Team: Philadelphia Phillies 
+.PIT .msg PB/Callsigns Callsign: Pirate - Team: Pittsburgh Pirates 
+.SD .msg PB/Callsigns Callsign: Padre - Team: San Diego Padres
+.SF .msg PB/Callsigns Callsign: Giant - Team: San Francisco Giants 
+.SEA .msg PB/Callsigns Callsign: Mariner - Team: Seattle Mariners 
+.STL .msg PB/Callsigns Callsign: Champion - Team: St. Louis Cardinals 
+.TB .msg PB/Callsigns Callsign: Ray - Team: Tampa Bay Rays
+.TEX .msg PB/Callsigns Callsign: Tex - Team: Texas Rangers
+.TOR .msg PB/Callsigns Callsign: Blue Bird - Team: Toronto Blue Jays 
+.WSH .msg PB/Callsigns Callsign: National - Team: Washington Nationals 
