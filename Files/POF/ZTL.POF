@@ -1,0 +1,570 @@
+vZTL ARTCC Position File Version 2.0  3/25/2013
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+;Updated by William Lewis
+;//////////////////////////////////////////////////////////////////////////////////////
+ 
+;ZTL POSITION ID FILE HISTORY
+
+;3/25/2013 Updatede ZME, ZJX, and ZDC sectors. Marked Closed Towers.
+;5/24/11 Updated New ZTL Sectors, ATL ATCT Sectors/Frequencies
+;//////////////////////////////////////////////////////////////////////////////////////
+
+
+;USE THIS FILE TO CREATE UNIQUE STATIC CONTROLLER POSITION ID'S FOR YOUR ASRC RADAR CLIENT.
+;AMENDING THIS FILE ONLY CHANGES THE WAY CONTROLLERS APPEAR TO YOU, AND DO NOT AFFECT
+;THE WAY OTHER CLIENTS SEE YOU, OR THE WAY THAT THEY SEE OTHER CONTROLLERS.
+
+;THIS FILE USES THE FOLLOWING FORMAT -->
+
+;NAME = SECTOR NAME
+;RNAME = RADIO CALLSIGN
+;FREQ = FREQUENCY MATCH FOR THIS POSITIN
+;SECID = SECTOR ID USED FOR HANDOFFS & ATC-ATC COMMS
+;ARTSTAG = POSITION SYMBOL ON THE ARTS SCOPE
+;CALLPREFIX = PREFIX MATCH FOR THIS POSITION
+;CALLSUFFIX = SUFFIX MATCH FOR THIS POSITION
+;LINE1 = FIRST LINE TO DISPLAY ON EACH KEY IN VSCS
+;LINE2 = SECOND LINE TO DISPLAY ON EACH KEY IN VSCS
+;LSQUAWK = LOW END OF SQUAWK RANGE FOR THIS POSITION
+;HSQUAWK = HIGH END OF SQUAWK RANGE FOR THIS POSITION
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+
+Relief Controllers    :Atlanta Center:199.998:00:-:ZTL:REL:ZTL:REL
+Observers             :Atlanta Center:199.998:00:-:ZTL:OBS:ZTL:OBS
+Instructors           :Atlanta Center:199.998:00:-:ZTL:INS:ZTL:INS
+Mentors               :Atlanta Center:199.998:00:-:ZTL:MEN:ZTL:MEN
+ATM  		      :Atlanta ATM:199.998:00:-:ZTL:ATM:ZTL:ATM
+DATM		      :Atlanta DATM:199.998:00:-:ZTL:DATM:ZTL:DATM
+Traffic Management Unit  :Atlanta TMU:199.998:00:-:ZTL:TMU:ZTL:TMU
+
+;//////////////////////////////////////////////////////////////////////////////////////
+;ZTL ARTCC
+
+;Operations Desk
+ZTL TMU:Atlanta TMU:199.998:00:C:ZTL:TMU:ZTL:TMU
+ZTL Flight Data:Atlanta Flight Watch:135.470:WX:C:ATL:CTR:ATL:CTR
+
+;Area 1
+ZTL Salem 42 High:Atlanta Center:120.720:42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
+ZTL Pulaski 43 High:Atlanta Center:132.970:43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
+ZTL Shine 44 Low:Atlanta Center:132.620:44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
+ZTL Bristol 45 Low:Atlanta Center:127.850:45:C:ATL:CTR:Bristol Low:ZTL 45:2001:2077
+ZTL Moped 47 Low:Atlanta Center:134.550:47:C:ATL:CTR:Moped Low:ZTL 47:2001:2077
+ZTL Wilkes 48 Ultra Low:Atlanta Center:125.150:48:C:ATL:CTR:Wilkes Ultra Low:ZTL 48:2001:2077
+
+;Area 2
+ZTL Leeon 29 Low:Atlanta Center:128.800:29:C:ATL:CTR:Leeon Low:ZTL 29:2001:2077
+ZTL Locas 30 Low:Atlanta Center:133.150:30:C:ATL:CTR:Locas Low:ZTL 30:2001:2077
+ZTL Unarm 31 Low:Atlanta Center:135.350:31:C:ATL:CTR:Unarm Low:ZTL 31:2001:2077
+ZTL Spartanburg 32 High:Atlanta Center:125.620:32:C:ATL:CTR:Spartanburg High:ZTL 32:2001:2077
+ZTL Charlotte 33 Hi:Atlanta Center:124.420:33:C:ATL:CTR:Charlotte High:ZTL 33:2001:2077
+ZTL Georgia 34 High:Atlanta Center:120.420:34:C:ATL:CTR:Georgia High:ZTL 34:2001:2077
+ZTL High Rock 28 Ultra High:Atlanta Center:125.020:28:C:ATL:CTR:High Rock Ultra High:ZTL 28:2001:2077
+
+;Area 3
+ZTL East Departure 16 Low:Atlanta Center:124.450:16:C:ATL:CTR:East Departure Low:ZTL 16:2001:2077
+ZTL Logen 49 Low:Atlanta Center:121.350:49:C:ATL:CTR:Logen Low:ZTL 49:2001:2077
+ZTL Commerce 18 Ultra Low:Atlanta Center:134.800:18:C:ATL:CTR:Commerce Ultra Low:ZTL 18:2001:2077
+ZTL Lanier 50 High:Atlanta Center:124.370:50:C:ATL:CTR:Lanier High:ZTL 50:2001:2077
+ZTL Baden 15 Ultra High:Atlanta Center:126.770:15:C:ATL:CTR:Baden Ultra High:ZTL 15:2001:2077
+
+;Area 4
+ZTL Sinca 19 Low:Atlanta Center:123.950:42:C:ATL:CTR:Sinca Low:ZTL 19:2001:2077
+ZTL South Departure 21 Low:Atlanta Center:134.500:21:C:ATL:CTR:South Departure Low:ZTL 21:2001:2077
+ZTL Augusta 24 Low:Atlanta Center:135.550:24:C:ATL:CTR:Augusta Low:ZTL 24:2001:2077
+ZTL Dublin 20 High:Atlanta Center:126.420:20:C:ATL:CTR:Dublin High:ZTL 20:2001:2077
+ZTL Macon 22 High:Atlanta Center:119.370:22:C:ATL:CTR:Macon High:ZTL 22:2001:2077
+ZTL Clark Hill 23 Ultra High:Atlanta Center:124.320:23:C:ATL:CTR:Clark Hill Ultra High:ZTL 23:2001:2077
+ZTL Hampton 27 Ultra High:Atlanta Center:125.820:27:C:ATL:CTR:Hampton 27 Ultra High:ZTL 27:2001:2077
+
+;Area 5
+ZTL Tiroe 09 Low:Atlanta Center:120.450:09:C:ATL:CTR:Tiroe 09 Low:ZTL 09:2001:2077
+ZTL Birmingham 12 Low:Atlanta Center:127.300:12:C:ATL:CTR:Birmingham Low:ZTL 12:2001:2077
+ZTL Montgomery 13 Low:Atlanta Center:120.550:13:C:ATL:CTR:Montgomery Low:ZTL 13:2001:2077
+ZTL Maxwell 14 Low:Atlanta Center:132.250:14:C:ATL:CTR:Maxwell Low:ZTL 14:2001:2077
+ZTL LaGrange 10 High:Atlanta Center:125.570:10:C:ATL:CTR:LaGrange High:ZTL 10:2001:2077
+ZTL Monroeville 11 High:Atlanta Center:128.020:11:C:ATL:CTR:Monroeville High:ZTL 11:2001:2077
+ZTL Martin Lake 08 Ultra High:Atlanta Center:125.870:08:C:ATL:CTR:Martin Lake Ultra High:ZTL 08:2001:2077
+
+;Area 6
+ZTL West Departure 04 Low:Atlanta Center:134.950:04:C:ATL:CTR:West Departure Low:ZTL 04:2001:2077
+ZTL Dalas 05 Low:Atlanta Center:121.320:05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
+ZTL Rome 01 Ultra Low:Atlanta Center:135.170:01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
+ZTL Gadsden 03 High:Atlanta Center:128.720:03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
+ZTL Rocket 06 Ultra High:Atlanta Center:133.170:06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
+ZTL Gunter 02 Ultra High:Atlanta Center:126.82:02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
+
+;Area 7
+ZTL North Departure 38 Low:Atlanta Center:133.100:38:C:ATL:CTR:North Departure Low:ZTL 38:2001:2077
+ZTL Hinch Mountain 41 Low:Atlanta Center:133.600:41:C:ATL:CTR:Hinch Mountain Low:ZTL 41:2001:2077
+ZTL Crossville 37 High:Atlanta Center:126.670:37:C:ATL:CTR:Crossville High:ZTL 37:2001:2077
+ZTL Burne 39 High:Atlanta Center:125.920:39:C:ATL:CTR:Burne High:ZTL 39:2001:2077
+ZTL Allatoona 36 Ultra High:Atlanta Center:124.870:36:C:ATL:CTR:Allatoona Ultra High:ZTL 36:2001:2077
+ZTL Blue Ridge 40 Ultra High:Atlanta Center:134.070:40:C:ATL:CTR:Blue Ridge Ultra High:ZTL 40:2001:2077
+
+
+
+;---ZID---///////////////////////////////////////////////////////////////////////////////
+;AREA One
+;
+EVANSVILLE 17 (EVV LO):Indy Center:128.330:I17:C:IND:CTR:IND 17:CTR:6701:6777
+NEW HOPE 19 (EWW LO):Indy Center:121.170:I19:C:IND:CTR:IND 17:CTR:6701:6777
+POCKET CITY 81 (PXV HI):Indy Center:132.520:I81:C:IND:CTR:IND 81:CTR:6601:6677
+LOUISVILLE 82 (LOU HI):Indy Center:133.050:I82:C:IND:CTR:IND 82:CTR:6601:6677
+IMPEL 91 (IMP SH):Indy Center:127.020:I91:C:IND:CTR:IND 91:CTR:6401:6477
+MYSTIC 92 (MYS SH):Indy Center:134.270:I92:C:IND:CTR:IND 92:CTR:6401:6477
+;
+;AREA 2
+;
+LONDON 21 (LOZ LO):Indy Center:124.620:I21:C:IND:CTR:IND 21:CTR:6701:6777
+HAZARD 25 (AZQ LO):Indy Center:126.570:I25:C:IND:CTR:IND 25:CTR:6701:6777
+RIVER 26 (RIV LO):Indy Center:124.220:I26:C:IND:CTR:IND 26:CTR:6701:6777
+REBEL 84 (RBL HI)Indy Center:134.670:I84:C:IND:CTR:IND 84:CTR:6601:6677
+SOMERSET 94 (SME SH):Indy Center:126.920:I94:C:IND:CTR:IND 94:CTR:6401:6477
+;
+;AREA 3
+;
+CHARLESTON 85 (CRW HI):Indy Center:119.520:I85:C:IND:CTR:IND 85:CTR:6601:6677
+BOBCAT 79 (BOB IM):Indy Center:125.070:I79:C:IND:CTR:IND 79:CTR:6501:6577
+HENDERSON 95 (HNN SH):Indy Center:120.270:I95:C:IND:CTR:IND 95:CTR:6401:6477
+BECKLEY 86 (BKW HI):Indy Center:124.570:I86:C:IND:CTR:IND 86:CTR:6601:6677
+BLUEFIELD 96 (BLF SH):Indy Center:134.220:I96:C:IND:CTR:IND 96:CTR:6401:6477
+;
+;AREA 4
+;
+SHELBYVILLE 34 (SHB LO):Indy Center:119.550:I34:C:IND:CTR:IND 35:CTR:6601:6777
+TERRE HAUTE 35 (HUF LO):Indy Center:132.200:I35:C:IND:CTR:IND 35:CTR:6701:6777
+RUSHVILLE 75 (RSH SH):Indy Center:125.120:I75:C:IND:CTR:IND 75:CTR:6401:6477
+KING 80 (KNG HI):Indy Center:134.170:I80:C:IND:CTR:IND 80:CTR:6601:6677
+INDY 89 (IND HI):Indy Center:133.420:I89:C:IND:CTR:IND 89:CTR:6601:6677
+WABASH 99 (WAB SH):Indy Center:132.770:I99:C:IND:CTR:IND 99:CTR:6401:6477
+;
+;AREA 5
+;
+ROSEWOOD 32 (ROD LO):Indy Center:128.070:I32:C:IND:CTR:IND 32:CTR:6701:6777
+COVINGTON 22 (CVG LO):Indy Center:123.920:I22:C:IND:CTR:IND 22:CTR:6701:6777
+LYTLE 31 (LTL LO):Indy Center:120.470:I31:C:IND:CTR:IND 31:CTR:6701:6777
+MUNCIE 33 (MIE LO):Indy Center:124.520:I33:C:IND:CTR:IND 33:CTR:6701:6777
+DAYTON 88 (DAY HI):Indy Center:120.570:I88:C:IND:CTR:IND 88:CTR:6601:6677
+SPRINGFIELD 78 (SGH IM):Indy Center:135.800:I78:C:IND:CTR:IND 78:CTR:6501:6577
+PATTERSON 98 (FFO SH):Indy Center:128.770:I98:C:IND:CTR:IND 98:CTR:6401:6477
+;
+;AREA 6
+;
+COLUMBUS 30 (CMH LO):Indy Center:124.800:I30:C:IND:CTR:IND 30:CTR:6701:6777
+YORK 23 (YRK LO):Indy Center:134.000:I23:C:IND:CTR:IND 23:CTR:6701:6777
+PARKERSBURG 24 (PKB LO):Indy Center:127.100:I24:C:IND:CTR:IND 24:CTR:6701:6777
+PIKE 69 (PIK LO):Indy Center:135.570:I69:C:IND:CTR:IND 69:CTR:6701:6777
+APPLETON 87 (APE HI):Indy Center:132.820:I87:C:IND:CTR:IND 87:CTR:6601:6677
+UNIVERSITY 77 (UNV HI):Indy Center:125.070:I77:C:IND:CTR:IND 77:CTR:6401:6477
+LOCKBOURNE 97 (LCK SH):Indy Center:133.770:I97:C:IND:CTR:IND 97:CTR:6401:6477
+;
+;AREA 7
+;
+NABB 18 (ABB LO):Indy Center:124.770:I18:C:IND:CTR:IND 18:CTR:6701:6777
+LEXINGTON 20 (LEX LO):Indy Center:126.370:I20:C:IND:CTR:IND 20:CTR:6701:6777
+MADISON 66 (MAD HI):Indy Center:128.370:I66:C:IND:CTR:IND 66:CTR:6601:6677
+FALMOUTH 83 (FLM HI):Indy Center:128.220:I83:C:IND:CTR:IND 83:CTR:6601:6677
+BATESVILLE 76 (BTV SH):Indy Center:134.700:I76:C:IND:CTR:IND 76:CTR:6401:6477
+DACOS 93 (DAC SH):Indy Center:123.770:I93:C:IND:CTR:IND 93:CTR:6401:6477
+HOOSIER 70 (OOM SH):Indy Center:134.700:I70:C:IND:CTR:IND 70:CTR:6401:6477
+
+;///////////////////////////////////////////////////////////////////////////////
+;///////////////////////////////////////////////////////////////////////////////
+
+; ZDC - Washington Center Area A
+; ******************************
+;
+ZDC Hi- 03 Moorefield:Washington Center:133.270:W03:C:DC:CTR:DC:03:3601:3637
+ZDC Hi- 04 Pinion (A):Washington Center:133.970:W04:C:DC:CTR:DC:04:3601:3637
+ZDC Hi- 37 Marlinton:Washington Center:133.020:W37:C:DC:CTR:DC:37:3601:3637
+;
+; ******************************
+; ZDC - Washington Center Area B
+; ******************************
+;
+ZDC Hi- 10 Bay:Washington Center:132.270:W10:C:DC:CTR:DC:10:3640:3677
+ZDC Hi- 12 Brooke:Washington Center:126.870:W12:C:DC:CTR:DC:12:3640:3677
+ZDC Hi- 18 Dupont:Washington Center:132.520:W18:C:DC:CTR:DC:18:3640:3677
+ZDC Hi- 19 Woodstown (B):Washington Center:125.450:W19:C:DC:CTR:DC:19:3640:3677
+ZDC Hi- 39 Snow Hill:Washington Center:121.370:W39:C:DC:CTR:DC:39:3640:3677
+ZDC Lo- 51 Casino:Washington Center:127.700:W51:C:DC:CTR:DC:51:3640:3677
+ZDC Lo- 53 Kenton:Washington Center:132.050:W53:C:DC:CTR:DC:53:3640:3677
+ZDC Hi- 54 Salisbury:Washington Center:120.970:W54:C:DC:CTR:DC:54:3640:3677
+ZDC Hi- 58 Coyle:Washington Center:121.020:W58:C:DC:CTR:DC:58:3640:3677
+ZDC Hi- 59 Sea Isle:Washington Center:133.120:W59:C:DC:CTR:DC:59:3640:3677
+;
+; ******************************
+; ZDC - Washington Center Area C
+; ******************************
+;
+ZDC Lo- 14 Irons:Washington Center:132.950:W14:C:DC:CTR:DC:14:0501:0577
+ZDC Hi- 16 Hopewell:Washington Center:121.870:W16:C:DC:CTR:DC:16:0501:0577
+ZDC Hi- 32 Gordonsville (C):Washington Center:133.720:W32:C:DC:CTR:DC:32:0501:0577
+ZDC Hi- 36 Raleigh:Washington Center:118.920:W36:C:DC:CTR:DC:36:0501:0577
+ZDC Hi- 52 Tech:Washington Center:133.570:W52:C:DC:CTR:DC:52:0501:0577
+;
+; ******************************
+; ZDC - Washington Center Area D
+; ******************************
+;
+ZDC Hi- 34 Norfolk:Washington Center:133.820:W34:C:DC:CTR:DC:34:7001:7037
+ZDC Hi- 35 Wilmington (D):Washington Center:124.020:W35:C:DC:CTR:DC:35:7001:7037
+ZDC Hi- 38 Tar River:Washington Center:132.220:W38:C:DC:CTR:DC:38:7001:7037
+;
+; ******************************
+; ZDC - Washington Center Area SH
+; ******************************
+;
+ZDC SH- 07 Wahoo:Washington Center:121.920:W07:C:DC:CTR:07:3501:3517
+ZDC SH- 09 Dixon:Washington Center:118.820:W09:C:DC:CTR:DC:09:3501:3517
+ZDC SH- 42 Bryce:Washington Center:118.020:W42:C:DC:CTR:DC:42:3501:3517
+ZDC SH- 50 Yorktown:Washington Center:127.420:W50:C:DC:CTR:DC:50:3501:3517
+ZDC SH- 72 Shenandoah:Washington Center:134.620:W72:C:DC:CTR:DC:72:3501:3517
+;
+; **********************************
+; ZDC - Other Center Sectors
+; **********************************
+ZDC Lo- 01 Elkins:Washington Center:128.600:W01:C:DC:CTR:DC:01:7040:7077
+ZDC Lo- 02 Casanova:Washington Center:133.200:W02:C:DC:CTR:DC:02:7040:7077
+ZDC Lo- 05 Linden:Washington Center:133.550:W05:C:DC:CTR:DC:05:7040:7077
+ZDC Lo- 06 Hagerstown:Washington Center:134.150:W06:C:DC:CTR:DC:06:7040:7077
+ZDC Lo- 11 Calvert:Washington Center:133.900:W11:C:DC:CTR:DC:11:7040:7077
+ZDC Lo- 15 Blue Ridge:Washington Center:133.650:W15:C:DC:CTR:DC:15:7040:7077
+ZDC Lo- 17 Swann:Washington Center:134.500:W17:C:DC:CTR:DC:17:7040:7077
+ZDC Lo- 20 Blackstone:Washington Center:127.750:W20:C:DC:CTR:DC:20:7040:7077
+ZDC Lo- 21 Dominion:Washington Center:118.750:W21:C:DC:CTR:DC:21:7040:7077
+ZDC Lo- 22 South Boston:Washington Center:124.050:W22:C:DC:CTR:DC:22:7040:7077
+ZDC Lo- 23 Cape Charles:Washington Center:132.550:W23:C:DC:CTR:DC:23:7040:7077
+ZDC Lo- 24 Cofield:Washington Center:123.850:W24:C:DC:CTR:DC:24:7040:7077
+ZDC Lo- 25 New Bern:Washington Center:135.500:W25:C:DC:CTR:DC:25:7040:7077
+ZDC Lo- 26 Sampson:Washington Center:135.300:W26:C:DC:CTR:DC:26:7040:7077
+ZDC Lo- 27 Liberty:Washington Center:135.200:W27:C:DC:CTR:DC:27:7040:7077
+ZDC Lo- 28 Rocky Mount:Washington Center:118.470:W28:C:DC:CTR:DC:28:7040:7077
+ZDC Lo- 29 Hot Springs:Washington Center:134.400:W29:C:DC:CTR:DC:29:7040:7077
+ZDC Lo- 30 Valley:Washington Center:127.920:W30:C:DC:CTR:DC:30:7040:7077
+ZDC Lo- 31 Azalea:Washington Center:135.400:W31:C:DC:CTR:DC:31:7040:7077
+ZDC Lo- 33 Franklin:Washington Center:132.020:W33:C:DC:CTR:DC:33:7040:7077
+ZDC Lo- 39 Snow Hill:Washington Center:121.370:W39:C:DC:CTR:DC:39:7040:7077
+ZDC Lo- 60 Montebello:Washington Center:121.670:W60:C:DC:CTR:DC:60:7040:7077
+
+;///////////////////////////////////////////////////////////////////////////////
+;ZHU ARTCC
+Houston Daisetta High Center:Houston Center:126.950:H38:H:HOU:CTR:HOU:H:4734:4777
+Houston Daisetta Low Center:Houston Center:128.050:H83:L:HOU:CTR:HOU:L:4734:4777
+;///////////////////////////////////////////////////////////////////////////////
+;///////////////////////////////////////////////////////////////////////////////
+
+
+;******************************************
+; JAX CENTER
+;******************************************
+;$En-Route
+; LOW 1X
+;$!Low En-Route Sectors
+JAX_10_CTR:Jacksonville Center:135.050:J10:C:JAX:CTR:JAX:CTR:1001:1077
+JAX_13_CTR:Jacksonville Center:134.450:J13:C:JAX:CTR:JAX:CTR:1001:1077
+JAX_15_CTR:Jacksonville Center:133.320:J15:C:JAX:CTR:JAX:CTR:1001:1077
+
+; HIGH 3X
+;$!High En-Route Sectors
+JAX_30_CTR:Jacksonville Center:124.770:J30:C:JAX:CTR:JAX:CTR:3201:3277
+JAX_33_CTR:Jacksonville Center:134.850:J33:C:JAX:CTR:JAX:CTR:3201:3277
+
+
+
+;///////////////////////////////////////////////////////////////////////////////
+;ZME ARTCC
+Memphis Center:Memphis Center:133.650:M05:C:MEM:CTR:ZME 05:NEL:1501:1577
+Memphis Center:Memphis Center:120.070:M04:C:MEM:CTR:ZME 04:NWL:1501:1577
+Memphis Center:Memphis Center:135.300:M15:C:MEM:CTR:ZME 15:SWL:1501:1577
+Memphis Center:Memphis Center:120.800:M13:C:MEM:CTR:ZME 13:SEL:1501:1577
+Memphis Center:Memphis Center:118.870:M63:C:MEM:CTR:ZME 63:NEH:5601:5677
+Memphis Center:Memphis Center:132.550:M22:C:MEM:CTR:ZME 22:NWH:5601:5677
+Memphis Center:Memphis Center:124.820:M45:C:MEM:CTR:ZME 45:SWH:5601:5677
+Memphis Center:Memphis Center:134.770:M46:C:MEM:CTR:ZME 46:SEH:5601:5677
+
+;///////////////////////////////////////////////////////////////////////////////
+;A80 POSITIONS 
+
+TAR-D:Atlanta Approach:128.000:A1D:D:ATL:APP:TAR-D:A80:0401:0477
+TAR-H:Atlanta Approach:127.900:A1H:H:ATL:APP:TAR-H:A80:0401:0477
+TAR-L:Atlanta Approach:128.520:A1L:L:ATL:APP:TAR-L:A80:0401:0477
+TAR-Y:Atlanta Approach:124.720:A1Y:Y:ATL:APP:TAR-Y:A80:0401:0477
+AR-V:Atlanta Approach:127.250:A1V:V:ATL:APP:AR-V:A80:0401:0477
+AR-A:Atlanta Approach:118.350:A1A:A:ATL:APP:AR-A:A80:0401:0477
+AR-O:Atlanta Approach:124.600:A1O:O:ATL:APP:AR-O:A80:0401:0477
+PRM-V:Atlanta Approach:126.900:A1M:M:ATL:APP:PRM-V:A80:0401:0477
+PRM-A:Atlanta Approach:133.420:A1M:M:ATL:APP:PRM-A:A80:0401:0477
+PRM-O:Atlanta Approach:132.550:A1M:M:ATL:APP:PRM-O:A80:0401:0477
+DR-N:Atlanta Departure:125.700:A1N:N:ATL:DEP:DR-N:A80:0401:0477
+DR-S:Atlanta Departure:125.650:A1S:S:ATL:DEP:DR-S:A80:0401:0477
+DR-I:Atlanta Departure:135.370:A1I:I:ATL:DEP:DR-I:A80:0401:0477
+DR-N:Atlanta Departure:125.700:A1N:N:ATL:APP:DR-N:A80:0401:0477
+DR-S:Atlanta Departure:125.650:A1S:S:ATL:APP:DR-S:A80:0401:0477
+DR-I:Atlanta Departure:135.370:A1I:I:ATL:APP:DR-I:A80:0401:0477
+SAT-F:Atlanta Approach:121.000:A1F:F:ATL:APP:SAT-F:A80:0401:0477
+SAT-G:Atlanta Approach:128.570:A1G:G:ATL:APP:SAT-G:A80:0401:0477
+SAT-P:Atlanta Approach:126.970:A1P:P:ATL:APP:SAT-P:A80:0401:0477
+SAT-Q:Atlanta Approach:124.300:A1Q:Q:ATL:APP:SAT-Q:A80:0401:0477
+SAT-X:Atlanta Approach:119.800:A1X:X:ATL:APP:SAT-X:A80:0401:0477
+CSG-Z:Atlanta Approach:125.500:A1Z:Z:ATL:APP:SAT-Z:A80:0401:0477
+CSG-R:Atlanta Approach:126.550:A1R:R:ATL:APP:SAT-R:A80:0401:0477
+MCN-J:Atlanta Approach:119.600:A1J:J:ATL:APP:SAT-J:A80:0401:0477
+MCN-M:Atlanta Approach:124.200:A1M:M:ATL:APP:SAT-M:A80:0401:0477
+ATHENS-E:Atlanta Approach:132.470:A1E:E:ATL:APP:SAT-E:A80:0401:0477
+ATHENS-W:Atlanta Approach:119.870:A1W:W:ATL:APP:SAT-W:A80:0401:0477
+AUX1:Atlanta Approach:126.020:A1B:B:ATL:DEP:AUX-1:A80:0401:0477
+AUX2:Atlanta Approach:124.800:A1C:C:ATL:DEP:AUX-2:A80:0401:0477
+
+
+
+;ATL ATCT
+LC-1:Atlanta Tower:119.100:L1:T:ATL:TWR:LOCAL 1:ATL_TWR:7201:7277
+LC-2:Atlanta Tower:119.300:L2:T:ATL:TWR:LOCAL 2:ATL_TWR:7201:7277
+LC-3:Atlanta Tower:119.500:L3:T:ATL:TWR:LOCAL 3:ATL_TWR:7201:7277
+GC-N:Atlanta Ground:121.900:GN:GN:ATL:GND:GN:GND:7201:7277
+GC-C:Atlanta Ground:121.750:GC:GC:ATL:GND:GC:GND:7201:7277
+GC-S:Atlanta Ground:121.650:GS:GS:ATL:GND:GS:GND:7201:7277
+GC-M:Atlanta Ground:125.000:GM:GM:ATL:GND:GM:GND:7201:7277
+RAMP:Atlanta Ramp:131.450:GR:GR:ATL:GND:GR:GND:7201:7277
+CD-1:Atlanta Clearance Delivery:118.100:C1:C1:ATL:DEL:ATL:DEL:7101:7177
+CD-2:Atlanta Clearance Delivery:118.700:C2:C2:ATL:DEL:ATL:DEL:7101:7177
+ATL ATIS:Atlanta ATIS:125.550:ATL ATIS:ATL ATIS:KATL:ATIS:KATL:ATIS::
+
+;FTY ATCT
+FTY:County Tower:118.450:A1B:B:FTY:TWR:FTY:LC:3501:3577
+FTY:County Ground:121.700:BG:BG:FTY:GND:FTY:GC:3501:3577
+FTY ATIS:County Ground:120.170:FTY:FTY:KFTY:ATIS:FTY:ATIS:3501:3577
+
+;PDK ATCT
+PDK:Peachtree Tower:120.900:A1L:L:PDK:TWR:PDK:LC:3501:3577
+PDK:Peachtree Ground:121.600:DG:DG:PDK:GND:PDK:GC:3501:3577
+PDK:Peachtree Clearance Delivery:125.200:DC:DC:PDK:DEL:PDK:CD:3501:3577
+PDK ATIS:Peachtree ATIS:128.400:PDK:PDK:KPDK:ATIS:PDK:ATIS:3501:3577
+
+;RYY ATCT 
+RYY:Mc Collum Tower:125.900:A1U:U:RYY:TWR:RYY:LC:3501:3577
+RYY:Mc Collum Ground:119.000:UG:UG:RYY:GND:RYY:GC:3501:3577
+RYY:Mc Collum ATIS:128.120:RYY:RYY:KRYY:ATIS:RYY:ATIS:3501:3577
+
+;CSG ATCT
+CSG:Columbus Tower:120.100:A1K:K:CSG:TWR:CSG:LC:3501:3577
+CSG:Columbus Ground:121.900:KG:KG:CSG:GND:CSG:GC:3501:3577
+CSG ATIS:Columbus ATIS:127.750:CSG:CSG:KCSG:ATIS:CSG:ATIS:3501:3577
+
+;LZU ATCT 
+LZU:Gwinnett Tower:124.100:A1W:W:LZU:TWR:LZU:LC:3501:3577
+LZU:Gwinnett Ground:121.800:WG:6G:LZU:GND:LZU:GC:3501:3577
+LZU ATIS:Gwinnett ATIS:132.270:LZU:LZU:KLZU:ATIS:LZU:GC:3501:3577
+
+;MCN ATCT 
+MCN:Macon Tower:128.200:A17:7:MCN:TWR:MCN:LC:3501:3577
+MCN:Macon Ground:121.650:7G:7G:MCN:GND:MCN:GC:3501:3577
+MCN ATIS:Macon ATIS:120.770:MCN:MCN:KMCN:ATIS:MCN:ATIS:3501:3577
+
+;AHN ATCT  
+AHN:Athens Tower:126.300:A18:8:AHN:TWR:AHN:LC:3501:3577
+AHN:Athens Ground:121.800:8G:8G:AHN:GND:AHN:GC:3501:3577
+AHN ATIS:Athens ATIS:132.870:AHN:AHN:KAHN:ATIS:AHN:ATIS:3501:3577
+
+;MGE ATCT
+MGE:Dobins Tower:120.750:A1X:X:MGE:TWR:MGE:LC:3501:3577
+MGE:Dobins Ground:125.300:9G:9G:MGE:GND:MGE:GC:3501:3577
+MGE ATIS:Dobins ATIS:120.180:MGE:MGE:KMGE:ATIS:MGE:ATIS:3501:3577
+
+;LSF ATCT
+LSF:Lawson Tower:119.050:A1Z:Z:LSF:TWR:LSF:LC:3501:3577
+LSF:Lawson Ground:121.700:ZG:ZG:LSF:GND:LSF:GC:3501:3577
+LSF ATIS:Lawson ATIS:134.370:LSF:LSF:KLSF:ATIS:LSF:ATIS:3501:3577
+
+;WRB ATCT
+WRB:Robbins Tower:133.220:A1Y:YY:WRB:TWR:WRB:TWR:3501:3577
+WRB:Robbins Ground:121.850:YG:YG:WRB:GND:WRB:GND:3501:3577
+WRB ATIS:Robbins ATIS:119.470:WRB:WRB:KWRB:ATIS:WRB:ATIS:3501:3577
+
+;/////////////////////////////////////////////////////////////////////////
+
+;Hickory Tower (HKY) 
+GC:Hickory Ground:121.700:HG:HG:HKY:GND:GC:HKY:2001:2077
+LC:Hickory Tower:128.150:T1H:H:HKY:TWR:LC:HKY:2001:2077
+;/////////////////////////////////////////////////////////////////////////
+
+
+
+;//////////////////////////////////////////////////////////////////////////////////////
+;CLT POSITIONS 
+
+LCE:Charlotte Tower:118.100:C1K:K:CLT:TWR:CLT:K:6301:6377
+LCC:Charlotte Tower:126.400:C1T:T:CLT:TWR:CLT:O:6301:6377
+LCW:Charlotte Tower:133.350:C1O:O:CLT:TWR:CLT:O:6301:6377
+GW:Charlotte Ground:121.800:GW:GW:CLT:GND:CLT:GW:6301:6377
+GE:Charlotte Ground:121.900:GE:GE:CLT:GND:CLT:GE:6301:6377
+CD:Charlotte Clearance Delivery:127.150:B:B:CLT:DEL:CLT:CD:6301:6377
+
+
+DR:Charlotte Departure:120.500:C1W:W:CLT:DEP:CLT:W:6301:6377
+DR:Charlotte Departure:120.500:C1W:W:CLT:APP:CLT:W:6301:6377
+DR:Charlotte Departure:124.000:C1E:E:CLT:DEP:CLT:E:6301:6377
+DR:Charlotte Departure:124.000:C1E:E:CLT:APP:CLT:E:6301:6377
+SAT:Charlotte Approach:134.750:C1N:N:CLT:APP:CLT:N:6301:6377
+SAT:Charlotte Approach:120.050:C1S:S:CLT:APP:CLT:S:6301:6377
+SAT:Charlotte Approach:128.325:C1Q:Q:CLT:APP:CLT:Q:6301:6377
+
+ARW:Charlotte Approach:125.350:C1U:U:CLT:APP:CLT:U:6301:6377
+ARE:Charlotte Approach:126.150:C1H:H:CLT:APP:CLT:H:6301:6377
+FE:Charlotte Approach:127.700:C1A:A:CLT:APP:CLT:A:6301:6377
+FC:Charlotte Approach:119.000:C1M:M:CLT:APP:CLT:M:6301:6377
+FW:Charlotte Approach:132.700:C1F:F:CLT:APP:CLT:F:6301:6377
+
+ATIS:CHARLOTTE ATIS:132.100:ATIS:ATIS:KCLT:ATIS:KCLT:ATIS
+
+;Concord (JQF) 
+GC:Concord Ground:121.850:JG:JG:JQF:GND:GC:JQF:6301:6377
+LC:Concord Tower:134.650:C1J:J:JQF:TWR:LC:JQF:6301:6377
+
+
+;Stanley County (VUJ)
+GC:Stanley County Ground:121.750:VG:VG:VUJ:GND:GC:VUJ:6301:6377
+LC:Stanley County Tower:126.270:C1V:V:VUJ:TWR:LC:VUJ:6301:6377
+;/////////////////////////////////////////////////////////////////////////
+;Asheville (AVL)
+APP:Asheville Approach:124.650:V1W:W:AVL:APP:AVL:APP:3101:3177
+APP:Asheville Approach:125.800:V1E:E:AVL:APP:AVL:APP:3101:3177
+LC:Asheville Tower:121.100:V1L:L:AVL:TWR:AVL:LC:3101:3177
+GC:Asheville Ground:121.900:G:G:AVL:GND:AVL:GND:3101:3177
+;/////////////////////////////////////////////////////////////////////////
+;Greensboro (GSO)
+APP:Greensboro Approach:118.500:G1S:S:GSO:APP:SR:GSO:3501:3577
+APP:Greensboro Approach:124.350:G1N:N:GSO:APP:SR:GSO:3501:3577
+LC:Greensboro Tower:119.100:G1L:L:GSO:TWR:LC:GSO:3501:3577
+GC:Greensboro Ground:121.900:GG:GC:GSO:GND:GC:GSO:3501:3577
+CD:Greensboro Delivery:121.750:GD:CD:GSO:DEL:CD:GSO:3501:3577
+ATIS:Greensboro ATIS:128.550:GA:GA:KGSO:ATIS:KGSO:ATIS::
+
+;Winston-Salem (INT)
+GC:Winston Ground:128.250:IG:IG:INT:GND:GC:INT:3501:3577
+LC:Winston Tower:123.750:I:I:INT:TWR:LC:INT:3501:3577
+ATIS:Winston ATIS:121.300:IA:IA:KINT:ATIS:KINT:ATIS::
+
+;/////////////////////////////////////////////////////////////////////////
+;Knoxville (TYS)
+APP:Knoxville Approach:123.900:N1N:N:TYS:APP:TYS:APP:7201:7277
+APP:Knoxville Approach:118.000:N1S:S:TYS:APP:TYS:APP:7201:7277
+APP:Knoxville Approach:132.800:N1E:E:TYS:APP:TYS:APP:7201:7277
+APP:Knoxville Approach:125.520:N1W:W:TYS:APP:TYS:APP:7201:7277
+APP:Knoxville Approach:121.700:N1C:C:TYS:APP:TYS:APP:7201:7277
+TWR:Knoxville Tower:121.200:N1L:L:TYS:TWR:TYS:TWR:7201:7277
+GND:Knoxville Ground:121.900:NG:NG:TYS:GND:TYS:GND:7201:7277
+DEL:Knoxville Delivery:120.950:ND:ND:TYS:DEL:TYS:DEL:7201:7277
+;/////////////////////////////////////////////////////////////////////////
+;Montgomrgy (MGM)
+APP:Montgomrgy Approach:124.000:D1W:W:MGM:APP:SOUTH:MGMS:0201:0277
+APP:Montgomrgy Approach:121.200:D1N:N:MGM:APP:SOUTH:MGMS:0201:0277
+APP:Montgomrgy Approach:118.850:D1S:S:MGM:APP:SOUTH:MGMS:0201:0277
+APP:Montgomrgy Approach:132.450:D1E:E:MGM:APP:SOUTH:MGMS:0201:0277
+
+TWR:Montgomrgy Tower:119.700:D1L:L:MGM:TWR:MGM:TWR:0201:0277
+GND:Montgomrgy Ground:121.700:MG:MG:MGM:GND:MGM:GND:0201:0277
+DEL:Montgomrgy Clearance Delivery:118.300:MD:MD:MGM:DEL:MGM:CD:0201:0277
+ATIS:Montgomery ATIS:120.670:MA:MA:KMGM:ATIS:KMGM:ATIS::
+
+;Maxwell (MXF)
+TWR:Maxwell Tower:118.150:D1X:X:MXF:TWR:MXF:TWR:0201:0277
+GND:Maxwell Ground:127.150:XG:XG:MXF:GND:MXF:GND:0201:0277
+ATIS:Maxwell ATIS:134.700:XA:XA:KMXF:ATIS:KMXF:ATIS::
+
+;/////////////////////////////////////////////////////////////////////////
+;Tri City (TRI)
+APP:Tri City Approach:125.500:R1E:E:TRI:APP:TRI:APP:7101:7177
+APP:Tri City Approach:119.250:R1W:W:TRI:APP:TRI:APP:7101:7177
+APP:Tri City Approach:134.250:R1S:S:TRI:APP:TRI:APP:7101:7177
+TWR:Tri City Tower:119.500:R1L:L:TRI:TWR:TWR:TWR:7101:7177
+GND:Tri City Ground:121.700:RG:RG:TRI:GND:TRI:GND:7101:7177
+
+;/////////////////////////////////////////////////////////////////////////
+; Birmingham (BHM)
+APP:Birmingham Approach:123.800:B1E:E:BHM:APP:BHM:BHM:0300:0377
+APP:Birmingham Approach:127.650:B1W:W:BHM:APP:BHM:BHM:0300:0377
+APP:Birmingham Approach:120.050:B1N:N:BHM:APP:BHM:BHM:0300:0377
+APP:Birmingham Approach:120.150:B1S:S:BHM:APP:BHM:BHM:0300:0377
+TWR:Birmingham Tower:119.900:B1L:L:BHM:TWR:BHM:LC1:BHM:0300:0377
+GND:Birmingham Ground:121.700:BG:BG:GND:BHM:GC:BHM:0300:0377
+DEL:Birmingham Delivery:125.670:BD:BD:DEL:BHM CD:BHM:0300:0377
+
+;Tuscaloosa (TCL)
+TWR:Tuscaloosa Tower:126.300:B1T:T:TCL:TWR:TCL:LC:0300:0377
+GND:Tuscaloosa Ground:121.800:TG:TG:TCL:GND:TCL:GC:0300:0377
+;/////////////////////////////////////////////////////////////////////////
+; Greer (GSP)
+RW:Greer Appraoch:118.800:S1W:W:GSP:APP:APP:GSP:4101:4177
+RE:Greer Appraoch:119.400:S1E:E:GSP:APP:APP:GSP:4101:4177
+RS:Greer Appraoch:120.600:S1S:S:GSP:APP:APP:GSP:4101:4177
+LC:Greer Tower:120.100:S1L:L:GSP:TWR:LC:GSP:4101:4177
+GC:Greer Ground:121.900:SG:SG:GSP:GND:GSP:GND:4101:4177
+ATIS:Greer Atis:134.25:GA:GA:KGSP:ATIS:KGSP:ATIS::
+
+
+;Greenville (GMU)
+LC:Greenville Tower:119.900:S1U:U:GSP:TWR:LC:GSP:4101:4177
+GC:Greenville Ground:121.250:UG:UG:GSP:GND:GSP:GND:4101:4177
+ASOS:GMU ASOS:127.075:UA:UA:KGMU:ATIS:KGMU:ATIS::
+
+;Donaldson (GYH) 
+LC:Donaldson Tower:132.320:S1Y:Y:GSP:TWR:LC:GSP:4101:4177
+GC:Donaldson Ground:121.400:YG:YG:GSP:GND:GSP:GND:4101:4177
+
+
+;/////////////////////////////////////////////////////////////////////////
+; Chattanooga (CHA)
+RE:Chattanooga Apporach:125.100:L1E:E:CHA:APP:APP:CHA:0301:0377
+RW:Chattanooga Apporach:119.200:L1W:W:CHA:APP:APP:CHA:0301:0377
+LC:Chattanooga Tower:118.300:L1L:L:CHA:TWR:CHA:TWR0301:0377
+GND:Ground:121.700:LG:LG:CHA:GND:GND:CHA:0300:0377
+DEL:Delivery:DEL:120.950:LD:LD:CHA:DEL:CHA:DEL:0300:0377
+;/////////////////////////////////////////////////////////////////////////
+; Agusta (AGS)
+APP:Agusta Approach:119.150:Z1E:E:AGS:APP:AGS:APP:4701:4777
+APP:Agusta Approach:126.800:Z1W:W:AGS:APP:AGS:APP:4701:4777
+TWR:Agusta Tower:118.700:Z1L:L:AGS:TWR:AGS:TWR:AGS:TWR4701:4777
+GND:Agusta Ground:121.900:G:G:AGS:GND:AGS:GND:4701:4777
+ATIS:AGS ATIS:132.750:A:A:KAGS:ATIS:KAGS:ATIS::
+
+;/////////////////////////////////////////////////////////////////////////
+;Florence
+FLO:Florence Approach:118.600:6:6:FLO:APP:
+;/////////////////////////////////////////////////////////////////////////
+Roanoke- East Approach:Roanoke Approach:126.900:ROA:E:ROA:APP:ROA:EAST:6540:6557
+Roanoke- West Approach:Roanoke Approach:118.150:ROA2:W:ROA:APP:ROA:WEST:6540:6557
+Roanoke- Alternate Radar:Roanoke Approach:135.000:ROA3:J:ROA:APP:ROA:ALT:6540:6557
+;/////////////////////////////////////////////////////////////////////////
+;FAY
+Fayetteville- North Approach:Fayetteville Approach:125.150:FAY:K:FAY:APP:FAY:NORTH:1360:1377
+Fayetteville- East Approach:Fayetteville Approach:133.000:FAY2:H:FAY:APP:FAY:EAST:1360:1377
+Fayetteville- West Approach:Fayetteville Approach:127.800:FAY3:I:FAY:APP:FAY:WEST:1360:1377
+Fayetteville- Departure:Fayetteville Departure:125.170:FAY4:D:FAY:DEP:FAY:DEP:1360:1377
+;/////////////////////////////////////////////////////////////////////////
+;
+CAEN:CAEN:133.400:AAA:AAA:CAE:APP:
+;/////////////////////////////////////////////////////////////////////////
+;SSC
+SSC:SSC:125.400:XXX:XXX:SSC:APP:
+;/////////////////////////////////////////////////////////////////////////
+Raleigh- East Approach:Raleigh Approach:124.950:RDU:E:RDU:APP:RDU:EAST:6520:6577
+Raleigh- West Approach:Raleigh Approach:128.300:RDU2:W:RDU:APP:RDU:WEST:6520:6577
+Raleigh- North Departure:Raleigh Departure:132.350:RDU3:N:RDU:DEP:RDU:NORTH:6520:6577
+Raleigh- South Departure:Raleigh Departure:125.300:RDU4:S:RDU:DEP:RDU:SOUTH:6520:6577
+;/////////////////////////////////////////////////////////////////////////
+CBM1:CBM APP:126.070:CCC:CCC:CBM:APP:
+CBM2:CBM APP:132.020:CC2:CCC:CBM:APP:
+CBM3:CBM APP:135.600:CC3:CCC:CBM:APP:
+;/////////////////////////////////////////////////////////////////////////
+MEI1:MEI APP:119.200:NNN:NNN:MEI:APP:
+;/////////////////////////////////////////////////////////////////////////
+;Huntsville
+RE:Huntsville Approach:125.600:HHH:H:HSV:APP:APP:HSV:0301:0377
+RW:Huntsville Approach:118.050:HH2:H:HSV:APP:APP:HSV:0301:0377
