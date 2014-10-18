@@ -14,6 +14,7 @@ vZTL Alias File v1.2
 ---CLEARANCES---
 .clrd  Cleared to $arr, via $route. Maintain $temp, expect $cruise one zero minutes after departure. Departure radar services not online, squawk $squawk.
 .clr Cleared to $arr, via $route. Maintain $temp, expect $cruise one zero minutes after departure. Departure frequency $freq($1), squawk $squawk.
+.sid Cleared to $arr, via $route. Climb via the SID. Departure frequency $freq($1), squawk $squawk.
 .rte Cleared to $arr, via $route. Rest of clearance remains unchanged.
 .clr2 Cleared to $arr, via $route. Maintain $cruise squawk $squawk.
 
