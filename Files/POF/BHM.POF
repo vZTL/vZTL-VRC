@@ -1,8 +1,8 @@
-vZTL ARTCC BHM Position File Version 1  3/25/2013
+vZTL ARTCC BHM Position File Version 2 12/28/14
 
 
 ;//////////////////////////////////////////////////////////////////////////////////////
-;Updated by William Lewis
+;Updated by Hayden Young
 ;//////////////////////////////////////////////////////////////////////////////////////
  
 ;ZTL POSITION ID FILE HISTORY
@@ -123,6 +123,11 @@ DEL:Delivery:125.670:BD:BD:DEL:BHM CD:BHM:0300:0377
 ;Tuscaloosa (TCL) Closed as of 4/17/2013
 TWR:TCL:126.300:T:T:TCL:TWR:TCL:LC:0300:0377
 GND:TCL:121.800:TG:TG:TCL:GND:TCL:GC:0300:0377
+
+;Talladaga (ASN) Temp only for raceday
+TWR:ASN:119.070:A:A:ASN:TWR:ASN:LC:0300:0377
+GND:ASN:121.750:AG:AG:ASN:GND:ASN:GC:0300:0377
+DEL:ASN:125.270:AD:AD:ASN:DEL:ASN:CD:0300:0377
 
 ;MGM ATCT
 APP:Montgomery Approach:124.000:3W:M:MGM:APP:MGM:APP:0201:0277
