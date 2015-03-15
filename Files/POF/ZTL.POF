@@ -427,6 +427,7 @@ WRB ATIS:Robbins ATIS:119.470:WRB:WRB:KWRB:ATIS:WRB:ATIS:3501:3577
 ;Hickory Tower (HKY) 
 GC:Hickory Ground:121.700:HG:HG:HKY:GND:GC:HKY:2001:2077
 LC:Hickory Tower:128.150:T1H:H:HKY:TWR:LC:HKY:2001:2077
+AWOS:Hickory AWOS:118.320:HW:H:KHKY:ATIS:KHKY:ATIS:2001:2077
 ;/////////////////////////////////////////////////////////////////////////
 
 
@@ -535,6 +536,13 @@ ATIS:BHM ATIS:119.400:BA:BA:KBHM:ATIS:KBHM:ATIS::
 ;Tuscaloosa (TCL)
 TWR:Tuscaloosa Tower:126.300:B1T:T:TCL:TWR:TCL:LC:0300:0377
 GND:Tuscaloosa Ground:121.800:TG:TG:TCL:GND:TCL:GC:0300:0377
+
+
+;Talladaga (ASN) Temp only for raceday
+TWR:ASN:119.070:A:A:ASN:TWR:ASN:LC:0300:0377
+GND:ASN:121.750:AG:AG:ASN:GND:ASN:GC:0300:0377
+DEL:ASN:125.270:AD:AD:ASN:DEL:ASN:CD:0300:0377
+AWOS:ASN:118.420:WX:WX:KASN:ATIS:KASN:ATIS:0:0
 ;/////////////////////////////////////////////////////////////////////////
 ; Greer (GSP)
 RW:Greer Appraoch:118.800:S1W:W:GSP:APP:APP:GSP:4101:4177
