@@ -123,5 +123,36 @@ For Questions or Support please utilize the Facility Documentation and Software 
 <a href=http://www.vztlartcc.net/index.php/contactus/support>Or submit a support ticket Here</a>
 
 
+=======================================================================================================
+<h3>vZTL VRC version 1.4  AIRAC 1503</h3>
+
+http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/692-vztl-vrc-v1-4#2045
+
+Attention vZTL Controllers,
+
+vZTL VRC Version 1.3 has been released.<br>
+
+<b><u>Updates:</b></u><br>
+<b>v1.4 - 03/15/2014<b><br>
+AIRAC 1402 to 1503<br>
+Added New Q Routes<br>
+Added ASN ATCT<br>
+Adjusted HKY POF<br>
+Updated ATL ASDE-X<br>
+Adjusted CLT ASDE-X<br>
+Fixed ATIS Maker Errors<br>
+Corrected ZTL Sectors E vs W Boundaries<br>
+Added .sid to Alias File<br>
+Corrected POF files<br>
+
+Please download and install the new version of vZTL VRC by [url=https://dl.dropboxusercontent.com/u/19546261/vZTL%20VRC.exe]Clicking Here[/url]. 
+
+For Questions or Support please utilize the Facility Documentation and Software Forum - [url=http://www.vztlartcc.net/index.php/forum/facility-documentation-and-software/]Click Here[/url]
+
+[url=http://www.vztlartcc.net/index.php/contactus/support]Or submit a support ticket Here[/url]
+
+
+=======================================================================================================
+
 
 vZTL VRC
