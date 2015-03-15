@@ -133,7 +133,7 @@ Attention vZTL Controllers,
 vZTL VRC Version 1.3 has been released.<br>
 
 <b><u>Updates:</b></u><br>
-<b>v1.4 - 03/15/2014<b><br>
+<b>v1.4 - 03/15/2014</b><br>
 AIRAC 1402 to 1503<br>
 Added New Q Routes<br>
 Added ASN ATCT<br>
