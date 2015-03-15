@@ -2,16 +2,16 @@
 VRC Sector file parse results:
 =====================================================================
 
-File path: C:\Users\Computer\Dropbox\vZTL\Sectorfile\Project Draw ATL\KATL.sct2
+File path: Files\SCT\CLTASDEX.sct2
 
 Pass 1 time:        less than 1 second
 Pass 2 time:        less than 1 second
 
-Lines in file:      2468
-Comments:           113
-Blank lines:        5
-Parsed lines:       2350
-Erroneous lines:    2
+Lines in file:      7211
+Comments:           96
+Blank lines:        7
+Parsed lines:       7108
+Erroneous lines:    1
 
 VORs:               0
 NDBs:               0
@@ -25,20 +25,16 @@ SIDs:               0
 STARs:              0
 Low Airways:        0
 High Airways:       0
-Geo Segments:       616
-Regions:            98
-Labels:             0
+Geo Segments:       0
+Regions:            93
+Labels:             111
 
 =====================================================================
 Error details:
 =====================================================================
 
-Line 39: Orphaned line:
-#define 1000
-
-
-Line 40: Orphaned line:
-#define  14737632
+Line 1: Orphaned line:
+vZTL Charlotte Sector File
 
 =====================================================================
 End
