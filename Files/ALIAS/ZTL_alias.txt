@@ -9,6 +9,7 @@ vZTL Alias File v1.2
 .events vZTL brings you a whole new way to follow events and announcements with vZTL. Like us on facebook at www.facebook.com/vZTLARTCC, Follow us on Twitter at www.twitter.com/vZTLARTCC, and dont forget to check our events page at www.events.vztlartcc.net!
 .adf Not within vZTL service area, please double check your airport facility directory for the appropriate controlling facility, freq change approved good day.
 .asdex ASDE-X inuse all pilots should operate transponder with Mode-C on all taxiways and runways squawking your assigned beacon code as stated on your airport diagram.
+.at .autotrack KWRB KVUJ KTYS KTRI KTCL KRYY KPDK KMXF KMGM KMGE KMCN KLZU KLSF KJQF KINT KHKY KGYH KGSP KGSO KGMU KFTY KCSG KCLT KCHA KBHM KATL KASN KAHN KAGS
 
 
 ---CLEARANCES---
