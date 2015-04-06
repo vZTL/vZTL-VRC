@@ -119,8 +119,8 @@ vZTL Alias File v1.2
 .jimal wind $wind($dep), RNAV to JIMAL, runway 36L, cleared for takeoff.
 .ebawi wind $wind($dep), RNAV to EBAWI, runway 36C, cleared for takeoff.
 .kayfo wind $wind($dep), RNAV to KAYFO, runway 36R, cleared for takeoff.
-.uncot wind $wind($dep), RNAV to KAYFO, runway 23, cleared for takeoff.
-.veazy wind $wind($dep), RNAV to KAYFO, runway 5, cleared for takeoff.
+.uncot wind $wind($dep), RNAV to UNCOT, runway 23, cleared for takeoff.
+.veazy wind $wind($dep), RNAV to VEAZY, runway 5, cleared for takeoff.
 .ctl wind $wind($arr), runway $1, cleared to land.
 .ctl26R wind $wind(katl), runway 26R, cleared to land.
 .ctl27L wind $wind(katl), runway 27L, cleared to land.
