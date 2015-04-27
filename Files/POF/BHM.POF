@@ -43,6 +43,11 @@ DATM		      :Atlanta DATM:199.998:00:-:ZTL:DATM:ZTL:DATM
 ;//////////////////////////////////////////////////////////////////////////////////////
 ;ZTL ARTCC
 
+;Operations Desk
+ZTL TMU:Atlanta TMU:199.998:00:C:ZTL:TMU:ZTL:TMU
+ZTL Flight Data:Atlanta Flight Watch:135.470:WX:C:ATL:CTR:ATL:CTR
+ZTL Clearance Delivery:Atlanta Center:124.250:CD:C:ATL:CTR:ATL:CTR
+
 ;Area 1
 ZTL Salem 42 High:Atlanta Center:120.720:C42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
 ZTL Pulaski 43 High:Atlanta Center:132.970:C43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
