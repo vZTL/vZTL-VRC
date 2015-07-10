@@ -183,6 +183,44 @@ ZDC Lo- 39 Snow Hill:Washington Center:121.370:W39:C:DC:CTR:DC:39:7040:7077
 ZDC Lo- 60 Montebello:Washington Center:121.670:W60:C:DC:CTR:DC:60:7040:7077
 
 
+; ******************
+; Roanoke TRACON (8)
+; ******************
+Roanoke- East Approach:Roanoke Approach:126.900:8E:E:ROA:APP:ROA:EAST:6540:6557
+Roanoke- West Approach:Roanoke Approach:118.150:8W:W:ROA:APP:ROA:WEST:6540:6557
+Roanoke- Alternate Radar:Roanoke Approach:135.000:8J:J:ROA:APP:ROA:ALT:6540:6557
+Roanoke- Tower:Roanoke Tower:118.300:8T:T:ROA:TWR:ROA:TWR:6540:6557
+Roanoke- Ground:Roanoke Ground:121.900:8G:-:ROA:GND:ROA:GND:6540:6557
+Roanoke- Clearance:Roanoke Clearance:119.700:8C:-:ROA:DEL:ROA:DEL:6540:6557
+Lynchburg- Tower:Lynchburg Tower:127.650:8L:T:LYH:TWR:LYH:TWR:5520:5537
+Lynchburg- Ground:Lynchburg Ground:121.900:8Y:-:LYH:GND:LYH:GND:5520:5537
+
+; ***********************
+; Fayetteville TRACON (0)
+; ***********************
+Fayetteville- North Approach:Fayetteville Approach:125.150:0K:K:FAY:APP:FAY:NORTH:1360:1377
+Fayetteville- East Approach:Fayetteville Approach:133.000:0H:H:FAY:APP:FAY:EAST:1360:1377
+Fayetteville- West Approach:Fayetteville Approach:127.800:0I:I:FAY:APP:FAY:WEST:1360:1377
+Fayetteville- Departure:Fayetteville Departure:125.170:0D:D:FAY:DEP:FAY:DEP:1360:1377
+Fayetteville- Tower:Fayetteville Tower:118.300:0T:T:FAY:TWR:FAY:TWR:1360:1377
+Fayetteville- Ground:Fayetteville Ground:121.700:0G:-:FAY:GND:FAY:GND:1360:1377
+
+; **************************
+; Raleigh-Durham TRACON (5)
+; **************************
+Raleigh- East Arrival Radar:Raleigh Approach:124.950:5E:E:RDU:APP:RDU_E:APP:6520:6577
+Raleigh- West Arrival Radar:Raleigh Approach:128.300:5W:W:RDU:APP:RDU_W:APP:6520:6577
+Raleigh- North Departure Radar:Raleigh Departure:132.350:5N:N:RDU:DEP:RDU_N:DEP:6520:6577
+Raleigh- South Departure Radar:Raleigh Departure:118.200:5S:S:RDU:DEP:RDU_S:DEP:6520:6577
+Raleigh- East Final Radar:Raleigh Approach:124.800:5U:U:RDU:APP:RDU_U:APP:6520:6577
+Raleigh- West Final Radar:Raleigh Approach:135.150:5Y:Y:RDU:APP:RDU_Y:APP:6520:6577
+Raleigh- Local Control East:Raleigh Tower:127.450:5T:T:RDU:TWR:RDU_E:TWR:6501:6577
+Raleigh- Local Control West:Raleigh Tower:119.300:5Z:T:RDU:TWR:RDU_W:TWR:6501:6577
+Raleigh- Ground Control East:Raleigh Ground:121.900:5G:-:RDU:GND:RDU_E:GND:6501:6577
+Raleigh- Ground Control West:Raleigh Ground:121.700:5R:-:RDU:GND:RDU_W:GND:6501:6577
+Raleigh- Clearance:Raleigh Clearance:120.100:5D:-:RDU:DEL:RDU:DEL:6501:6577
+
+
 APP:Approach:118.500:S:S:GSO:APP:SR:GSO:3501:3577
 APP:Approach:124.350:N:N:GSO:APP:SR:GSO:3501:3577
 LC:Tower:119.100:L:L:GSO:TWR:LC:GSO:3501:3577
