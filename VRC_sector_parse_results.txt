@@ -2,16 +2,16 @@
 VRC Sector file parse results:
 =====================================================================
 
-File path: Files\SCT\A80.sct2
+File path: Files\SCT\CLT.sct2
 
 Pass 1 time:        less than 1 second
-Pass 2 time:        3 seconds
+Pass 2 time:        1 second
 
-Lines in file:      270622
-Comments:           66
-Blank lines:        15776
-Parsed lines:       254780
-Erroneous lines:    4
+Lines in file:      165678
+Comments:           108
+Blank lines:        473
+Parsed lines:       165097
+Erroneous lines:    6
 
 VORs:               1167
 NDBs:               398
@@ -21,32 +21,40 @@ Runways:            0
 ARTCC Borders:      0
 ARTCC High Borders: 0
 ARTCC Low Borders:  0
-SIDs:               28
-STARs:              20
+SIDs:               40
+STARs:              26
 Low Airways:        272
 High Airways:       144
-Geo Segments:       16628
-Regions:            330
-Labels:             148
+Geo Segments:       7314
+Regions:            93
+Labels:             111
 
 =====================================================================
 Error details:
 =====================================================================
 
-Line 32233: Unknown fix specified in segment: SAFFO:
+Line 1: Orphaned line:
+vZTL Charlotte Sector File
+
+
+Line 32224: Unknown fix specified in segment: SAFFO:
 V56                       JAILS          JAILS          SAFFO          SAFFO          
 
 
-Line 32233: Unknown fix specified in segment: SAFFO:
+Line 32224: Unknown fix specified in segment: SAFFO:
 V56                       JAILS          JAILS          SAFFO          SAFFO          
 
 
-Line 32234: Unknown fix specified in segment: SAFFO:
+Line 32225: Unknown fix specified in segment: SAFFO:
 V56                       SAFFO          SAFFO          BENTO          BENTO          
 
 
-Line 32234: Unknown fix specified in segment: SAFFO:
+Line 32225: Unknown fix specified in segment: SAFFO:
 V56                       SAFFO          SAFFO          BENTO          BENTO          
+
+
+Line 108853: Unknown fix specified in segment: s:
+Approach Crourses South Ops                            N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000
 
 =====================================================================
 End

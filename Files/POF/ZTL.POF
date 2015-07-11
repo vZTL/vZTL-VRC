@@ -497,6 +497,7 @@ APP:Knoxville Approach:121.700:N1C:C:TYS:APP:TYS:APP:7201:7277
 TWR:Knoxville Tower:121.200:N1L:L:TYS:TWR:TYS:TWR:7201:7277
 GND:Knoxville Ground:121.900:NG:NG:TYS:GND:TYS:GND:7201:7277
 DEL:Knoxville Delivery:120.950:ND:ND:TYS:DEL:TYS:DEL:7201:7277
+ATIS:Knoxville ATIS:128.350:NA:NA:KTYS:ATIS:KTYS:ATIS::
 ;/////////////////////////////////////////////////////////////////////////
 ;Montgomrgy (MGM)
 APP:Montgomrgy Approach:124.000:D1W:W:MGM:APP:SOUTH:MGMS:0201:0277
