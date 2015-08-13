@@ -10,7 +10,13 @@ vZTL Alias File v1.2
 .adf Not within vZTL service area, please double check your airport facility directory for the appropriate controlling facility, freq change approved good day.
 .asdex ASDE-X inuse all pilots should operate transponder with Mode-C on all taxiways and runways squawking your assigned beacon code as stated on your airport diagram.
 .at .autotrack KWRB KVUJ KTYS KTRI KTCL KRYY KPDK KMXF KMGM KMGE KMCN KLZU KLSF KJQF KINT KHKY KGYH KGSP KGSO KGMU KFTY KCSG KCLT KCHA KBHM KATL KASN KAHN KAGS
-
+.nat .autotrack -KWRB -KVUJ -KTYS -KTRI -KTCL -KRYY -KPDK -KMXF -KMGM -KMGE -KMCN -KLZU -KLSF -KJQF -KINT -KHKY -KGYH -KGSP -KGSO -KGMU -KFTY -KCSG -KCLT -KCHA -KBHM -KATL -KASN -KAHN -KAGS
+.ata80 .autotrack KWRB KRYY KPDK KMGE KMCN KLZU KLSF KFTY KCSG KATL KAHN 
+.nata80 .autotrack -KWRB -KRYY -KPDK -KMGE -KMCN -KLZU -KLSF -KFTY -KCSG -KATL -KAHN 
+.atclt .autotrack KCLT KJQF KVUJ
+.natclt .autotrack -KCLT -KJQF -KVUJ
+.atouters .autotrack KWRB KMCN KLSF KCSG  KAHN 
+.natouters .autotrack -KWRB -KMCN -KLSF -KCSG -KAHN 
 
 ---CLEARANCES---
 .clrd  Cleared to $arr, via $route. Maintain $temp, expect $cruise one zero minutes after departure. Departure radar services not online, squawk $squawk.
