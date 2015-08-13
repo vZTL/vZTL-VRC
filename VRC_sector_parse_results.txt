@@ -2,59 +2,779 @@
 VRC Sector file parse results:
 =====================================================================
 
-File path: Files\SCT\CLT.sct2
+File path: Files\SCT\ZTL.sct2
 
 Pass 1 time:        less than 1 second
 Pass 2 time:        1 second
 
-Lines in file:      165678
-Comments:           108
-Blank lines:        473
-Parsed lines:       165097
-Erroneous lines:    6
+Lines in file:      172799
+Comments:           278
+Blank lines:        1122
+Parsed lines:       171399
+Erroneous lines:    186
 
 VORs:               1167
 NDBs:               398
 Fixes:              22738
 Airports:           6446
 Runways:            0
-ARTCC Borders:      0
+ARTCC Borders:      1
 ARTCC High Borders: 0
-ARTCC Low Borders:  0
-SIDs:               40
-STARs:              26
+ARTCC Low Borders:  21
+SIDs:               129
+STARs:              164
 Low Airways:        272
 High Airways:       144
-Geo Segments:       7314
-Regions:            93
-Labels:             111
+Geo Segments:       35194
+Regions:            0
+Labels:             0
 
 =====================================================================
 Error details:
 =====================================================================
 
-Line 1: Orphaned line:
-vZTL Charlotte Sector File
+Line 49: Orphaned line:
+#define 1000
 
 
-Line 32224: Unknown fix specified in segment: SAFFO:
+Line 50: Orphaned line:
+#define  14737632
+
+
+Line 32259: Unknown fix specified in segment: SAFFO:
 V56                       JAILS          JAILS          SAFFO          SAFFO          
 
 
-Line 32224: Unknown fix specified in segment: SAFFO:
+Line 32259: Unknown fix specified in segment: SAFFO:
 V56                       JAILS          JAILS          SAFFO          SAFFO          
 
 
-Line 32225: Unknown fix specified in segment: SAFFO:
+Line 32260: Unknown fix specified in segment: SAFFO:
 V56                       SAFFO          SAFFO          BENTO          BENTO          
 
 
-Line 32225: Unknown fix specified in segment: SAFFO:
+Line 32260: Unknown fix specified in segment: SAFFO:
 V56                       SAFFO          SAFFO          BENTO          BENTO          
 
 
-Line 108853: Unknown fix specified in segment: s:
-Approach Crourses South Ops                            N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000
+Line 56064: Unrecognized formatting in SID section:
+	        N035.23.15.00    W081.41.24.00 ; PITTY DEPARTURE GATE
+
+
+Line 56067: Unrecognized formatting in SID section:
+	       N035.37.15.00    W081.27.30.00 ; SHINE ARRIVAL GATE
+
+
+Line 56069: Unrecognized formatting in SID section:
+	       N035.43.10.00    W081.04.30.00 ;STANN DEPT GATE
+
+
+Line 56071: Unrecognized formatting in SID section:
+	       N035.46.00.00    W080.49.00.00 ; JOTTA DEPT GATE
+
+
+Line 56073: Unrecognized formatting in SID section:
+	       N035.41.00.00    W080.26.45.00 ;MAJIC GATE
+
+
+Line 56075: Unrecognized formatting in SID section:
+	       N035.22.10.00    W080.04.40.00 ; LOC N DEPARTURE GATE
+
+
+Line 56077: Unrecognized formatting in SID section:
+	       N034.44.20.00    W080.29.30.00 ; MANNS ARRIVAL GATE
+
+
+Line 56079: Unrecognized formatting in SID section:
+	       N034.41.43.00    W080.38.29.00 ; CHOPEN ------START GATE-165 RADIAL------
+
+
+Line 56081: Unrecognized formatting in SID section:
+	       N034.33.56.00    W080.57.35.00 ;BUCKL GATE 180 RADIAL
+
+
+Line 56083: Unrecognized formatting in SID section:
+	       N034.31.50.00    W081.02.44.00 ; ANDYES GATE- 196 RADIAL
+
+
+Line 56359: Unrecognized formatting in SID section:
+	N033.18.02.00 W084.29.11.00;FFC LOC
+
+
+Line 56362: Unrecognized formatting in SID section:
+	N034.06.30.00 W083.39.06.00;LZU LOC
+
+
+Line 56367: Unrecognized formatting in SID section:
+	N033.37.26.00    W082.01.52.00 
+
+
+Line 56369: Unrecognized formatting in SID section:
+	N033.34.18.995 W082.01.04.994 
+
+
+Line 56373: Unrecognized formatting in SID section:
+	N033.34.19.00    W082.01.06.00 ;ILS RY 17 AGS---see lo artcc-----
+
+
+Line 56377: Unrecognized formatting in SID section:
+	N033.08.21.00    W081.55.51.00 
+
+
+Line 56379: Unrecognized formatting in SID section:
+	N033.05.57.00    W081.54.02.00 
+
+
+Line 56381: Unrecognized formatting in SID section:
+	N033.16.02.705 W081.57.40.746 
+
+
+Line 56384: Unrecognized formatting in SID section:
+	N033.10.15.00    W081.55.07.00 ; ILS RY 35 AGS -----SEE LO ARTCC------
+
+
+Line 56388: Unrecognized formatting in SID section:
+	N033.56.14.00    W083.07.21.00 
+
+
+Line 56390: Unrecognized formatting in SID section:
+	N033.57.16.00    W082.58.46.00 
+
+
+Line 56392: Unrecognized formatting in SID section:
+	N033.56.19.00    W083.03.40.00 
+
+
+Line 56394: Unrecognized formatting in SID section:
+	N033.56.57.00    W082.57.26.00 
+
+
+Line 56396: Unrecognized formatting in SID section:
+	N033.56.04.00    W083.12.00.00 
+
+
+Line 56398: Unrecognized formatting in SID section:
+	N033.57.11.00    W083.09.27.00  ; LOC RY 27 AHN
+
+
+Line 56402: Unrecognized formatting in SID section:
+	N034.23.11.00    W082.52.18.00 
+
+
+Line 56404: Unrecognized formatting in SID section:
+	N034.17.27.00    W082.57.39.00 
+
+
+Line 56406: Unrecognized formatting in SID section:
+	N034.20.33.00    W082.54.42.00 
+
+
+Line 56408: Unrecognized formatting in SID section:
+	N034.17.03.00    W082.59.02.00 
+
+
+Line 56410: Unrecognized formatting in SID section:
+	N034.24.26.00    W082.47.26.00 
+
+
+Line 56412: Unrecognized formatting in SID section:
+	N034.23.41.00    W082.49.57.00 ;AND LOC RY 5
+
+
+Line 56416: Unrecognized formatting in SID section:
+	N034.42.09.00    W085.19.20.00 
+
+
+Line 56419: Unrecognized formatting in SID section:
+	N034.55.46.00    W085.13.16.00 
+
+
+Line 56422: Unrecognized formatting in SID section:
+	N034.49.49.00    W085.15.18.00 ;CHA ILS RY 02
+
+
+Line 56426: Unrecognized formatting in SID section:
+	N035.21.32.00    W085.04.52.00                                                  
+
+
+Line 56429: Unrecognized formatting in SID section:
+	N035.06.58.00    W085.09.02.00                                                 
+
+
+Line 56432: Unrecognized formatting in SID section:
+	N035.12.47.00    W085.06.57.00 ;CHA  ILS RY 20
+
+
+Line 56435: Unrecognized formatting in SID section:
+	N032.24.06.00    W085.07.16.00 
+
+
+Line 56437: Unrecognized formatting in SID section:
+	N032.20.50.00    W085.12.33.00 
+
+
+Line 56439: Unrecognized formatting in SID section:
+	N032.27.17.00    W085.04.12.00 
+
+
+Line 56441: Unrecognized formatting in SID section:
+	N032.24.07.00    W085.07.16.00 
+
+
+Line 56443: Unrecognized formatting in SID section:
+	N032.23.51.658 W085.09.37.479 ;CSG ILS RY 5 -----SEE LO ARTCC------
+
+
+Line 56447: Unrecognized formatting in SID section:
+	N035.59.23.00    W084.51.18.00 
+
+
+Line 56449: Unrecognized formatting in SID section:
+	N036.02.18.00    W084.43.17.00 
+
+
+Line 56451: Unrecognized formatting in SID section:
+	N035.57.59.00    W084.57.01.00 
+
+
+Line 56453: Unrecognized formatting in SID section:
+	N035.59.51.00    W084.53.42.00 ;ILS CSV RY 26
+
+
+Line 56457: Unrecognized formatting in SID section:
+	N034.36.39.00    W082.22.29.00 
+
+
+Line 56459: Unrecognized formatting in SID section:
+	N034.36.45.00    W082.21.16.00 
+
+
+Line 56461: Unrecognized formatting in SID section:
+	N034.45.28.00    W082.22.20.00 
+
+
+Line 56463: Unrecognized formatting in SID section:
+	N034.38.21.00    W082.21.13.00 ;GMU ILS RY 1 - SEE LO ARTCC-----
+
+
+Line 56468: Unrecognized formatting in SID section:
+	N034.40.55.00    W082.21.28.00 
+
+
+Line 56470: Unrecognized formatting in SID section:
+	N034.40.26.00    W082.23.16.00 
+
+
+Line 56472: Unrecognized formatting in SID section:
+	N034.47.32.00    W082.16.36.00 
+
+
+Line 56474: Unrecognized formatting in SID section:
+	N034.42.56.00    W082.21.23.00 ;ILS RY 4 GSP -------SEE LO ARTCC---------
+
+
+Line 56478: Unrecognized formatting in SID section:
+	N034.09.13.00    W083.58.58.00 
+
+
+Line 56480: Unrecognized formatting in SID section:
+	N034.03.05.00    W084.03.48.00 
+
+
+Line 56482: Unrecognized formatting in SID section:
+	N034.05.45.00    W084.00.11.00 
+
+
+Line 56484: Unrecognized formatting in SID section:
+	N034.01.58.00    W084.04.07.00 
+
+
+Line 56486: Unrecognized formatting in SID section:
+	N034.10.45.00    W083.54.12.00 
+
+
+Line 56488: Unrecognized formatting in SID section:
+	N034.09.53.00    W083.56.42.00 ;GVL LOC4
+
+
+Line 56493: Unrecognized formatting in SID section:
+	N035.50.16.00   W081.10.43.00 
+
+
+Line 56495: Unrecognized formatting in SID section:
+	N035.58.33.00   W080.58.04.00 
+
+
+Line 56497: Unrecognized formatting in SID section:
+	N035.44.41.00   W081.22.47.00 
+
+
+Line 56499: Unrecognized formatting in SID section:
+	N035.46.56.00   W081.16.37.00 
+
+
+Line 56502: Unrecognized formatting in SID section:
+	N032.09.45.00   W084.52.14.00 
+
+
+Line 56504: Unrecognized formatting in SID section:
+	N031.59.47.00   W084.41.38.00 ;HKY ILS RY 24
+
+
+Line 56513: Unrecognized formatting in SID section:
+	N032.33.46.00    W083.49.19.00 ;ILS 5
+
+
+Line 56527: Unrecognized formatting in SID section:
+	N036.01.08.00    W081.06.48.00 ;UKFLOC1 
+
+
+Line 56540: Unrecognized formatting in SID section:
+	N032.19.15.00    W086.37.00.00 ; MGMILS9
+
+
+Line 56552: Unrecognized formatting in SID section:
+	N032.16.46.00    W086.09.29.00 ;MGMILS27
+
+
+Line 56561: Unrecognized formatting in SID section:
+	N036.38.00.00    W082.11.55.00 ;TRILS23
+
+
+Line 56570: Unrecognized formatting in SID section:
+	N036.24.58.00    W081.18.11.00 ;GEVLC27
+
+
+Line 56579: Unrecognized formatting in SID section:
+	N033.54.08.00    W083.32.37.00 ;WDRLOC31
+
+
+Line 56586: Unrecognized formatting in SID section:
+	N032.48.05.00    W083.43.35.00 ;WRBILS15
+
+
+Line 56593: Unrecognized formatting in SID section:
+	N032.27.22.00    W083.26.05.00 ;WRBILS33
+
+
+Line 56598: Unrecognized formatting in SID section:
+	N035.57.53.00    W081.05.29.00 ;UKFLOC1
+
+
+Line 56606: Unrecognized formatting in SID section:
+	N032.24.47.00    W085.25.10.00 ;AUOLOC36
+
+
+Line 56615: Unrecognized formatting in SID section:
+	N033.44.12.00    W082.47.05.00 ;3J7LOC
+
+
+Line 56618: Unrecognized formatting in SID section:
+	 N033.50.11.00    W082.05.04.00;ILSRY17AGS-------see geo----
+
+
+Line 56621: Unrecognized formatting in SID section:
+	 N032.55.09.00    W081.51.22.00;ILS RY 35 AGS ---SEE GEOO------
+
+
+Line 56625: Unrecognized formatting in SID section:
+	 N032.13.24.00    W085.24.25.00;GCS ILS RY 5 --------------SEE GEO
+
+
+Line 56628: Unrecognized formatting in SID section:
+	 N034.22.59.00    W082.21.37.00 ; GMU ILS 1 ----SEE GEO-----
+
+
+Line 56631: Unrecognized formatting in SID section:
+	 N034.30.12.00    W082.31.02.00;GSP ILS 4 ----SEE LOW GEO------
+
+
+Line 56634: Unrecognized formatting in SID section:
+	 N032.14.03.00    W083.14.45.00
+
+
+Line 56676: Unrecognized formatting in SID section:
+		N036.30.15.00    W080.14.15.00; PINEHILL GATE
+
+
+Line 56678: Unrecognized formatting in SID section:
+		N036.10.30.00    W080.34.20.00;CAVAD GATE
+
+
+Line 77872: Unknown fix specified in segment: GUNDE:
+                           MAPEE         MAPEE         GUNDE         GUNDE
+
+
+Line 77872: Unknown fix specified in segment: GUNDE:
+                           MAPEE         MAPEE         GUNDE         GUNDE
+
+
+Line 78598: Unrecognized formatting in SID section:
+                           .
+
+
+Line 116827: Unknown fix specified in segment: 0:
++GSO 23 (Greensboro) 118.50                                           N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000
+
+
+Line 133986: Unknown fix specified in segment: PUMIF:
+                          TRBOW TRBOW PUMIF PUMIF
+
+
+Line 133986: Unknown fix specified in segment: PUMIF:
+                          TRBOW TRBOW PUMIF PUMIF
+
+
+Line 133987: Unknown fix specified in segment: PUMIF:
+                          PUMIF PUMIF TUCKR TUCKR		   
+
+
+Line 133987: Unknown fix specified in segment: PUMIF:
+                          PUMIF PUMIF TUCKR TUCKR		   
+
+
+Line 134100: Unknown fix specified in segment: SORTE:
+                          LIB	LIB   SORTE SORTE
+
+
+Line 134100: Unknown fix specified in segment: SORTE:
+                          LIB	LIB   SORTE SORTE
+
+
+Line 134101: Unknown fix specified in segment: SORTE:
+                          SORTE SORTE MAJIC MAJIC
+
+
+Line 134101: Unknown fix specified in segment: SORTE:
+                          SORTE SORTE MAJIC MAJIC
+
+
+Line 134211: Unknown fix specified in segment: MEGGY:
+                          CRAMM CRAMM MEGGY MEGGY
+
+
+Line 134211: Unknown fix specified in segment: MEGGY:
+                          CRAMM CRAMM MEGGY MEGGY
+
+
+Line 134212: Unknown fix specified in segment: MEGGY:
+                          OTB   OTB   MEGGY MEGGY
+
+
+Line 134212: Unknown fix specified in segment: MEGGY:
+                          OTB   OTB   MEGGY MEGGY
+
+
+Line 134213: Unknown fix specified in segment: MEGGY:
+                          MEGGY MEGGY HLI   HLI  
+
+
+Line 134213: Unknown fix specified in segment: MEGGY:
+                          MEGGY MEGGY HLI   HLI  
+
+
+Line 134217: Unknown fix specified in segment: ONXUV:
+	                  ATL   ATL   ONXUV ONXUV
+
+
+Line 134217: Unknown fix specified in segment: ONXUV:
+	                  ATL   ATL   ONXUV ONXUV
+
+
+Line 134218: Unknown fix specified in segment: ONXUV:
+                          ONXUV ONXUV GQO   GQO  
+
+
+Line 134218: Unknown fix specified in segment: ONXUV:
+                          ONXUV ONXUV GQO   GQO  
+
+
+Line 134233: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134252: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134275: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134294: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134316: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134335: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134357: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134376: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134398: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134417: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134443: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134462: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134484: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134503: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134525: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134544: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134566: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134585: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134607: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134626: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134653: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134672: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134694: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134713: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134735: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134754: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134776: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134795: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134817: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134836: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134863: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134882: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134904: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134923: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134945: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 134964: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 134986: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135005: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135028: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135047: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135069: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135088: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135115: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135134: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135156: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135175: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135198: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135217: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135243: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135262: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135284: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135303: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135325: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135344: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135371: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135390: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135412: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135431: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135453: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135472: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135494: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135513: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135535: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135554: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135578: Unrecognized formatting in STAR section:
+Outbound turn arc
+
+
+Line 135597: Unrecognized formatting in STAR section:
+Inbound Turn arc
+
+
+Line 135658: Unknown fix specified in segment: -------------------------------:
+---------------------------------------------------------                      N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000	
+
+
+Line 135661: Unknown fix specified in segment: ============================:
+======================================================                         N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000
+
+
+Line 136776: Unrecognized formatting in STAR section:
+=====ADJACENT SECTORS======	
+
+
+Line 136796: Unknown fix specified in segment: ------------------------:
+ ------------------------ N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000
+
+
+Line 137407: Unrecognized formatting in GEO section:
+KASN; 
+
+
+Line 137485: Unrecognized formatting in GEO section:
+KBHM;
 
 =====================================================================
 End
