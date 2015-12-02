@@ -17,6 +17,9 @@ vZTL Alias File v1.2
 .natclt .autotrack -KCLT -KJQF -KVUJ
 .atouters .autotrack KWRB KMCN KLSF KCSG  KAHN 
 .natouters .autotrack -KWRB -KMCN -KLSF -KCSG -KAHN 
+.la .rsb
+.lb .rsb
+.qpj .seprings
 
 ---CLEARANCES---
 .clrd  Cleared to $arr, via $route. Maintain $temp, expect $cruise one zero minutes after departure. Departure radar services not online, squawk $squawk.
@@ -338,47 +341,41 @@ NOTE: For text traffic advisories, select the aircraft you wish to send the advi
 ---diagrams--- 
 --AUGUSTA---
 .stuge .fd STUGE3
-.stwrt .fd STWRT2
-.chatt .fd CHATT3
+.stwrt .fd STWRT2     
+.chatt .fd CHATT4     
 .dover .fd DOVER3
 .junpr .fd JUNPR3
 .kaoln .fd KAOLN4
 .rdbud .fd RDBUD2
-.SAMMI .fd SAMMI2
+.SAMMI .fd SAMMI3
 --ATL ARRS--
 .bnele .fd BNELE1
-.canuk .fd CANUK2
-.dirty .fd DIRTY1
-.erlin .fd ERLIN1
+.dirty .fd DIRTY3
 .evule .fd EVULE1
-.flcon .fd FLCON8
-.herko .fd HERKO7
-.honie .fd HONIE9
 .koltt .fd KOLTT1
-.lgc .fd LGC3
+.lgc .fd LGC4
 .onyon .fd ONYON1
-.pechy .fd PECHY8
 .rmg .fd RMG5
 .rptor .fd RPTOR3
 .sinca .fd SINCA6
 .warrr .fd WARRR1
-.whinz .fd WHINZ2
+.whinz .fd WHINZ3
 ---ATL DEP---
-.bravs .fd BRAVS7
-.cadit .fd CADIT7
-.cokem .fd COKEM6
-.dawgs .fd DAWGS6
-.dooly .fd DOOLY6
-.geetk .fd GEETK7
-.jckts .fd JCKTS7
-.jogor .fd JOGOR5
-.munsn .fd MUNSN6
-.novss .fd NOVSS5
-.nuggt .fd NUGGT6
-.pnutt .fd PNUTT7
-.rmbln .fd RMBLN7
-.summt .fd SUMMT6
-.thrsr .fd THRSR5
+.bravs .fd BRAVS9
+.cadit .fd CADIT1
+.cokem .fd COKEM9
+.dawgs .fd DAWGS8
+.dooly .fd DOOLY8
+.geetk .fd GEETK9
+.jckts .fd JCKTS9
+.jogor .fd JOGOR7
+.munsn .fd MUNSN8
+.novss .fd NOVSS7
+.nuggt .fd NUGGT9
+.pnutt .fd PNUTT9
+.rmbln .fd RMBLN9
+.summt .fd SUMMT9
+.thrsr .fd THRSR9
 .ugaaa .fd UGAAA6
 -A80 SAT ARRS-
 .awson .fd AWSON2
@@ -388,29 +385,36 @@ NOTE: For text traffic advisories, select the aircraft you wish to send the advi
 .trbow .fd TRBOW9
 -CLT ARRS-
 .adena .fd ADENA3
+.btsey .fd BTSEY1
 .ctf .fd CTF3
+.flipz .fd FLIPZ1
 .hustn .fd HUSTN2
+.ivane .fd IVANE5
 .johns .fd JOHNS3
 .majic .fd MAJIC1
+.parqr .fd PARQR1
 .shine .fd SHINE6 
 .sudsy .fd SUDSY4
-.unarm .fd UNARM1
+.unarm .fd UNARM3
 .nascr .fd NASCR1
 ---CLT DEP---
-.andys .fd ANDYS7
-.bob .fd BOB5
-.buckl .fd BUCKL7
-.debie .fd DEBIE6
-.hor .fd HOR7
-.hug .fd HUG2
-.jacal .fd JACAL6
-.lills .fd LILLS6
-.meril .fd MERIL6
-.pan .fd PAN2
-.zaver .fd ZAVER2
+.andys .fd ANDYS8
+.bob .fd BOB6
+.bobzy .fd BOBZY1
+.buckl .fd BUCKL8
+.debie .fd DEBIE7
+.hor .fd HOR8
+.hug .fd HUG3
+.jacal .fd JACAL7
+.jojjo .fd JOJJO1
+.kritr .fd KRITR1
+.lills .fd LILLS7
+.meril .fd MERIL7
+.pan .fd PAN3
+.zaver .fd ZAVER3
 ---GSO ARR---
 .blocc .fd BLOCC1
-.brook .fd BROOK2
+.brook .fd BROOK3
 .henby .fd HENBY2
 .smokn .fd SMOKN3
 ---GSO DEP---
