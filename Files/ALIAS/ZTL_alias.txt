@@ -124,7 +124,7 @@ vZTL Alias File v1.2
 .futbl wind $wind($dep), RNAV to FUTBL, runway 27R, cleared for takeoff.
 .wekin wind $wind($dep), RNAV to WEKIN, runway 18R, cleared for takeoff.
 .hisor wind $wind($dep), RNAV to HISOR, runway 18L, cleared for takeoff.
-.grigy wind $wind($dep), RNAV to GIRGY, runway 18C, cleared for takeoff.
+.girgy wind $wind($dep), RNAV to GIRGY, runway 18C, cleared for takeoff.
 .jimal wind $wind($dep), RNAV to JIMAL, runway 36L, cleared for takeoff.
 .ebawi wind $wind($dep), RNAV to EBAWI, runway 36C, cleared for takeoff.
 .kayfo wind $wind($dep), RNAV to KAYFO, runway 36R, cleared for takeoff.
