@@ -7,10 +7,10 @@ File path: L:\Dropbox\vZTL\Sectorfile\GIT\vZTL-VRC\Files\SCT\ZTL.sct2
 Pass 1 time:        less than 1 second
 Pass 2 time:        1 second
 
-Lines in file:      142221
-Comments:           277
-Blank lines:        1121
-Parsed lines:       140823
+Lines in file:      142280
+Comments:           281
+Blank lines:        1122
+Parsed lines:       140877
 Erroneous lines:    23842
 
 VORs:               0
@@ -25,7 +25,7 @@ SIDs:               134
 STARs:              169
 Low Airways:        272
 High Airways:       144
-Geo Segments:       35270
+Geo Segments:       35324
 Regions:            0
 Labels:             0
 
