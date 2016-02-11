@@ -2,30 +2,30 @@
 VRC Sector file parse results:
 =====================================================================
 
-File path: L:\Dropbox\vZTL\Sectorfile\GIT\vZTL-VRC\Files\SCT\CLTASDEX.sct2
+File path: Files\SCT\CLT.sct2
 
 Pass 1 time:        less than 1 second
-Pass 2 time:        less than 1 second
+Pass 2 time:        1 second
 
-Lines in file:      7211
-Comments:           96
-Blank lines:        7
-Parsed lines:       7108
-Erroneous lines:    1
+Lines in file:      228840
+Comments:           115
+Blank lines:        24010
+Parsed lines:       204715
+Erroneous lines:    123
 
-VORs:               0
-NDBs:               0
-Fixes:              0
-Airports:           0
+VORs:               1164
+NDBs:               402
+Fixes:              23210
+Airports:           6525
 Runways:            0
 ARTCC Borders:      0
 ARTCC High Borders: 0
 ARTCC Low Borders:  0
-SIDs:               0
-STARs:              0
-Low Airways:        0
-High Airways:       0
-Geo Segments:       0
+SIDs:               23
+STARs:              24
+Low Airways:        272
+High Airways:       144
+Geo Segments:       5029
 Regions:            93
 Labels:             111
 
@@ -35,6 +35,494 @@ Error details:
 
 Line 1: Orphaned line:
 vZTL Charlotte Sector File
+
+
+Line 31899: Unknown fix specified in segment: PISSI:
+V11                       MIOLA          MIOLA          PISSI          PISSI          
+
+
+Line 31899: Unknown fix specified in segment: PISSI:
+V11                       MIOLA          MIOLA          PISSI          PISSI          
+
+
+Line 31900: Unknown fix specified in segment: PISSI:
+V11                       PISSI          PISSI          NOYIK          NOYIK          
+
+
+Line 31900: Unknown fix specified in segment: PISSI:
+V11                       PISSI          PISSI          NOYIK          NOYIK          
+
+
+Line 31900: Unknown fix specified in segment: NOYIK:
+V11                       PISSI          PISSI          NOYIK          NOYIK          
+
+
+Line 31900: Unknown fix specified in segment: NOYIK:
+V11                       PISSI          PISSI          NOYIK          NOYIK          
+
+
+Line 31901: Unknown fix specified in segment: NOYIK:
+V11                       NOYIK          NOYIK          OSORY          OSORY          
+
+
+Line 31901: Unknown fix specified in segment: NOYIK:
+V11                       NOYIK          NOYIK          OSORY          OSORY          
+
+
+Line 31943: Unknown fix specified in segment: ROSES:
+V12                       ZARHO          ZARHO          ROSES          ROSES          
+
+
+Line 31943: Unknown fix specified in segment: ROSES:
+V12                       ZARHO          ZARHO          ROSES          ROSES          
+
+
+Line 31944: Unknown fix specified in segment: ROSES:
+V12                       ROSES          ROSES          OZMOE          OZMOE          
+
+
+Line 31944: Unknown fix specified in segment: ROSES:
+V12                       ROSES          ROSES          OZMOE          OZMOE          
+
+
+Line 31945: Unknown fix specified in segment: HEVAV:
+V12                       OZMOE          OZMOE          HEVAV          HEVAV          
+
+
+Line 31945: Unknown fix specified in segment: HEVAV:
+V12                       OZMOE          OZMOE          HEVAV          HEVAV          
+
+
+Line 31946: Unknown fix specified in segment: HEVAV:
+V12                       HEVAV          HEVAV          SHB            SHB            
+
+
+Line 31946: Unknown fix specified in segment: HEVAV:
+V12                       HEVAV          HEVAV          SHB            SHB            
+
+
+Line 32038: Unknown fix specified in segment: DUCYE:
+V16                       CUREY          CUREY          DUCYE          DUCYE          
+
+
+Line 32038: Unknown fix specified in segment: DUCYE:
+V16                       CUREY          CUREY          DUCYE          DUCYE          
+
+
+Line 32039: Unknown fix specified in segment: DUCYE:
+V16                       DUCYE          DUCYE          JKS            JKS            
+
+
+Line 32039: Unknown fix specified in segment: DUCYE:
+V16                       DUCYE          DUCYE          JKS            JKS            
+
+
+Line 32236: Unknown fix specified in segment: TRYBE:
+V26                       GEMNI          GEMNI          TRYBE          TRYBE          
+
+
+Line 32236: Unknown fix specified in segment: TRYBE:
+V26                       GEMNI          GEMNI          TRYBE          TRYBE          
+
+
+Line 32237: Unknown fix specified in segment: TRYBE:
+V26                       TRYBE          TRYBE          DJB            DJB            
+
+
+Line 32237: Unknown fix specified in segment: TRYBE:
+V26                       TRYBE          TRYBE          DJB            DJB            
+
+
+Line 32657: Unknown fix specified in segment: BARRY:
+V52                       BWG            BWG            BARRY          BARRY          
+
+
+Line 32657: Unknown fix specified in segment: BARRY:
+V52                       BWG            BWG            BARRY          BARRY          
+
+
+Line 32658: Unknown fix specified in segment: BARRY:
+V52                       BARRY          BARRY          FLIPU          FLIPU          
+
+
+Line 32658: Unknown fix specified in segment: BARRY:
+V52                       BARRY          BARRY          FLIPU          FLIPU          
+
+
+Line 32691: Unknown fix specified in segment: ROSES:
+V53                       ICUCO          ICUCO          ROSES          ROSES          
+
+
+Line 32691: Unknown fix specified in segment: ROSES:
+V53                       ICUCO          ICUCO          ROSES          ROSES          
+
+
+Line 32692: Unknown fix specified in segment: ROSES:
+V53                       ROSES          ROSES          VHP            VHP            
+
+
+Line 32692: Unknown fix specified in segment: ROSES:
+V53                       ROSES          ROSES          VHP            VHP            
+
+
+Line 32764: Unknown fix specified in segment: SAFFO:
+V56                       JAILS          JAILS          SAFFO          SAFFO          
+
+
+Line 32764: Unknown fix specified in segment: SAFFO:
+V56                       JAILS          JAILS          SAFFO          SAFFO          
+
+
+Line 32765: Unknown fix specified in segment: SAFFO:
+V56                       SAFFO          SAFFO          BENTO          BENTO          
+
+
+Line 32765: Unknown fix specified in segment: SAFFO:
+V56                       SAFFO          SAFFO          BENTO          BENTO          
+
+
+Line 32827: Unknown fix specified in segment: WARAB:
+V63                       GAMPS          GAMPS          WARAB          WARAB          
+
+
+Line 32827: Unknown fix specified in segment: WARAB:
+V63                       GAMPS          GAMPS          WARAB          WARAB          
+
+
+Line 32828: Unknown fix specified in segment: WARAB:
+V63                       WARAB          WARAB          CITGA          CITGA          
+
+
+Line 32828: Unknown fix specified in segment: WARAB:
+V63                       WARAB          WARAB          CITGA          CITGA          
+
+
+Line 32911: Unknown fix specified in segment: UGUSE:
+V69                       HILLE          HILLE          UGUSE          UGUSE          
+
+
+Line 32911: Unknown fix specified in segment: UGUSE:
+V69                       HILLE          HILLE          UGUSE          UGUSE          
+
+
+Line 32912: Unknown fix specified in segment: UGUSE:
+V69                       UGUSE          UGUSE          ARG            ARG            
+
+
+Line 32912: Unknown fix specified in segment: UGUSE:
+V69                       UGUSE          UGUSE          ARG            ARG            
+
+
+Line 32940: Unknown fix specified in segment: BTR:
+V70                       TATER          TATER          BTR            BTR            
+
+
+Line 32940: Unknown fix specified in segment: BTR:
+V70                       TATER          TATER          BTR            BTR            
+
+
+Line 32941: Unknown fix specified in segment: BTR:
+V70                       BTR            BTR            DILLS          DILLS          
+
+
+Line 32941: Unknown fix specified in segment: BTR:
+V70                       BTR            BTR            DILLS          DILLS          
+
+
+Line 32981: Unknown fix specified in segment: BTR:
+V71                       BTR            BTR            RELAY          RELAY          
+
+
+Line 32981: Unknown fix specified in segment: BTR:
+V71                       BTR            BTR            RELAY          RELAY          
+
+
+Line 33116: Unknown fix specified in segment: DUCYE:
+V94                       CUREY          CUREY          DUCYE          DUCYE          
+
+
+Line 33116: Unknown fix specified in segment: DUCYE:
+V94                       CUREY          CUREY          DUCYE          DUCYE          
+
+
+Line 33117: Unknown fix specified in segment: DUCYE:
+V94                       DUCYE          DUCYE          JKS            JKS            
+
+
+Line 33117: Unknown fix specified in segment: DUCYE:
+V94                       DUCYE          DUCYE          JKS            JKS            
+
+
+Line 33118: Unknown fix specified in segment: CUBYA:
+V94                       JKS            JKS            CUBYA          CUBYA          
+
+
+Line 33118: Unknown fix specified in segment: CUBYA:
+V94                       JKS            JKS            CUBYA          CUBYA          
+
+
+Line 33119: Unknown fix specified in segment: CUBYA:
+V94                       CUBYA          CUBYA          VALER          VALER          
+
+
+Line 33119: Unknown fix specified in segment: CUBYA:
+V94                       CUBYA          CUBYA          VALER          VALER          
+
+
+Line 33244: Unknown fix specified in segment: BTR:
+V114                      ALIYA          ALIYA          BTR            BTR            
+
+
+Line 33244: Unknown fix specified in segment: BTR:
+V114                      ALIYA          ALIYA          BTR            BTR            
+
+
+Line 33245: Unknown fix specified in segment: BTR:
+V114                      BTR            BTR            VEILS          VEILS          
+
+
+Line 33245: Unknown fix specified in segment: BTR:
+V114                      BTR            BTR            VEILS          VEILS          
+
+
+Line 33342: Unknown fix specified in segment: OTOBE:
+V124                      MIOLA          MIOLA          OTOBE          OTOBE          
+
+
+Line 33342: Unknown fix specified in segment: OTOBE:
+V124                      MIOLA          MIOLA          OTOBE          OTOBE          
+
+
+Line 33343: Unknown fix specified in segment: OTOBE:
+V124                      OTOBE          OTOBE          JKS            JKS            
+
+
+Line 33343: Unknown fix specified in segment: OTOBE:
+V124                      OTOBE          OTOBE          JKS            JKS            
+
+
+Line 33373: Unknown fix specified in segment: CARRF:
+V128                      OZMOE          OZMOE          CARRF          CARRF          
+
+
+Line 33373: Unknown fix specified in segment: CARRF:
+V128                      OZMOE          OZMOE          CARRF          CARRF          
+
+
+Line 33374: Unknown fix specified in segment: CARRF:
+V128                      CARRF          CARRF          NOBYI          NOBYI          
+
+
+Line 33374: Unknown fix specified in segment: CARRF:
+V128                      CARRF          CARRF          NOBYI          NOBYI          
+
+
+Line 33491: Unknown fix specified in segment: REDBE:
+V140                      FALUG          FALUG          REDBE          REDBE          
+
+
+Line 33491: Unknown fix specified in segment: REDBE:
+V140                      FALUG          FALUG          REDBE          REDBE          
+
+
+Line 33492: Unknown fix specified in segment: REDBE:
+V140                      REDBE          REDBE          GREEM          GREEM          
+
+
+Line 33492: Unknown fix specified in segment: REDBE:
+V140                      REDBE          REDBE          GREEM          GREEM          
+
+
+Line 33508: Unknown fix specified in segment: UBOTE:
+V140                      HELMS          HELMS          UBOTE          UBOTE          
+
+
+Line 33508: Unknown fix specified in segment: UBOTE:
+V140                      HELMS          HELMS          UBOTE          UBOTE          
+
+
+Line 33509: Unknown fix specified in segment: UBOTE:
+V140                      UBOTE          UBOTE          DYR            DYR            
+
+
+Line 33509: Unknown fix specified in segment: UBOTE:
+V140                      UBOTE          UBOTE          DYR            DYR            
+
+
+Line 33510: Unknown fix specified in segment: OSYES:
+V140                      DYR            DYR            OSYES          OSYES          
+
+
+Line 33510: Unknown fix specified in segment: OSYES:
+V140                      DYR            DYR            OSYES          OSYES          
+
+
+Line 33511: Unknown fix specified in segment: OSYES:
+V140                      OSYES          OSYES          GOSHN          GOSHN          
+
+
+Line 33511: Unknown fix specified in segment: OSYES:
+V140                      OSYES          OSYES          GOSHN          GOSHN          
+
+
+Line 33669: Unknown fix specified in segment: WUXTE:
+V157                      AYS            AYS            WUXTE          WUXTE          
+
+
+Line 33669: Unknown fix specified in segment: WUXTE:
+V157                      AYS            AYS            WUXTE          WUXTE          
+
+
+Line 33670: Unknown fix specified in segment: WUXTE:
+V157                      WUXTE          WUXTE          AMG            AMG            
+
+
+Line 33670: Unknown fix specified in segment: WUXTE:
+V157                      WUXTE          WUXTE          AMG            AMG            
+
+
+Line 33811: Unknown fix specified in segment: CLINN:
+V171                      TTH            TTH            CLINN          CLINN          
+
+
+Line 33811: Unknown fix specified in segment: CLINN:
+V171                      TTH            TTH            CLINN          CLINN          
+
+
+Line 33812: Unknown fix specified in segment: CLINN:
+V171                      CLINN          CLINN          JAZZY          JAZZY          
+
+
+Line 33812: Unknown fix specified in segment: CLINN:
+V171                      CLINN          CLINN          JAZZY          JAZZY          
+
+
+Line 33956: Unknown fix specified in segment: BTR:
+V194                      TATER          TATER          BTR            BTR            
+
+
+Line 33956: Unknown fix specified in segment: BTR:
+V194                      TATER          TATER          BTR            BTR            
+
+
+Line 33957: Unknown fix specified in segment: BTR:
+V194                      BTR            BTR            CAZZZ          CAZZZ          
+
+
+Line 33957: Unknown fix specified in segment: BTR:
+V194                      BTR            BTR            CAZZZ          CAZZZ          
+
+
+Line 34398: Unknown fix specified in segment: SOMAR:
+V266                      FKN            FKN            SOMAR          SOMAR          
+
+
+Line 34398: Unknown fix specified in segment: SOMAR:
+V266                      FKN            FKN            SOMAR          SOMAR          
+
+
+Line 34399: Unknown fix specified in segment: SOMAR:
+V266                      SOMAR          SOMAR          DRONE          DRONE          
+
+
+Line 34399: Unknown fix specified in segment: SOMAR:
+V266                      SOMAR          SOMAR          DRONE          DRONE          
+
+
+Line 35391: Unknown fix specified in segment: WARAB:
+V527                      GAMPS          GAMPS          WARAB          WARAB          
+
+
+Line 35391: Unknown fix specified in segment: WARAB:
+V527                      GAMPS          GAMPS          WARAB          WARAB          
+
+
+Line 35392: Unknown fix specified in segment: WARAB:
+V527                      WARAB          WARAB          CITGA          CITGA          
+
+
+Line 35392: Unknown fix specified in segment: WARAB:
+V527                      WARAB          WARAB          CITGA          CITGA          
+
+
+Line 35536: Unknown fix specified in segment: BTR:
+V559                      SALVO          SALVO          BTR            BTR            
+
+
+Line 35536: Unknown fix specified in segment: BTR:
+V559                      SALVO          SALVO          BTR            BTR            
+
+
+Line 35649: Unknown fix specified in segment: BTR:
+J2                        LCH            LCH            BTR            BTR            
+
+
+Line 35649: Unknown fix specified in segment: BTR:
+J2                        LCH            LCH            BTR            BTR            
+
+
+Line 35650: Unknown fix specified in segment: BTR:
+J2                        BTR            BTR            SJI            SJI            
+
+
+Line 35650: Unknown fix specified in segment: BTR:
+J2                        BTR            BTR            SJI            SJI            
+
+
+Line 36305: Unknown fix specified in segment: BTR:
+J138                      LCH            LCH            BTR            BTR            
+
+
+Line 36305: Unknown fix specified in segment: BTR:
+J138                      LCH            LCH            BTR            BTR            
+
+
+Line 36306: Unknown fix specified in segment: BTR:
+J138                      BTR            BTR            SJI            SJI            
+
+
+Line 36306: Unknown fix specified in segment: BTR:
+J138                      BTR            BTR            SJI            SJI            
+
+
+Line 36490: Unknown fix specified in segment: BTR:
+J590                      LCH            LCH            BTR            BTR            
+
+
+Line 36490: Unknown fix specified in segment: BTR:
+J590                      LCH            LCH            BTR            BTR            
+
+
+Line 36491: Unknown fix specified in segment: BTR:
+J590                      BTR            BTR            GCV            GCV            
+
+
+Line 36491: Unknown fix specified in segment: BTR:
+J590                      BTR            BTR            GCV            GCV            
+
+
+Line 36520: Unknown fix specified in segment: BTR:
+Q24                       LCH            LCH            BTR            BTR            
+
+
+Line 36520: Unknown fix specified in segment: BTR:
+Q24                       LCH            LCH            BTR            BTR            
+
+
+Line 36521: Unknown fix specified in segment: BTR:
+Q24                       BTR            BTR            IRUBE          IRUBE          
+
+
+Line 36521: Unknown fix specified in segment: BTR:
+Q24                       BTR            BTR            IRUBE          IRUBE          
+
+
+Line 43329: Unrecognized formatting in SID section:
+N035.12.51.250 W080.56.51.600 N035.12.51.250 W080.56.51.600
+
+
+Line 117452: Unrecognized formatting in SID section:
+N035.12.51.250 W080.56.51.600 N035.12.51.250 W080.56.51.600
 
 =====================================================================
 End
