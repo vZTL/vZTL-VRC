@@ -1,6 +1,5 @@
 vZTL Alias File v1.2
 
-
 ---MISC---
 .cyrv can you receive voice?
 .a80vpts .vis *RATL *RMCN *RCSG *RLZU
@@ -59,26 +58,26 @@ vZTL Alias File v1.2
 .ss squawk standby.
 .sqbad check squawk, squawk $squawk.
 .sq squawk $squawk
-.taxi runway $1, taxi via  $uc($2 $3 $4 $5 $6 $7 $8 $9).
-.taxi26L runway 26L, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi27R runway 27R, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi8R runway 8R, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi9L runway 9L, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi10 runway 10, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi28 runway 28, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi5 runway 5, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi18C runway 18C, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi18L runway 18L, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi23 runway 23, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi36R runway 36R, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxi36C runway 36C, taxi via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.taxih26R runway 26L, taxi via $uc($1 $2 $3 $4 $5 $6), hold short runway 26R. 
-.taxih27L runway 27R, taxi via $uc($1 $2 $3 $4 $5 $6), hold short runway 27L.
-.taxih8L runway 8R, taxi via $uc($1 $2 $3 $4 $5 $6), hold short runway 8L.
-.taxih9R runway 9L, taxi via $uc($1 $2 $3 $4 $5 $6), hold short runway 9R.
-.tpark taxi to parking via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9). 
-.tramp taxi to the ramp via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
-.ramp taxi to the ramp via $uc($1 $2 $3 $4 $5 $6 $7 $8 $9).
+.taxi runway $uc($1), taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi26L runway 26L, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi27R runway 27R, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi8R runway 8R, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi9L runway 9L, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi10 runway 10, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi28 runway 28, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi5 runway 5, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi18C runway 18C, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi18L runway 18L, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi23 runway 23, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi36R runway 36R, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxi36C runway 36C, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.taxih26R runway 26L, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9), hold short runway 26R. 
+.taxih27L runway 27R, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9), hold short runway 27L.
+.taxih8L runway 8R, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9), hold short runway 8L.
+.taxih9R runway 9L, taxi via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9), hold short runway 9R.
+.tpark taxi to parking via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9). 
+.tramp taxi to the ramp via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
+.ramp taxi to the ramp via $uc($2) $uc($3) $uc($4) $uc($5) $uc($6) $uc($7) $uc($8) $uc($9).
 .c26Ltpark cross runway 26L, join $1, taxi to the ramp.
 .c27Rtpark cross runway 27R, join $1, taxi to the ramp.
 .c8Rtpark cross runway 8R, join $1, taxi to the ramp.
