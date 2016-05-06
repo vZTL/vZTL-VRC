@@ -153,6 +153,19 @@ For Questions or Support please utilize the Facility Documentation and Software 
 
 
 =======================================================================================================
+<h3>vZTL VRC version 1.4  AIRAC 1605</h3>
 
+Attention vZTL Controllers,
+
+vZTL VRC Version 1.4 1605 has been released.<br>
+
+<b><u>Updates:</b></u><br>
+AIRAC Updated<br>
+Taxi ALIAS fixes for vSTARS<br>
+New ATL SIDs added<br>
+CLT taxiway D updated<br>
+AVL runway 35/17 Added<br>
+
+=======================================================================================================
 
 vZTL VRC
